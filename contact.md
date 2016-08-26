@@ -24,7 +24,7 @@ order: 100
         <input type="text" class="form-control" placeholder="Email" name="_replyto" aria-describedby="basic-addon1">
       </div>
     </div>
-
+  <br>
   </div>
   <br>
 

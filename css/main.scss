@@ -3,8 +3,6 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -47,3 +45,18 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+@import '../_sass/bootstrap';
+
+@font-face{
+  font-family:'Glyphicons Halflings';
+  src: image-url("bootstrap/glyphicons-halflings-regular.eot");
+  src: image-url("bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"),
+       image-url("bootstrap/glyphicons-halflings-regular.woff") format("woff"),
+       image-url("bootstrap/glyphicons-halflings-regular.ttf") format("truetype"),
+       image-url("bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg")
+}
+
+textarea {
+  max-width: 100%
+}

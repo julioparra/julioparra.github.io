@@ -46,18 +46,9 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-@font-face{
-  font-family:'Glyphicons Halflings';
-  src: image-url("fonts/glyphicons-halflings-regular.eot");
-  src: image-url("fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"),
-       image-url("fonts/glyphicons-halflings-regular.woff") format("woff"),
-       image-url("fonts/glyphicons-halflings-regular.ttf") format("truetype"),
-       image-url("fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg")
-}
-
-$icon-font-path: "{{ site.github.url }}/fonts/";
-
 @import "bootstrap";
+
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 
 textarea {
   max-width: 100%

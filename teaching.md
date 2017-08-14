@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 order: 3
+published: false
 ---
 
 This will be the teaching page.

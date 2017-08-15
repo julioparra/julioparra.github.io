@@ -13,3 +13,4 @@ markdown: kramdown
 
 gems:
   - jekyll-bootstrap-sass
+  - jekyll-octicons

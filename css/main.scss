@@ -37,8 +37,6 @@ $on-laptop:        900px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -48,8 +46,11 @@ $on-laptop:        900px;
 
 // @import "bootstrap";
 
-@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
 
 textarea {
   max-width: 100%
+}
+
+form{
+  font-size: 100%
 }

@@ -1,15 +1,32 @@
 ---
 layout: default
 --- 
-![Alt text](/images/Julio.jpg)  
-Julio Parra Martinez  
-UCLA Physics & Astronomy,  
-475 Portola Plaza,  
-Los Angeles, CA 90095  
-United States
+<div class="row">
+<div class="col-3">
+<img src="/images/Julio.jpg">  
+</div>
+<div class="col-4">
+Julio Parra Martinez <br> 
+UCLA Physics & Astronomy, <br> 
+475 Portola Plaza,  <br>
+Los Angeles, CA 90095, <br>
+United States <br>
+<br>
+Knudsen Hall 4-108 <br>
+<a href="/contact/index.html">Contact </a>
+</div>
+<div class="col-1">
+</div>
+<div class="col-4">
+<img src="/images/UCLA_shield.png" style="width:150px;height:150px;">  
+</div>
+</div>
+<br>
 
-# Research #
 ***
+<br>
+# Research #
+
 ## Publications ##
 (at [INSPIRE](http://inspirehep.net/author/profile/J.Parra.Martinez.1))
 
@@ -17,7 +34,6 @@ United States
 | Manifesting enhanced cancellations in supergravity: integrands versus integrals | [arxiv:1703.08927](https://arxiv.org/abs/1703.08927) ([PDF](https://arxiv.org/pdf/1703.08927.pdf)) 
 |
 
-***
 
 ## Talks ##
 

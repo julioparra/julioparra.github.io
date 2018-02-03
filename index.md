@@ -34,4 +34,8 @@ Knudsen Hall 4-108 <br>
 | Curvature-squared multiplets, evanescent effects and the U(1) anomaly in N = 4 supergravity | [arXiv:1706.01486](https://arxiv.org/abs/1706.01486) ([PDF](https://arxiv.org/pdf/1706.01486.pdf)) |
 | Manifesting enhanced cancellations in supergravity: integrands versus integrals | [arxiv:1703.08927](https://arxiv.org/abs/1703.08927) ([PDF](https://arxiv.org/pdf/1703.08927.pdf)) |
 
+# Teaching #
+
+UCLA Physics 131A Discussion Winter 2018 ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  
+UCLA Physics 6B Discussion Fall 2017 ([material](https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1))
 

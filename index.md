@@ -36,11 +36,12 @@ Knudsen Hall 4-108 <br>
 
 ## Talks ##
 
-| December 2017: "QCD Meets Gravity" Workshop, UCLA, Los Angeles | ([slides](http://bhaumik-institute.physics.ucla.edu/Cancellation%20of%20anomalous%20amplitudes%20in%20N=4%20supergravity.pdf)) |
-| June 2017: “Scattering Amplitudes: from Gauge Theory to Gravity” Workshop, KITP, Santa Barbara | ([video](http://online.itp.ucsb.edu/online/scamp17/parramartinez)) |
-| December 2016: "Recent Developments in Fields, Strings, and Gravity", QMAP, UC Davis, Davis | ([website](http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program), [gong show slides]()) |
-| October 2016: "California Amplitudes Meeting", UCLA, Los Angeles | ([website](http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html)) |
-| June 2016: "California Amplitudes Meeting", QMAP, UC Davis, Davis  | ([website](http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting)) |
+| December 2017: "QCD Meets Gravity" Workshop, UCLA, Los Angeles | ([slides](/talks/201712_QCDmeetsGravity.pdf) ,[website](http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html)) |
+| June 2017: “Scattering Amplitudes: from Gauge Theory to Gravity” Workshop, KITP, Santa Barbara | ([video](http://online.itp.ucsb.edu/online/scamp17/parramartinez), [website](https://www.kitp.ucsb.edu/activities/scamp17)) |
+| December 2016: "Recent Developments in Fields, Strings, and Gravity" Gong Show, QMAP, UC Davis, Davis | ([slides](/talks/201612_FSGDavis.pdf), [website](http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program)) |
+| October 2016: "California Amplitudes Meeting", UCLA, Los Angeles  | ([website](http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html)) |
+| June 2016: "California Amplitudes Meeting", QMAP, UC Davis, Davis | ([website](http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting)) |
+
 # Teaching #
 
 UCLA Physics 131A Discussion Winter 2018 ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  

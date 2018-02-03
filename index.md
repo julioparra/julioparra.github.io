@@ -42,6 +42,8 @@ Knudsen Hall 4-108 <br>
 | October 2016: "California Amplitudes Meeting", UCLA, Los Angeles  | ([website](http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html)) |
 | June 2016: "California Amplitudes Meeting", QMAP, UC Davis, Davis | ([website](http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting)) |
 
+
+<br>
 # Teaching #
 
 UCLA Physics 131A Discussion Winter 2018 ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  

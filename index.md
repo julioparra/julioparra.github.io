@@ -46,6 +46,6 @@ Knudsen Hall 4-108 <br>
 <br>
 # Teaching #
 
-UCLA Physics 131A Discussion Winter 2018 ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  
-UCLA Physics 6B Discussion Fall 2017 ([material](https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1))
+Winter 2018: UCLA Physics 131A Discussion  ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  
+Fall 2017: UCLA Physics 6B Discussion ([material](https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1))
 

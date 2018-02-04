@@ -28,8 +28,14 @@ Knudsen Hall 4-108 <br>
 
 ### Research ###
 
-#### Publications ####
-(at [INSPIRE](http://inspirehep.net/author/profile/J.Parra.Martinez.1))
+<div class="row">
+<div class="col-10">
+<h4> Publications </h4>   
+</div>
+<div class="col-2" style="text-align:right">
+(at <a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>)
+</div>
+</div>
 
 <div class="row">
 <div class="col-10">
@@ -62,7 +68,9 @@ June 2016:     <a href="http://qmap.ucdavis.edu/events/events-past-events/amplit
 (<a href="/talks/201612_FSGDavis.pdf">slides</a>) <br>
 </div>
 </div>
+<br>
 
+***
 <br>
 ### Teaching ###
 

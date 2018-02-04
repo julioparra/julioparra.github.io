@@ -49,14 +49,14 @@ Knudsen Hall 4-108 <br>
 #### Talks ####
 
 <div class="row">
-<div class="col-10">
+<div class="col-11">
 December 2017: <a href="http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html">“QCD Meets Gravity”</a>  Workshop, UCLA, Los Angeles <br>
 June 2017:     <a href="https://www.kitp.ucsb.edu/activities/scamp17">“Scattering Amplitudes: from Gauge Theory to Gravity”</a> Workshop, KITP, Santa Barbara <br>
 December 2016: <a href="http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program">“Recent Developments in Fields, Strings, and Gravity”</a> Gong Show, QMAP, Davis <br>
 October 2016:  <a href="http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html">“California Amplitudes Meeting”</a>, UCLA, Los Angeles <br>
 June 2016:     <a href="http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting">“California Amplitudes Meeting”</a>, QMAP, Davis <br> 
 </div>
-<div class="col-2" style="text-align:right">
+<div class="col-1" style="text-align:right">
 (<a href="/talks/201712_QCDmeetsGravity.pdf">slides</a>) <br>
 (<a href="http://online.itp.ucsb.edu/online/scamp17/parramartinez">video</a>) <br>
 (<a href="/talks/201612_FSGDavis.pdf">slides</a>) <br>

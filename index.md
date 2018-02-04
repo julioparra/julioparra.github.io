@@ -15,9 +15,9 @@ United States <br>
 Knudsen Hall 4-108 <br>
 <a href="/contact/index.html">Contact </a>
 </div>
-<div class="col-2">
+<div class="col-1">
 </div>
-<div class="col-3">
+<div class="col-4">
 <img src="/images/UCLA_shield.png" style="width:180px;height:180px;float:right">  
 </div>
 </div>

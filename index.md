@@ -46,7 +46,7 @@ Knudsen Hall 4-108 <br>
 <div class="col-2" style="text-align:right">
   <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a>
   <a href="https://arxiv.org/abs/1706.01486">arXiv:1706.01486</a>
-  <a href="https://arxiv.org/abs/1703.08927">arxiv:1703.08927</a>
+  <a href="https://arxiv.org/abs/1703.08927">arXiv:1703.08927</a>
 </div>
 </div>
 
@@ -56,11 +56,11 @@ Knudsen Hall 4-108 <br>
 
 <div class="row">
 <div class="col-11">
-December 2017: <a href="http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html">“QCD Meets Gravity”</a>  Workshop, UCLA, Los Angeles <br>
-June 2017:     <a href="https://www.kitp.ucsb.edu/activities/scamp17">“Scattering Amplitudes: from Gauge Theory to Gravity”</a> Workshop, KITP, Santa Barbara <br>
-December 2016: <a href="http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program">“Recent Developments in Fields, Strings, and Gravity”</a> Gong Show, QMAP, Davis <br>
-October 2016:  <a href="http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html">“California Amplitudes Meeting”</a>, UCLA, Los Angeles <br>
-June 2016:     <a href="http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting">“California Amplitudes Meeting”</a>, QMAP, Davis <br> 
+12/2017: <a href="http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html">“QCD Meets Gravity”</a>  Workshop, UCLA, Los Angeles <br>
+06/2017:     <a href="https://www.kitp.ucsb.edu/activities/scamp17">“Scattering Amplitudes: from Gauge Theory to Gravity”</a> Workshop, KITP, Santa Barbara <br>
+12/2016: <a href="http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program">“Recent Developments in Fields, Strings, and Gravity”</a> Gong Show, QMAP, Davis <br>
+10/2016:  <a href="http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html">“California Amplitudes Meeting”</a>, UCLA, Los Angeles <br>
+06/2016:     <a href="http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting">“California Amplitudes Meeting”</a>, QMAP, Davis <br> 
 </div>
 <div class="col-1" style="text-align:right">
 (<a href="/talks/201712_QCDmeetsGravity.pdf">slides</a>) <br>

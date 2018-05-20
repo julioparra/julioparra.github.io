@@ -58,7 +58,7 @@ Knudsen Hall 4-108 <br>
 
 <div class="row">
 <div class="col-11">
-04/2018:  <a href="http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html">“California Amplitudes Meeting”</a>, SLAC, Menlo Park <br>
+04/2018:  <a href="">“California Amplitudes Meeting”</a>, SLAC, Menlo Park <br>
 03/2018:  <a href="http://www.tapir.caltech.edu/~pcgm34/">“34th Pacific Coast Gravity Meeting”</a>, Caltech, Pasadena <br>
 12/2017: <a href="http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html">“QCD Meets Gravity”</a>  Workshop, UCLA, Los Angeles <br>
 06/2017:     <a href="https://www.kitp.ucsb.edu/activities/scamp17">“Scattering Amplitudes: from Gauge Theory to Gravity”</a> Workshop, KITP, Santa Barbara <br>

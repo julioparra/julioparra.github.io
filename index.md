@@ -46,7 +46,7 @@ Knudsen Hall 4-108 <br>
  Manifesting enhanced cancellations in supergravity: integrands versus integrals  <br>
 </div>
 <div class="col-2" style="text-align:right">
-  <a href="https://arxiv.org/abs/1804.09311">arXiv:1806.06072</a>
+  <a href="https://arxiv.org/abs/1806.06072">arXiv:1806.06072</a>
   <a href="https://arxiv.org/abs/1804.09311">arXiv:1804.09311</a>
   <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a>
   <a href="https://arxiv.org/abs/1706.01486">arXiv:1706.01486</a>

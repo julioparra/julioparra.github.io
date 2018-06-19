@@ -39,12 +39,14 @@ Knudsen Hall 4-108 <br>
 
 <div class="row">
 <div class="col-10">
+ Bootstrapping two-loop Feynman integrals for planar N=4 sYM  <br>
  Ultraviolet properties of N=8 supergravity at five loops  <br>
  Cancelling the U(1) anomaly in the S-matrix of N=4 supergravity  <br>
  Curvature-squared multiplets, evanescent effects and the U(1) anomaly in N=4 supergravity  <br>
  Manifesting enhanced cancellations in supergravity: integrands versus integrals  <br>
 </div>
 <div class="col-2" style="text-align:right">
+  <a href="https://arxiv.org/abs/1804.09311">arXiv:1806.06072</a>
   <a href="https://arxiv.org/abs/1804.09311">arXiv:1804.09311</a>
   <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a>
   <a href="https://arxiv.org/abs/1706.01486">arXiv:1706.01486</a>

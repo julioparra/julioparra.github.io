@@ -28,8 +28,8 @@ Office: PAB 4-737 <br>
 ### Research ###
 
   <div class="row">
-    <div class="col-md-10 col-0"> Two-loop n-point anomalous amplitudes in N=4 supergravity  </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1905.06072">arXiv:1905.06072</a> </div>
+    <div class="col-md-10 col-0"> <h4> Publications </h4> </div>
+    <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
     <div class="col-md-10 col-0"> Bootstrapping two-loop Feynman integrals for planar N=4 sYM  </div>

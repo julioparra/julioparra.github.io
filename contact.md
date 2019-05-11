@@ -12,7 +12,8 @@ exclude: true
      <div class="form-group">
       <div class="input-group">
         <span class="input-group-addon" id="basic-addon1">
-        <span class="octicon octicon-person" aria-hidden="true"></span></span>
+        {% octicon person height:20 class:"right left" aria-label:hi %}
+        </span>
         <input type="text" class="form-control" placeholder="Name" name="name" aria-describedby="basic-addon1">
       </div>
       </div>
@@ -21,7 +22,9 @@ exclude: true
     <div class="col-lg-6">
      <div class="form-group">
       <div class="input-group">
-        <span class="input-group-addon" id="basic-addon1">@</span>
+        <span class="input-group-addon" id="basic-addon1">
+        {% octicon mail height:20 class:"right left" aria-label:hi %}
+	</span>
         <input type="text" class="form-control" placeholder="Email" name="_replyto" aria-describedby="basic-addon1">
       </div>
       </div>

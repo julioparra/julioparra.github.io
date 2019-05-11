@@ -2,10 +2,10 @@
 layout: default
 --- 
 <div class="row">
-<div class="col-4 col-sm-6 col-md-3">
+<div class="col-4 col-sm-4 col-md-3">
 <img src="/images/Julio.jpg">  
 </div>
-<div class="col-8 col-sm-6 col-md-5">
+<div class="col-8 col-sm-8 col-md-6">
 Julio Parra Martinez <br> 
 UCLA Physics & Astronomy, <br> 
 475 Portola Plaza,  <br>
@@ -15,8 +15,8 @@ United States <br>
 Office: PAB 4-737 <br>
 <a href="/contact/index.html">Contact </a>
 </div>
-<div class="col-4 col-sm-6 col-md-4">
-<img src="/images/UCLA_shield.png"  style="width:75%; float:right">  
+<div class="col-4 col-sm-4 col-md-3">
+<img src="/images/UCLA_shield.png" class="float-sm-center float-md-right" style="width:100%">  
 </div>
 </div>
 <br>
@@ -28,7 +28,7 @@ Office: PAB 4-737 <br>
 
   <div class="row">
     <div class="col-md-10 col-8"> <h4> Publications </h4> </div>
-    <div class="col-md-2 col-4" style="text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
+    <div class="col-md-2 col-4" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
     <div class="col-md-10 col-8"> Bootstrapping two-loop Feynman integrals for planar N=4 sYM  </div>
@@ -39,8 +39,8 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-4" style="text-align:right">  <a href="https://arxiv.org/abs/1804.09311">arXiv:1804.09311</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-6"> Cancelling the U(1) anomaly in the S-matrix of N=4 supergravity </div>
-    <div class="col-md-2 col-6" style="text-align:right">  <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a> </div>
+    <div class="col-md-10 col-8"> Cancelling the U(1) anomaly in the S-matrix of N=4 supergravity </div>
+    <div class="col-md-2 col-4" style="text-align:right">  <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a> </div>
   </div>
   <div class="row">
     <div class="col-md-10 col-8"> Curvature-squared multiplets, evanescent effects and the U(1) anomaly in N=4 supergravity </div>

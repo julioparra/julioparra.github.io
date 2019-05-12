@@ -116,19 +116,19 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-10"> Spring 2019: UCLA Physics 127  - General Relativity </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/19S-PHYSICS127-1"> material </a>) </div>
+    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/19S-PHYSICS127-1">material</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> Fall 2018:   UCLA Physics 495  - Teaching College Physics </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18F-PHYSICS495-1"> material </a>) </div>
+    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18F-PHYSICS495-1">material</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> Winter 2018: UCLA Physics 131A - Mathematical Methods of Physics </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18W-PHYSICS131-1"> material </a>) </div>
+    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18W-PHYSICS131-1">material</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> Fall 2017:   UCLA Physics 6B   - Physics for Life Sciences Majors </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1"> material </a>) </div>
+    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1">material</a>) </div>
 </div>
 
 

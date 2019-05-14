@@ -43,8 +43,8 @@ exclude: true
   <div class="row">
      <div class="col-xs-12 col-md-10">
        <div class="form-group row">
-         <label for="exampleSelect1" class="col-xs-12 col-sm-7 col-md-5 col-form-label"> Your message is about:</label>
-         <div class="col-xs-12 col-sm-5 col-md-3">
+         <label for="exampleSelect1" class="col-xs-12 col-sm-7 col-md-4 col-form-label"> Your message is about:</label>
+         <div class="col-xs-12 col-sm-6 col-md-3 align:left">
            <select class="form-control" id="exampleSelect1" name="Topic">
 	     <option>-----------</option>
              <option>Research</option>

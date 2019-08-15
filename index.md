@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0"> GSO projections via SPT phases </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1908.04805">arXiv:1908.04805</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0"> Two-loop n-point anomalous amplitudes in N=4 supergravity  </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1905.05151">arXiv:1905.05151</a> </div>
   </div>

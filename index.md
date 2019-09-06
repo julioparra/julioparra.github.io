@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0"> Gravity integrands from the ultraviolet </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.02003">arXiv:1909.02003</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0"> GSO projections via SPT phases </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1908.04805">arXiv:1908.04805</a> </div>
   </div>
@@ -65,6 +69,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 08/2019: <a href="">EEP Theory Seminar</a>, SLAC  <br> </div>
+    <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
+</div>
 <div class="row">
     <div class="col-10"> 08/2019: <a href="">Off-term Theory Seminar</a>, ETH Zurich  <br> </div>
     <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>

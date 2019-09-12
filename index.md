@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0"> Logarithmic forms and differential equations for Feynman integrals </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.04777">arXiv:1909.04777</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0"> Gravity integrands from the ultraviolet </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.02003">arXiv:1909.02003</a> </div>
   </div>
@@ -70,7 +74,7 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
-    <div class="col-10"> 08/2019: <a href="">EEP Theory Seminar</a>, SLAC  <br> </div>
+    <div class="col-10"> 09/2019: <a href="">EEP Theory Seminar</a>, SLAC  <br> </div>
     <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
 </div>
 <div class="row">
@@ -80,6 +84,10 @@ Office: PAB 4-737 <br>
 <div class="row">
     <div class="col-10"> 06/2019: <a href="http://gravity.psu.edu/events/igc25/index_igc25.shtml">IGC@25: Multimessenger Universe</a>, ICG Penn State  <br> </div>
     <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 06/2019: <a href="">“California Amplitudes Meeting”</a>, QMAP UC Davis  </div>
+    <div class="col-2" style="text-align:right">  (board) </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2019: <a href="http://lctp.physics.lsa.umich.edu/brown-bag-seminars">Brown Bag Seminar</a>, LCTP UM Ann Arbor <br> </div>

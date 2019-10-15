@@ -78,6 +78,10 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
+    <div class="col-10"> 09/2019: <a href="https://cmsa.fas.harvard.edu/quantum-matter-seminar/">Condensed Matter/Math Math Seminar</a>, CMSA Harvard <br> </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://youtu.be/HnoFDRJhYbE">video</a>)  </div>
+</div>
+<div class="row">
     <div class="col-10"> 09/2019: <a href="">EEP Theory Seminar</a>, SLAC  <br> </div>
     <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
 </div>

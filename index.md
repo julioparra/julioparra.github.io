@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0"> Non-renormalization and operator mixing via on-shell methods </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1910.05831">arXiv:1910.05831</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0"> Logarithmic forms and differential equations for Feynman integrals </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.04777">arXiv:1909.04777</a> </div>
   </div>

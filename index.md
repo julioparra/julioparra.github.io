@@ -78,6 +78,10 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
+    <div class="col-10"> 10/2019: <a href="https://indico.desy.de/indico/event/24148/overview">From Scattering to Expansion</a>, Northwestern University <br> </div>
+    <div class="col-2" style="text-align:right"> (board)  </div>
+</div>
+<div class="row">
     <div class="col-10"> 09/2019: <a href="https://cmsa.fas.harvard.edu/quantum-matter-seminar/">Condensed Matter/Math Math Seminar</a>, CMSA Harvard <br> </div>
     <div class="col-2" style="text-align:right"> (<a href="https://youtu.be/HnoFDRJhYbE">video</a>)  </div>
 </div>
@@ -148,6 +152,8 @@ Office: PAB 4-737 <br>
 
 <br>
 
+<!--
+
 ***
 
 <br>
@@ -170,7 +176,7 @@ Office: PAB 4-737 <br>
     <div class="col-10"> Fall 2017:   UCLA Physics 6B   - Physics for Life Sciences Majors </div>
     <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1">material</a>) </div>
 </div>
-
+-->
 
 <!--
 Spring 2019: UCLA Physics 127  - General Relativity ([material](https://ccle.ucla.edu/course/view/19S-PHYSICS127-1))  

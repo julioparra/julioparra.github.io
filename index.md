@@ -31,6 +31,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-10 col-0"> <h4> Publications </h4> </div>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
+<div class="row">
+    <div class="col-md-10 col-0"> Topological superconductors on superstring worldsheets </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1911.11780">arXiv:1911.11780</a> </div>
+  </div>
   <div class="row">
     <div class="col-md-10 col-0"> Non-renormalization and operator mixing via on-shell methods </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1910.05831">arXiv:1910.05831</a> </div>
@@ -77,6 +81,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 11/2019: <a href="">Amplitudes Group Meeting</a>, Brown University <br> </div>
+    <div class="col-2" style="text-align:right"> (board)  </div>
+</div>
 <div class="row">
     <div class="col-10"> 10/2019: <a href="https://indico.desy.de/indico/event/24148/overview">From Scattering to Expansion</a>, Northwestern University <br> </div>
     <div class="col-2" style="text-align:right"> (board)  </div>

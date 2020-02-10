@@ -84,15 +84,15 @@ Office: PAB 4-737 <br>
 
 #### Upcoming Talks ####
 <div class="row">
-    <div class="col-10"> 02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>  UCLA </div>
+    <div class="col-10"> 02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>,  UCLA </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a> University of Pittsburgh </div>
+    <div class="col-10"> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>  University of Michigan, Ann Arbor </div>
+    <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>,  University of Michigan, Ann Arbor </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 

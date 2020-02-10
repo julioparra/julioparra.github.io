@@ -33,7 +33,7 @@ Office: PAB 4-737 <br>
   </div>
   <div class="row">
     <div class="col-md-10 col-0"> Universality in the classical limit of massless gravitational scattering </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2002.024590">arXiv:2002.024590</a> </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2002.02459">arXiv:2002.02459</a> </div>
   </div>
   <div class="row">
     <div class="col-md-10 col-0"> Topological superconductors on superstring worldsheets </div>

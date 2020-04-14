@@ -83,12 +83,9 @@ Office: PAB 4-737 <br>
 <br>
 
 #### Upcoming Talks ####
+
 <div class="row">
-    <div class="col-10"> 02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>,  UCLA </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh </div>
+    <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -100,6 +97,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10">  02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>,  UCLA  </div>
+    <div class="col-2" style="text-align:right"> (slides) </div>
+</div>
 <div class="row">
     <div class="col-10"> 12/2019: <a href="http://bhaumik-institute.physics.ucla.edu/QCD%20Meets%20Gravity%202019">“QCD Meets Gravity”</a>  Workshop, UCLA </div>
     <div class="col-2" style="text-align:right"> (slides) </div>

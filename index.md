@@ -3,7 +3,7 @@ layout: default
 --- 
 <div class="row">
 <div class="col-4 col-sm-4 col-md-5">
-<img src="/images/blackboard_pic.jpg">  
+<img src="/images/julio.jpg">  
 </div>
 <div class="col-8 col-sm-8 col-md-4">
 Julio Parra Martinez <br> 

@@ -2,10 +2,10 @@
 layout: default
 --- 
 <div class="row">
-<div class="col-4 col-sm-4 col-md-3">
-<img src="/images/Julio.jpg">  
+<div class="col-4 col-sm-4 col-md-5">
+<img src="/images/blackboard_pic.jpg">  
 </div>
-<div class="col-8 col-sm-8 col-md-6">
+<div class="col-8 col-sm-8 col-md-4">
 Julio Parra Martinez <br> 
 UCLA Physics & Astronomy, <br> 
 475 Portola Plaza,  <br>

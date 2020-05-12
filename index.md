@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Extremal black hole scattering at O(G^3): graviton dominance, eikonal exponentiation, and differential equations </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.04236">arXiv:2005.04236</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0"> Universality in the classical limit of massless gravitational scattering </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2002.02459">arXiv:2002.02459</a> </div>
   </div>

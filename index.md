@@ -32,6 +32,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Structure of two-loop SMEFT anomalous dimensions via on-shell methods </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.12917">arXiv:2005.12917</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Extremal black hole scattering at O(G^3) </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.04236">arXiv:2005.04236</a> </div>
   </div>
@@ -94,11 +98,11 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
-    <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>
-    <div class="col-2" style="text-align:right">  </div>
+    <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>,  University of Michigan, Ann Arbor </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://indico.cern.ch/event/908370/contributions/3855572/attachments/2037244/3411399/go">video</a>  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>,  University of Michigan, Ann Arbor </div>
+    <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">

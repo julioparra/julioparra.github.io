@@ -99,7 +99,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>,  University of Michigan, Ann Arbor </div>
-    <div class="col-2" style="text-align:right"> (<a href="https://indico.cern.ch/event/908370/contributions/3855572/attachments/2037244/3411399/go">video</a>  </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://indico.cern.ch/event/908370/contributions/3855572/attachments/2037244/3411399/go">video</a>)  </div>
 </div>
 <div class="row">
     <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>

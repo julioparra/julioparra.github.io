@@ -92,6 +92,10 @@ Office: PAB 4-737 <br>
 
 #### Upcoming Talks ####
 
+<div class="row">
+    <div class="col-10"> 05/2020: <a href="https://www-theory.lbl.gov/wordpress/?page_id=6741">Particle Seminar</a>,  LBL/UC Berkeley </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
 
 <br>
 

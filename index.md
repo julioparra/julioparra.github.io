@@ -7,16 +7,18 @@ layout: default
 </div>
 <div class="col-8 col-sm-8 col-md-4">
 Julio Parra Martinez <br> 
-UCLA Physics & Astronomy, <br> 
-475 Portola Plaza,  <br>
-Los Angeles, CA 90095, <br>
+California Institute of Technology, <br> 
+1200 East California Boulevard,  <br>
+Pasadena, California 91125, <br>
 United States <br>
+<!--
 <br>
 Office: PAB 4-737 <br>
+--!>
 <a href="/contact/index.html">Contact </a>
 </div>
 <div class="col-4 col-sm-4 col-md-3">
-<img src="/images/UCLA_shield.png" class="float-sm-center float-md-right" style="width:100%">  
+<img src="/images/caltech_seal.png" class="float-sm-center float-md-right" style="width:100%">  
 </div>
 </div>
 <br>

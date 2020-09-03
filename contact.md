@@ -6,7 +6,7 @@ exclude: true
 ---
 
 
-<form accept-charset="UTF-8" action="https://formspree.io/jparra@physics.ucla.edu" method="POST">
+<form accept-charset="UTF-8" action="https://formspree.io/xvowjeoz" method="POST">
   <div class="row">
     <div class="col-lg-6">
      <div class="form-group">

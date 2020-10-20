@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Leading Nonlinear Tidal Effects and Scattering Amplitudes</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2010.08559">arXiv:2010.08559</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Structure of two-loop SMEFT anomalous dimensions via on-shell methods </div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.12917">arXiv:2005.12917</a> </div>
   </div>

@@ -104,6 +104,18 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
+    <div class="col-10"> 12/2020: <a href="https://indico.desy.de/event/27454/overview">“QCD Meets Gravity”</a>,  Northwestern University </div>
+    <div class="col-2" style="text-align:right"> (video) </div>
+</div>
+<div class="row">
+    <div class="col-10"> 11/2020: <a href="https://www.theory.caltech.edu/seminars/high-energy-theory-informal-meeting">Informal Seminar</a>,  Caltech </div>
+    <div class="col-2" style="text-align:right"> (slides) </div>
+</div>
+<div class="row">
+    <div class="col-10"> 10/2020: <a href="https://indico.dfa.unipd.it/event/11/overview">EFT methods from Bound States to Binary Systems</a>, Universita' degli Studi di Padova </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://indico.dfa.unipd.it/event/11/contributions/14/attachments/17/134/10.EFTMBS20_Parra-Martinez.mp4">video</a>) </div>
+</div>
+<div class="row">
     <div class="col-10"> 06/2020: <a href="https://www-theory.lbl.gov/wordpress/?page_id=6741">Particle Seminar</a>,  LBL/UC Berkeley </div>
     <div class="col-2" style="text-align:right"> (slides) </div>
 </div>
@@ -113,7 +125,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>
-    <div class="col-2" style="text-align:right">  </div>
+    <div class="col-2" style="text-align:right">  <s> (slides) </s> </div>
 </div>
 <div class="row">
     <div class="col-10">  02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>,  UCLA  </div>

@@ -98,6 +98,10 @@ Office: PAB 4-737 <br>
 
 #### Upcoming Talks ####
 
+<div class="row">
+    <div class="col-10"> 01/2021: High Energy Theory Seminar,  Columbia University </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
 
 <br>
 

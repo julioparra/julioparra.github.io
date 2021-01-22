@@ -107,7 +107,19 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
+    <div class="col-10"> 01/2021: Amplitudes Journal Club,  UCLA </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 02/2021: High Energy Theory Seminar,  Columbia University </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2021: High Energy Physics Seminar,  CP3 UC Louvain </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 

@@ -107,10 +107,6 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 01/2021: Amplitudes Journal Club,  UCLA </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
     <div class="col-10"> 02/2021: High Energy Theory Seminar,  Columbia University </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
@@ -127,6 +123,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 01/2021: Amplitudes Journal Club,  UCLA </div>
+    <div class="col-2" style="text-align:right"> (board) </div>
+</div>
 <div class="row">
     <div class="col-10"> 12/2020: <a href="https://indico.desy.de/event/27454/overview">“QCD Meets Gravity”</a>,  Northwestern University </div>
     <div class="col-2" style="text-align:right"> (video) </div>

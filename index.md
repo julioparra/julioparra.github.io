@@ -107,11 +107,15 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 02/2021: High Energy Physics Seminar,  CP3 UC Louvain </div>
+    <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
-    <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
+    <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
@@ -123,6 +127,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 02/2021: High Energy Physics Seminar,  CP3 UC Louvain </div>
+    <div class="col-2" style="text-align:right"> (slides) </div>
+</div>
 <div class="row">
     <div class="col-10"> 02/2021: High Energy Theory Seminar,  Columbia University </div>
     <div class="col-2" style="text-align:right"> (slides) </div>

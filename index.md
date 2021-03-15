@@ -107,19 +107,15 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
     <div class="col-10"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2021: TH String Theory Seminar,  CERN </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 06/2021: Amplitudes Journal Club,  Durham University </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 
@@ -128,8 +124,16 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
-    <div class="col-10"> 02/2021: High Energy Physics Seminar,  CP3 UC Louvain </div>
+    <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>
     <div class="col-2" style="text-align:right"> (slides) </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://ed-ac-uk.zoom.us/rec/share/x0L-pWlbTmGFtRHXFHZ2OvV8P2_KOosRZEgw-O-bgj76ngxLk36_US8kSsV1SWOS.bJ9hDBR-2q3jp4Tc">video</a>) </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2021: High Energy Physics Seminar,  CP3 UC Louvain </div>
+    <div class="col-2" style="text-align:right"> (video) </div>
 </div>
 <div class="row">
     <div class="col-10"> 02/2021: High Energy Theory Seminar,  Columbia University </div>
@@ -141,7 +145,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 12/2020: <a href="https://indico.desy.de/event/27454/overview">“QCD Meets Gravity”</a>,  Northwestern University </div>
-    <div class="col-2" style="text-align:right"> (video) </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=nhfTtENCxWM">video</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 11/2020: <a href="https://www.theory.caltech.edu/seminars/high-energy-theory-informal-meeting">Informal Seminar</a>,  Caltech </div>

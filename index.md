@@ -119,11 +119,21 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
+    <div class="col-10"> 04/2021: Particle Theory Seminar,  U. Chicago </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2021: RADCOR+LoopFest 2021,  FSU </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 06/2021: Amplitudes Journal Club,  Durham University </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 
 <br>
+
+
 
 #### Talks ####
 

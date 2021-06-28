@@ -136,8 +136,8 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> (slides) </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
-    <div class="col-2" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=xAUHiBu5jUA">lecture 1</a>, <a href="https://www.youtube.com/watch?v=FwpXN2t5UEE">lecture 2</a>) </div>
+    <div class="col-8"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
+    <div class="col-4" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=xAUHiBu5jUA">lecture 1</a>, <a href="https://www.youtube.com/watch?v=FwpXN2t5UEE">lecture 2</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>

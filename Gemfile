@@ -5,4 +5,3 @@ gem 'jekyll-octicons'
 gem 'bootstrap-sass'
 gem 'sass-rails', '>= 3.2'
 gem 'octicons'
-gem "kramdown", ">= 2.3.1"

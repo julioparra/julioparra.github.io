@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Holomorphic modular bootstrap revisited</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2107.13557">arXiv:2107.13557</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Radiative Classical Gravitational Observables at O(G^3) from Scattering Amplitudes</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2104.03957">arXiv:2104.03957</a> </div>
   </div>

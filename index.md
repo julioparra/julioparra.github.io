@@ -115,6 +115,14 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 
+<div class="row">
+    <div class="col-10"> 11/2021: Theory Seminar, Carnegie Mellon University </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: APS April Meeting,  New York </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
 
 <br>
 

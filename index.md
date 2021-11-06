@@ -34,7 +34,11 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Holomorphic modular bootstrap revisited</div>
+    <div class="col-md-10 col-0">Geometric Soft Theorems</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2111.03045">arXiv:2111.03045</a> </div>
+  </div>
+  <div class="row">
+    <div class="col-md-10 col-0">Holomorphic Modular Bootstrap Revisited</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2107.13557">arXiv:2107.13557</a> </div>
   </div>
   <div class="row">
@@ -117,6 +121,14 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-10"> 11/2021: Theory Seminar, Carnegie Mellon University </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 12/2021: Theory Seminar, University of Michigan </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 01/2022: Amplitudes Meeting, IAS Princeton </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">

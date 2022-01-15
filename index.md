@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">On-shell Correlators and Color-Kinematics Duality in Curved Symmetric Spacetimes</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.05147">arXiv:2201.05147</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Scattering Amplitudes, the Tail Effect, and Conservative Binary Dynamics at O(G^4)</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2112.10750">arXiv:2112.10750</a> </div>
   </div>
@@ -124,8 +128,8 @@ Office: PAB 4-737 <br>
 
 
 <div class="row">
-    <div class="col-10"> 01/2022: Amplitudes Meeting, IAS Princeton </div>
-    <div class="col-2" style="text-align:right"> </div>
+    <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
+    <div class="col-2" style="text-align:right"> (slides) </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: APS April Meeting,  New York </div>
@@ -138,7 +142,10 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
-
+<div class="row">
+    <div class="col-10"> 01/2022: Amplitudes Meeting, IAS Princeton </div>
+    <div class="col-2" style="text-align:right"> (board) </div>
+</div>
 <div class="row">
     <div class="col-10"> 12/2021: Theory Seminar, University of Michigan </div>
     <div class="col-2" style="text-align:right"> (slides) </div>
@@ -297,6 +304,11 @@ Office: PAB 4-737 <br>
 </div>
 
 <br>
+
+<div class="row">
+    <div class="col-6">  </div>
+    <div class="col-6" style="text-align:right">  Updated: 01/14/22 </div>
+</div>
 
 <!--
 

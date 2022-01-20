@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Causality constraints on corrections to Einstein gravity</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.06602">arXiv:2201.06602</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">On-shell Correlators and Color-Kinematics Duality in Curved Symmetric Spacetimes</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.05147">arXiv:2201.05147</a> </div>
   </div>
@@ -129,10 +133,18 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2022: HET Seminar, Princeton University</div>
+    <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: APS April Meeting,  New York </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: Theory Seminar, MPP Munich </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 
@@ -307,7 +319,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 01/14/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 01/19/22 </div>
 </div>
 
 <!--

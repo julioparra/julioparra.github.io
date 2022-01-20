@@ -130,7 +130,10 @@ Office: PAB 4-737 <br>
 
 #### Upcoming Talks ####
 
-
+<div class="row">
+    <div class="col-10"> 02/2022: HEP Seminar, UC San Diego</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
 <div class="row">
     <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
     <div class="col-2" style="text-align:right"> </div>
@@ -319,7 +322,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 01/19/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 01/20/22 </div>
 </div>
 
 <!--

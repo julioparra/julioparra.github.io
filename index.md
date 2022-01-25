@@ -135,11 +135,19 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
+    <div class="col-10"> 02/2022: Quantum Spacetime Seminar Series, TIFR Mumbai</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
     <div class="col-10"> 02/2022: HET Seminar, Princeton University</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2022: Seminar, IAS Princeton</div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">

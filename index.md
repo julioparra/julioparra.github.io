@@ -158,6 +158,10 @@ Office: PAB 4-737 <br>
     <div class="col-10"> 04/2022: Theory Seminar, MPP Munich </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
+<div class="row">
+    <div class="col-10"> 05/2022: Quantum Gravity Seminar, AEI Potsdam </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
 
 <br>
 

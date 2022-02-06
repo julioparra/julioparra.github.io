@@ -38,35 +38,35 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.06602">arXiv:2201.06602</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">On-shell Correlators and Color-Kinematics Duality in Curved Symmetric Spacetimes</div>
+    <div class="col-md-10 col-0">On-shell correlators and color-kinematics duality in curved symmetric spacetimes</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.05147">arXiv:2201.05147</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Scattering Amplitudes, the Tail Effect, and Conservative Binary Dynamics at O(G^4)</div>
+    <div class="col-md-10 col-0">Scattering amplitudes, the tail effect, and conservative binary dynamics at O(G^4)</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2112.10750">arXiv:2112.10750</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Geometric Soft Theorems</div>
+    <div class="col-md-10 col-0">Geometric soft theorems</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2111.03045">arXiv:2111.03045</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Holomorphic Modular Bootstrap Revisited</div>
+    <div class="col-md-10 col-0">Holomorphic modular bootstrap revisited</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2107.13557">arXiv:2107.13557</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Radiative Classical Gravitational Observables at O(G^3) from Scattering Amplitudes</div>
+    <div class="col-md-10 col-0">Radiative classical gravitational observables at O(G^3) from scattering amplitudes</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2104.03957">arXiv:2104.03957</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Gravitational Bremsstrahlung from Reverse Unitarity</div>
+    <div class="col-md-10 col-0">Gravitational bremsstrahlung from reverse unitarity</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2101.07255">arXiv:2101.07255</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Scattering Amplitudes and Conservative Binary Dynamics at O(G^4)</div>
+    <div class="col-md-10 col-0">Scattering amplitudes and conservative binary dynamics at O(G^4)</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2101.07254">arXiv:2101.07254</a> </div>
   </div>
   <div class="row">
-    <div class="col-md-10 col-0">Leading Nonlinear Tidal Effects and Scattering Amplitudes</div>
+    <div class="col-md-10 col-0">Leading nonlinear tidal effects and scattering amplitudes</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2010.08559">arXiv:2010.08559</a> </div>
   </div>
   <div class="row">

@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Geometry-kinematics duality</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2202.06972">arXiv:2202.06972</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Causality constraints on corrections to Einstein gravity</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.06602">arXiv:2201.06602</a> </div>
   </div>
@@ -155,6 +159,10 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
+    <div class="col-10"> 03/2022: Joint Theory Seminar, Niels Bohr Institute</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 04/2022: APS April Meeting,  New York </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
@@ -164,6 +172,10 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 05/2022: Quantum Gravity Seminar, AEI Potsdam </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: Quantum Encounters, IHES </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 
@@ -338,7 +350,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 01/20/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 02/16/22 </div>
 </div>
 
 <!--

@@ -151,11 +151,15 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
+    <div class="col-10"> 03/2022: <a href="https://qmap.ucdavis.edu/events/ca-amplitudes-meeting-2022">CAmplitudes Meeting </a>, UC Davis </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 03/2022: Joint Theory Seminar, Niels Bohr Institute</div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
-    <div class="col-10"> 03/2022: HET Seminar, Princeton University</div>
+    <div class="col-10"> 03/2022: <a href="https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-tba-zoom">HET Seminar</a>, Princeton University</div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
@@ -163,7 +167,11 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2022: APS April Meeting,  New York </div>
+    <div class="col-10"> 04/2022: Plenary Talk APS April Meeting,  New York </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: <a href="https://indico.mitp.uni-mainz.de/event/296/">YOUNGST@RS - Color-Kinematics Conference</a>,  MITP </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -179,7 +187,7 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2022: Quantum Encounters, IHES </div>
+    <div class="col-10"> 05/2022: <a href="https://seminars.ihes.fr/quantum/">Quantum Encounters</a>, IHES </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 

@@ -135,39 +135,15 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 02/2022: HEP Seminar, UC San Diego</div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 02/2022: Quantum Spacetime Seminar Series, TIFR Mumbai</div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 03/2022: Colloquium, University of British Columbia </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 03/2022: <a href="https://qmap.ucdavis.edu/events/ca-amplitudes-meeting-2022">CAmplitudes Meeting </a>, UC Davis </div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 03/2022: Joint Theory Seminar, Niels Bohr Institute</div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
     <div class="col-10"> 03/2022: <a href="https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-tba-zoom">HET Seminar</a>, Princeton University</div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
-    <div class="col-10"> 03/2022: Seminar, IAS Princeton</div>
+    <div class="col-10"> 03/2022: <a href="https://www.ias.edu/sns/astrophysics/astrophysics-seminars"> Astrophysics Seminar </a>, IAS Princeton</div>
     <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2022: Plenary Talk APS April Meeting,  New York </div>
+    <div class="col-10"> 04/2022:  <a href="https://meetings.aps.org/Meeting/APR22/Session/L01"> APS April Meeting </a> (Plenary Talk), New York </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -175,15 +151,19 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
+    <div class="col-10"> 04/2022:<a href="https://hetg.physics.harvard.edu/seminar-schedule"> Swampland Seminar</a>, Harvard University </div>
+    <div class="col-2" style="text-align:right">   </div>
+</div>
+<div class="row">
     <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2022: Theory Seminar, MPP Munich </div>
+    <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar </a>, Max Planck Institut für Physik, Munich </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2022: Quantum Gravity Seminar, AEI Potsdam </div>
+    <div class="col-10"> 05/2022: Quantum Gravity Seminar, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -198,20 +178,44 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
+    <div class="col-10"> 03/2022: Joint Theory Seminar, Niels Bohr Institute</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2022: <a href="https://qmap.ucdavis.edu/events/ca-amplitudes-meeting-2022">CAmplitudes Meeting </a>, UC Davis </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2022: Colloquium, University of British Columbia </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2022: Colloquium, University of Michigan </div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2022: Quantum Spacetime Seminar Series, TIFR Mumbai</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 02/2022: HEP Seminar, UC San Diego</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
     <div class="col-10"> 01/2022: Amplitudes Meeting, IAS Princeton </div>
-    <div class="col-2" style="text-align:right"> (board) </div>
+    <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
     <div class="col-10"> 12/2021: Theory Seminar, University of Michigan </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 11/2021: Theory Seminar, Carnegie Mellon University </div>
-    <div class="col-2" style="text-align:right"> (board) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2021: Amplitudes Journal Club,  Durham University </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 05/2021: RADCOR+LoopFest 2021,  FSU </div>
@@ -219,11 +223,11 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 04/2021: Particle Theory Seminar,  U. Chicago </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2021: TH String Theory Seminar,  CERN </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-9"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
@@ -231,7 +235,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2021: Particle Physics Theory Seminar,  Edinburgh University </div>
@@ -243,11 +247,11 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 02/2021: High Energy Theory Seminar,  Columbia University </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 01/2021: Amplitudes Journal Club,  UCLA </div>
-    <div class="col-2" style="text-align:right"> (board) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 12/2020: <a href="https://indico.desy.de/event/27454/overview">“QCD Meets Gravity”</a>,  Northwestern University </div>
@@ -255,7 +259,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 11/2020: <a href="https://www.theory.caltech.edu/seminars/high-energy-theory-informal-meeting">Informal Seminar</a>,  Caltech </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 10/2020: <a href="https://indico.dfa.unipd.it/event/11/overview">EFT methods from Bound States to Binary Systems</a>, Universita' degli Studi di Padova </div>
@@ -263,7 +267,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 06/2020: <a href="https://www-theory.lbl.gov/wordpress/?page_id=6741">Particle Seminar</a>,  LBL/UC Berkeley </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 05/2020: <a href="https://sites.google.com/umich.edu/amplitudes-2020-at-michigan">Amplitudes 2020</a>,  University of Michigan, Ann Arbor </div>
@@ -271,23 +275,23 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> <s> 05/2020: <a href="https://indico.cern.ch/event/866125/overview">LoopFest XIX</a>, University of Pittsburgh  </s>,  Cancelled because of COVID-19 </div>
-    <div class="col-2" style="text-align:right">  <s> (slides) </s> </div>
+    <div class="col-2" style="text-align:right">  <s>  </s> </div>
 </div>
 <div class="row">
     <div class="col-10">  02/2020: <a href="http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia">TEP Seminar</a>,  UCLA  </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 12/2019: <a href="http://bhaumik-institute.physics.ucla.edu/QCD%20Meets%20Gravity%202019">“QCD Meets Gravity”</a>  Workshop, UCLA </div>
-    <div class="col-2" style="text-align:right"> (slides) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 11/2019: <a href="">Amplitudes Group Meeting</a>, Brown University <br> </div>
-    <div class="col-2" style="text-align:right"> (board)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 10/2019: <a href="https://indico.desy.de/indico/event/24148/overview">From Scattering to Expansion</a>, Northwestern University <br> </div>
-    <div class="col-2" style="text-align:right"> (board)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 09/2019: <a href="https://cmsa.fas.harvard.edu/quantum-matter-seminar/">Condensed Matter/Math Math Seminar</a>, CMSA Harvard <br> </div>
@@ -295,51 +299,51 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 09/2019: <a href="">EEP Theory Seminar</a>, SLAC  <br> </div>
-    <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 08/2019: <a href="">Off-term Theory Seminar</a>, ETH Zurich  <br> </div>
-    <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2019: <a href="http://gravity.psu.edu/events/igc25/index_igc25.shtml">IGC@25: Multimessenger Universe</a>, ICG Penn State  <br> </div>
-    <div class="col-2" style="text-align:right"> (<a href="">slides</a>)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2019: <a href="">“California Amplitudes Meeting”</a>, QMAP UC Davis  </div>
-    <div class="col-2" style="text-align:right">  (board) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2019: <a href="http://lctp.physics.lsa.umich.edu/brown-bag-seminars">Brown Bag Seminar</a>, LCTP UM Ann Arbor <br> </div>
-    <div class="col-2" style="text-align:right"> (<a href="/talks/201904_UMAnnArbor.pdf">slides</a>)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 11/2018: <a href="">Fields and Strings Seminar</a>, QMAP UC Davis <br> </div>
-    <div class="col-2" style="text-align:right">  (<a href="/talks/201811_UCDavis.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 09/2018: <a href="http://gravity.psu.edu/events/superstring_supergravity/index_sstu.shtml">"Supergravity and M/Superstring Theory in the Ultraviolet and Double Copy"</a>, Penn State  </div>
-    <div class="col-2" style="text-align:right"> (<a href="http://gravity.psu.edu/events/superstring_supergravity/talks/parra-martinez_sstu2018.pdf">slides</a>)  </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2018: <a href="http://qmap.ucdavis.edu/events/events-past-events/amplitudes-summer-school">“Amplitudes Summer School”</a>, Gong Show, QMAP UC Davis </div>
-    <div class="col-2" style="text-align:right"> (<a href="http://qmap.ucdavis.edu/application/files/7315/2886/5415/450_ParraMartinez.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2018: <a href="https://sites.google.com/site/calamps2018/home">“California Amplitudes Meeting”</a>, SLAC National Accelerator Laboratory </div>
-    <div class="col-2" style="text-align:right"> (board) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2018: <a href="http://www.tapir.caltech.edu/~pcgm34/">“34th Pacific Coast Gravity Meeting”</a>, Caltech </div>
-    <div class="col-2" style="text-align:right">  (<a href="/talks/201803_APS_PCGM_Caltech.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 12/2017: <a href="http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html">“QCD Meets Gravity”</a>  Workshop, UCLA </div>
-    <div class="col-2" style="text-align:right"> (<a href="/talks/201712_QCDmeetsGravity.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 07/2017: <a href="">String Theory Seminar</a>, Max Planck Institute for Gravitational Physics (AEI) </div>
-    <div class="col-2" style="text-align:right">  (<a href="/talks/201707_AEIPotsdam.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2017: <a href="https://www.kitp.ucsb.edu/activities/scamp17">“Scattering Amplitudes: from Gauge Theory to Gravity”</a> Workshop, KITP </div>
@@ -347,22 +351,22 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 12/2016: <a href="http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program">“Recent Developments in Fields, Strings, and Gravity”</a> Gong Show, QMAP UC Davis </div>
-    <div class="col-2" style="text-align:right"> (<a href="/talks/201612_FSGDavis.pdf">slides</a>) </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 10/2016: <a href="http://bhaumik-institute.physics.ucla.edu/amplitudes-workshop-schedule.html">“California Amplitudes Meeting”</a>, UCLA </div>
-    <div class="col-2" style="text-align:right">  (board) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 <div class="row">
     <div class="col-10"> 06/2016: <a href="http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting">“California Amplitudes Meeting”</a>, QMAP UC Davis  </div>
-    <div class="col-2" style="text-align:right">  (board) </div>
+    <div class="col-2" style="text-align:right">   </div>
 </div>
 
 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 02/16/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 03/11/22 </div>
 </div>
 
 <!--

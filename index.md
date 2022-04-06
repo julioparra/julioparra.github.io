@@ -135,12 +135,8 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 03/2022: <a href="https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-tba-zoom">HET Seminar</a>, Princeton University</div>
-    <div class="col-2" style="text-align:right"> </div>
-</div>
-<div class="row">
-    <div class="col-10"> 03/2022: <a href="https://www.ias.edu/sns/astrophysics/astrophysics-seminars"> Astrophysics Seminar </a>, IAS Princeton</div>
-    <div class="col-2" style="text-align:right"> </div>
+    <div class="col-10"> 04/2022:  <a href="https://www.kitp.ucsb.edu/strings/seminars"> High Energy and Gravity Seminar </a> KITP, Santa Barbara </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022:  <a href="https://meetings.aps.org/Meeting/APR22/Session/L01"> APS April Meeting </a> (Plenary Talk), New York </div>
@@ -151,15 +147,19 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2022:<a href="https://hetg.physics.harvard.edu/seminar-schedule"> Swampland Seminar</a>, Harvard University </div>
-    <div class="col-2" style="text-align:right">   </div>
+    <div class="col-10"> 04/2022: Special Seminar,  PITP UBC, Vancouver </div>
+    <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar </a>, Max Planck Institut für Physik, Munich </div>
+    <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar</a>, Max Planck Institut für Physik, Munich </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: <a href="https://www.ias.edu/possible-and-impossible-effective-field-theory-s-matrix-swampland"> Possible and Impossible in Effective Field Theory</a>, IAS, Princeton </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -177,6 +177,18 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 04/2022:<a href="https://hetg.physics.harvard.edu/seminar-schedule"> Swampland Seminar</a>, Harvard University </div>
+    <div class="col-2" style="text-align:right">   </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2022: <a href="https://www.ias.edu/sns/astrophysics/astrophysics-seminars"> Astrophysics Seminar</a>, IAS Princeton</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
+<div class="row">
+    <div class="col-10"> 03/2022: <a href="https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-tba-zoom">HET Seminar</a>, Princeton University</div>
+    <div class="col-2" style="text-align:right"> </div>
+</div>
 <div class="row">
     <div class="col-10"> 03/2022: Joint Theory Seminar, Niels Bohr Institute</div>
     <div class="col-2" style="text-align:right"> </div>
@@ -366,7 +378,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 03/11/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 04/06/22 </div>
 </div>
 
 <!--

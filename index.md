@@ -34,6 +34,10 @@ Office: PAB 4-737 <br>
     <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
   </div>
   <div class="row">
+    <div class="col-md-10 col-0">Non-perturbative double copy in Flatland</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2204.07130">arXiv:2204.07130</a> </div>
+  </div>
+  <div class="row">
     <div class="col-md-10 col-0">Geometry-kinematics duality</div>
     <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2202.06972">arXiv:2202.06972</a> </div>
   </div>
@@ -135,27 +139,7 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 04/2022:  <a href="https://www.kitp.ucsb.edu/strings/seminars"> High Energy and Gravity Seminar </a> KITP, Santa Barbara </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 04/2022:  <a href="https://meetings.aps.org/Meeting/APR22/Session/L01"> APS April Meeting </a> (Plenary Talk), New York </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 04/2022: <a href="https://indico.mitp.uni-mainz.de/event/296/">YOUNGST@RS - Color-Kinematics Conference</a>,  MITP </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 04/2022: Special Seminar,  PITP UBC, Vancouver </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar</a>, Max Planck Institut für Physik, Munich </div>
+    <div class="col-10"> 05/2022: Quantum Gravity Seminar, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -163,7 +147,7 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2022: Quantum Gravity Seminar, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam </div>
+    <div class="col-10"> 05/2022: <a href="https://sites.google.com/view/all-things-eft"> All Thigs EFT</a>, Virtual </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
@@ -177,6 +161,30 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: <a href="https://pitp.phas.ubc.ca/upcoming/index.html">https://pitp.phas.ubc.ca/upcoming/index.html</a>,  PITP UBC, Vancouver </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: <a href="https://indico.mitp.uni-mainz.de/event/296/">YOUNGST@RS - Color-Kinematics Conference</a>,  MITP </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar</a>, Max Planck Institut für Physik, Munich </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022:  <a href="https://meetings.aps.org/Meeting/APR22/Session/L01"> APS April Meeting </a> (Plenary Talk), New York </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 04/2022:  <a href="https://www.kitp.ucsb.edu/strings/seminars"> High Energy and Gravity Seminar </a> KITP, Santa Barbara </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
 <div class="row">
     <div class="col-10"> 04/2022:<a href="https://hetg.physics.harvard.edu/seminar-schedule"> Swampland Seminar</a>, Harvard University </div>
     <div class="col-2" style="text-align:right">   </div>
@@ -378,7 +386,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 04/06/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 04/20/22 </div>
 </div>
 
 <!--

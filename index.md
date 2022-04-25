@@ -155,7 +155,7 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
-    <div class="col-10"> 05/2022: <a href="https://indico.cern.ch/event/1101193/">Amplitudes 2022</a>, Prague </div>
+    <div class="col-10"> 08/2022: <a href="https://indico.cern.ch/event/1101193/">Amplitudes 2022</a>, Prague </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 

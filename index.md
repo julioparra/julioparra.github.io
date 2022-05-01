@@ -155,6 +155,10 @@ Office: PAB 4-737 <br>
     <div class="col-2" style="text-align:right">  </div>
 </div>
 <div class="row">
+    <div class="col-10"> 05/2022: <a href="https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2022/">Amplitudes Meets Cosmology 2022</a>, Scotland </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
     <div class="col-10"> 08/2022: <a href="https://indico.cern.ch/event/1101193/">Amplitudes 2022</a>, Prague </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
@@ -167,7 +171,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
-    <div class="col-2" style="text-align:right">  </div>
+    <div class="col-2" style="text-align:right"> </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://pitp.phas.ubc.ca/upcoming/index.html">Special Seminar</a>,  PITP UBC, Vancouver </div>
@@ -175,7 +179,7 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://indico.mitp.uni-mainz.de/event/296/">YOUNGST@RS - Color-Kinematics Conference</a>,  MITP </div>
-    <div class="col-2" style="text-align:right">  </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://youtu.be/om2mZYQ6WZE">video</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://indico.mpp.mpg.de/category/54/"> Theory Seminar</a>, Max Planck Institut für Physik, Munich </div>
@@ -187,15 +191,15 @@ Office: PAB 4-737 <br>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022:  <a href="https://www.kitp.ucsb.edu/strings/seminars"> High Energy and Gravity Seminar </a> KITP, Santa Barbara </div>
-    <div class="col-2" style="text-align:right">  </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=bPA0VU2luaA">video</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 04/2022:<a href="https://hetg.physics.harvard.edu/seminar-schedule"> Swampland Seminar</a>, Harvard University </div>
-    <div class="col-2" style="text-align:right">   </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=bPA0VU2luaA">video</a>)  </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2022: <a href="https://www.ias.edu/sns/astrophysics/astrophysics-seminars"> Astrophysics Seminar</a>, IAS Princeton</div>
-    <div class="col-2" style="text-align:right"> </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://www.ias.edu/video/collider-tools-classical-gravity">video</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2022: <a href="https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-tba-zoom">HET Seminar</a>, Princeton University</div>

@@ -30,8 +30,12 @@ Office: PAB 4-737 <br>
 ### Research ###
 
   <div class="row">
-    <div class="col-md-10 col-0"> <h4> Publications </h4> </div>
-    <div class="col-md-2 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>) </div>
+    <div class="col-md-8 col-0"> <h4> Publications </h4> </div>
+    <div class="col-md-4 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>, <a href="https://scholar.google.com/citations?user=oASELmIAAAAJ&hl=en&authuser=1">Google Scholar</a>)</div>
+  </div>
+  <div class="row">
+    <div class="col-md-10 col-0">Graviton partial waves and causality in higher dimensions</div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2205.01495">arXiv:2205.01495</a> </div>
   </div>
   <div class="row">
     <div class="col-md-10 col-0">Non-perturbative double copy in Flatland</div>
@@ -139,18 +143,6 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 05/2022: Quantum Gravity Seminar, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 05/2022: <a href="https://www.ias.edu/possible-and-impossible-effective-field-theory-s-matrix-swampland"> Possible and Impossible in Effective Field Theory</a>, IAS, Princeton </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 05/2022: <a href="https://sites.google.com/view/all-things-eft"> All Things EFT</a>, Virtual </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
     <div class="col-10"> 05/2022: <a href="https://seminars.ihes.fr/quantum/">Quantum Encounters</a>, IHES </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
@@ -169,6 +161,18 @@ Office: PAB 4-737 <br>
 
 #### Talks ####
 
+<div class="row">
+    <div class="col-10"> 05/2022: <a href="https://sites.google.com/view/all-things-eft"> All Things EFT</a>, Virtual </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: <a href="https://www.ias.edu/possible-and-impossible-effective-field-theory-s-matrix-swampland"> Possible and Impossible in Effective Field Theory</a>, IAS, Princeton </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: Quantum Gravity Seminar, Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Potsdam </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
 <div class="row">
     <div class="col-10"> 04/2022: <a href="https://www.kitp.ucsb.edu/activities/gwaves-c22">"Storming the Gravitational Wave Frontier"</a>, KITP </div>
     <div class="col-2" style="text-align:right"> </div>
@@ -394,7 +398,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 04/20/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 05/15/22 </div>
 </div>
 
 <!--

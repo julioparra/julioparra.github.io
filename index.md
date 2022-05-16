@@ -140,6 +140,8 @@ Office: PAB 4-737 <br>
 
 <br>
 
+
+
 #### Upcoming Talks ####
 
 <div class="row">
@@ -158,6 +160,14 @@ Office: PAB 4-737 <br>
 <br>
 
 
+#### Lectures ####
+
+<div class="row">
+    <div class="col-9"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
+    <div class="col-3" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=xAUHiBu5jUA&list=PL2Qie6Sz_Y_SDX7r32yYTIW_FztSE5rdM&index=1">video</a>) </div>
+</div>
+
+<br>
 
 #### Talks ####
 
@@ -260,10 +270,6 @@ Office: PAB 4-737 <br>
 <div class="row">
     <div class="col-10"> 04/2021: TH String Theory Seminar,  CERN </div>
     <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-9"> 04/2021: "Gravitational scattering, inspiral, and radiation" workshop,  Galileo Galilei Institute </div>
-    <div class="col-3" style="text-align:right"> (<a href="https://www.youtube.com/watch?v=xAUHiBu5jUA">lecture 1</a>, <a href="https://www.youtube.com/watch?v=FwpXN2t5UEE">lecture 2</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 03/2021: EPP Theory Seminar,  SLAC </div>

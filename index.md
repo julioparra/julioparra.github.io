@@ -47,14 +47,6 @@ Office: PAB 4-737 <br>
 #### Upcoming Talks ####
 
 <div class="row">
-    <div class="col-10"> 05/2022: <a href="https://seminars.ihes.fr/quantum/">Quantum Encounters</a>, IHES </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
-    <div class="col-10"> 05/2022: <a href="https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2022/">Amplitudes Meets Cosmology 2022</a>, Scotland </div>
-    <div class="col-2" style="text-align:right">  </div>
-</div>
-<div class="row">
     <div class="col-10"> 08/2022: <a href="https://indico.cern.ch/event/1101193/">Amplitudes 2022</a>, Prague </div>
     <div class="col-2" style="text-align:right">  </div>
 </div>
@@ -74,8 +66,16 @@ Office: PAB 4-737 <br>
 #### Talks ####
 
 <div class="row">
-    <div class="col-10"> 05/2022: <a href="https://sites.google.com/view/all-things-eft"> All Things EFT</a>, Virtual </div>
+    <div class="col-10"> 05/2022: <a href="https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2022/">Amplitudes Meets Cosmology 2022</a>, Scotland </div>
     <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: <a href="https://seminars.ihes.fr/quantum/">Quantum Encounters</a>, IHES </div>
+    <div class="col-2" style="text-align:right">  </div>
+</div>
+<div class="row">
+    <div class="col-10"> 05/2022: <a href="https://sites.google.com/view/all-things-eft"> All Things EFT</a>, Virtual </div>
+    <div class="col-2" style="text-align:right"> (<a href="https://youtu.be/Ab5rQQ4345U">video</a>) </div>
 </div>
 <div class="row">
     <div class="col-10"> 05/2022: <a href="https://www.ias.edu/possible-and-impossible-effective-field-theory-s-matrix-swampland"> Possible and Impossible in Effective Field Theory</a>, IAS, Princeton </div>
@@ -306,38 +306,7 @@ Office: PAB 4-737 <br>
 
 <div class="row">
     <div class="col-6">  </div>
-    <div class="col-6" style="text-align:right">  Updated: 05/15/22 </div>
+    <div class="col-6" style="text-align:right">  Updated: 05/23/22 </div>
 </div>
 
-<!--
 
-***
-
-<br>
-
-### Teaching ###
-
-<div class="row">
-    <div class="col-10"> Spring 2019: UCLA Physics 127  - General Relativity </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/19S-PHYSICS127-1">material</a>) </div>
-</div>
-<div class="row">
-    <div class="col-10"> Fall 2018:   UCLA Physics 495  - Teaching College Physics </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18F-PHYSICS495-1">material</a>) </div>
-</div>
-<div class="row">
-    <div class="col-10"> Winter 2018: UCLA Physics 131A - Mathematical Methods of Physics </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/18W-PHYSICS131-1">material</a>) </div>
-</div>
-<div class="row">
-    <div class="col-10"> Fall 2017:   UCLA Physics 6B   - Physics for Life Sciences Majors </div>
-    <div class="col-2" style="text-align:right">  (<a href="https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1">material</a>) </div>
-</div>
--->
-
-<!--
-Spring 2019: UCLA Physics 127  - General Relativity ([material](https://ccle.ucla.edu/course/view/19S-PHYSICS127-1))  
-Fall 2018:   UCLA Physics 495  - Teaching College Physics ([material](https://ccle.ucla.edu/course/view/18F-PHYSICS495-1))  
-Winter 2018: UCLA Physics 131A - Mathematical Methods of Physics ([material](https://ccle.ucla.edu/course/view/18W-PHYSICS131-1))  
-Fall 2017:   UCLA Physics 6B   - Physics for Life Sciences Majors  ([material](https://ccle.ucla.edu/course/view/17F-PHYSICS6B-1))
--->

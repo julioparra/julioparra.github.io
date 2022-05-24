@@ -346,6 +346,7 @@ DEPENDENCIES
   github-pages
   jekyll-bootstrap-sass
   jekyll-octicons
+  nokogiri (>= 1.13.6)
   octicons
   sass-rails (>= 3.2)
   webrick (~> 1.7)

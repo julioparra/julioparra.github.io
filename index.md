@@ -33,111 +33,13 @@ Office: PAB 4-737 <br>
     <div class="col-md-8 col-0"> <h4> Publications </h4> </div>
     <div class="col-md-4 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>, <a href="https://scholar.google.com/citations?user=oASELmIAAAAJ&hl=en&authuser=1">Google Scholar</a>)</div>
   </div>
+  {% for paper in site.data.papers %}
   <div class="row">
-    <div class="col-md-10 col-0">Graviton partial waves and causality in higher dimensions</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2205.01495">arXiv:2205.01495</a> </div>
+    <div class="col-md-10 col-0"> {{ paper.title }} </div>
+    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/{{ paper.arxivnumber }}">arXiv:{{ paper.arxivnumber }}</a> </div>
   </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Non-perturbative double copy in Flatland</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2204.07130">arXiv:2204.07130</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Geometry-kinematics duality</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2202.06972">arXiv:2202.06972</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Causality constraints on corrections to Einstein gravity</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.06602">arXiv:2201.06602</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">On-shell correlators and color-kinematics duality in curved symmetric spacetimes</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2201.05147">arXiv:2201.05147</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Scattering amplitudes, the tail effect, and conservative binary dynamics at O(G^4)</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2112.10750">arXiv:2112.10750</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Geometric soft theorems</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2111.03045">arXiv:2111.03045</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Holomorphic modular bootstrap revisited</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2107.13557">arXiv:2107.13557</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Radiative classical gravitational observables at O(G^3) from scattering amplitudes</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2104.03957">arXiv:2104.03957</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Gravitational bremsstrahlung from reverse unitarity</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2101.07255">arXiv:2101.07255</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Scattering amplitudes and conservative binary dynamics at O(G^4)</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2101.07254">arXiv:2101.07254</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Leading nonlinear tidal effects and scattering amplitudes</div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="http://arxiv.org/abs/2010.08559">arXiv:2010.08559</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Structure of two-loop SMEFT anomalous dimensions via on-shell methods </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.12917">arXiv:2005.12917</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0">Extremal black hole scattering at O(G^3) </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2005.04236">arXiv:2005.04236</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Universality in the classical limit of massless gravitational scattering </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/2002.02459">arXiv:2002.02459</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Topological superconductors on superstring worldsheets </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1911.11780">arXiv:1911.11780</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Non-renormalization and operator mixing via on-shell methods </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1910.05831">arXiv:1910.05831</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Logarithmic forms and differential equations for Feynman integrals </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.04777">arXiv:1909.04777</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Gravity integrands from the ultraviolet </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1909.02003">arXiv:1909.02003</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> GSO projections via SPT phases </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1908.04805">arXiv:1908.04805</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Two-loop n-point anomalous amplitudes in N=4 supergravity  </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1905.05151">arXiv:1905.05151</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Bootstrapping two-loop Feynman integrals for planar N=4 sYM  </div>
-    <div class="col-md-2 col-12" style="text-align:right"> <a href="https://arxiv.org/abs/1806.06072">arXiv:1806.06072</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Ultraviolet properties of N=8 supergravity at five loops </div>
-    <div class="col-md-2 col-12" style="text-align:right">  <a href="https://arxiv.org/abs/1804.09311">arXiv:1804.09311</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Cancelling the U(1) anomaly in the S-matrix of N=4 supergravity </div>
-    <div class="col-md-2 col-12" style="text-align:right">  <a href="https://arxiv.org/abs/1712.03928">arXiv:1712.03928</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Curvature-squared multiplets, evanescent effects and the U(1) anomaly in N=4 supergravity </div>
-    <div class="col-md-2 col-12" style="text-align:right">  <a href="https://arxiv.org/abs/1706.01486">arXiv:1706.01486</a> </div>
-  </div>
-  <div class="row">
-    <div class="col-md-10 col-0"> Manifesting enhanced cancellations in supergravity: integrands versus integrals </div>
-    <div class="col-md-2 col-12" style="text-align:right">  <a href="https://arxiv.org/abs/1703.08927">arXiv:1703.08927</a> </div>
-  </div>
-
+  {% endfor %}
+ 
 <br>
 
 

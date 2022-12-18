@@ -10,6 +10,8 @@ github_username:  julioparra
 
 # Build settings
 markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 plugins:
   - jekyll-bootstrap-sass

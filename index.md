@@ -6,7 +6,7 @@ layout: default
 <img src="/images/julio.jpg">  
 </div>
 <div class="col-8 col-sm-8 col-md-4">
-Julio Parra Martinez <br> 
+Julio Parra-Martinez <br> 
 California Institute of Technology, <br> 
 1200 East California Boulevard,  <br>
 Pasadena, California 91125, <br>

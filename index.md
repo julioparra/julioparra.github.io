@@ -47,7 +47,7 @@ Office: PAB 4-737 <br>
 
 #### Upcoming Talks ####
 
-{% for talk in site.data.talks %}
+{% for talk in site.data.talks reversed %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
   {% if talkdate > datenow %}
   <div class="row">

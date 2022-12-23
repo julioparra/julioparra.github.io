@@ -9,9 +9,25 @@
 - date: 2023-02-17
   name: EPP Theory Seminar
   type: seminar
-  link: 
+  link: https://epp.slac.stanford.edu/event-categories/epp-theory-seminars
   institution: SLAC 
   location:
+  video: 
+
+- date: 2023-01-17
+  name: High Energy Physics Seminar
+  type: seminar
+  link: https://physics.nyu.edu/events.html?EventsPage=hep
+  institution: NYU 
+  location: New York
+  video: 
+
+- date: 2023-01-17
+  name: High Energy Theory Seminar
+  type: seminar
+  link: https://physics.tamu.edu/events/categories/lectures/het/
+  institution: Texas A&M University
+  location: College Station
   video: 
 
 - date: 2022-12-19

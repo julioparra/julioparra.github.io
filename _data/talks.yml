@@ -1,17 +1,33 @@
+- date: 2023-05-19
+  name: EPP Theory Seminar
+  type: seminar
+  link: https://epp.slac.stanford.edu/event-categories/epp-theory-seminars
+  institution: SLAC 
+  location:
+  video: 
+
+- date: 2023-04-20
+  name: CMSA Colloquium, 
+  type: colloquium
+  link: 
+  institution: Harvard U. 
+  location: Cambridge
+  video: 
+
+- date: 2023-04-19
+  name: Theoretical Tests of the Landscape
+  type: conference
+  link: 
+  institution: Amherst Center for Fundamental Interactions 
+  location: Amherst
+  video: 
+
 - date: 2023-04-15
   name: APS April Meeting
   type: conference
   link: https://april.aps.org
   institution: Plenary talk 
   location: Minneapolis
-  video: 
-
-- date: 2023-02-17
-  name: EPP Theory Seminar
-  type: seminar
-  link: https://epp.slac.stanford.edu/event-categories/epp-theory-seminars
-  institution: SLAC 
-  location:
   video: 
 
 - date: 2023-01-17

@@ -1,3 +1,11 @@
+- date: 2023-07-23
+  name: Strings 2023
+  type: conference
+  link: https://events.perimeterinstitute.ca/event/29/overview
+  institution: Perimeter Institute 
+  location:
+  video: 
+
 - date: 2023-05-19
   name: EPP Theory Seminar
   type: seminar
@@ -26,7 +34,7 @@
   name: APS April Meeting
   type: conference
   link: https://april.aps.org
-  institution: Plenary talk 
+  institution: Invited talk 
   location: Minneapolis
   video: 
 
@@ -178,7 +186,7 @@
   name: APS April Meeting
   type: conference
   link: https://meetings.aps.org/Meeting/APR22/Session/L01
-  institution: Plenary Talk
+  institution: Invited Talk
   location: New York, Virtual
   video: 
 

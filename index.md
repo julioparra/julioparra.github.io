@@ -7,10 +7,12 @@ layout: default
 </div>
 <div class="col-8 col-sm-8 col-md-4">
 Julio Parra-Martinez <br> 
-California Institute of Technology, <br> 
-1200 East California Boulevard,  <br>
-Pasadena, California 91125, <br>
-United States <br>
+University of British Columbia, <br> 
+Vancouver Campus,  <br>
+Department of Physics & Astronomy,  <br>
+325 - 6224 Agricultural Road,  <br>
+Vancouver, BC V6T 1Z1, <br>
+Canada <br>
 <!--
 <br>
 Office: PAB 4-737 <br>
@@ -18,7 +20,7 @@ Office: PAB 4-737 <br>
 <a href="/contact/index.html">Contact </a>
 </div>
 <div class="col-4 col-sm-4 col-md-3">
-<img src="/images/caltech_seal.png" class="float-sm-center float-md-right" style="width:100%">  
+<img src="/images/ubc-crest.png" class="float-sm-center float-md-right" style="width:75%">  
 </div>
 </div>
 <br>
@@ -45,7 +47,7 @@ Office: PAB 4-737 <br>
 
 {% capture datenow %}{{'now' | date: '%s'}}{% endcapture %}
 
-#### Upcoming Talks ####
+#### Upcoming Talks, Lectures, etc ####
 
 {% for talk in site.data.talks reversed %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}

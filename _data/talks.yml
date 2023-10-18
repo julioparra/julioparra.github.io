@@ -1,10 +1,98 @@
+- date: 2024-06-03
+  name: TASI 2024
+  type: lectures
+  link: 
+  institution: UC Boulder
+  location: 
+  video: 
+
+- date: 2024-01-14
+  name: Iberian Strings 2024
+  type: conference
+  link: http://home.phy.iitb.ac.in/ism2023/index.html
+  institution: Indian Institute of Technology
+  location: Mumbai, India
+  video: 
+
+- date: 2023-12-15
+  name: Indian Strings Meeting 2023
+  type: conference
+  link: https://www.triumf.ca/research-program/lectures-conferences/upcoming-seminars-lectures
+  institution: TRIUMF
+  location: Vancouver, CA
+  video: 
+
+- date: 2023-11-23
+  name: TRIUMF Colloquium
+  type: colloquium
+  link: https://www.triumf.ca/research-program/lectures-conferences/upcoming-seminars-lectures
+  institution: TRIUMF
+  location: Vancouver, CA
+  video: 
+
+- date: 2024-11-15
+  name: UBC Gravity Seminar
+  type: seminar
+  link: https://pitp.phas.ubc.ca/GravitySeminars/index.html
+  institution: UBC
+  location: Vancouver, CA
+  video: 
+
+- date: 2024-11-07
+  name: Particle Theory Seminar
+  type: seminar
+  link: https://phys.washington.edu/events/series/particle-theory
+  institution: University of Washington
+  location: Seattle
+  video: 
+
+- date: 2023-10-12
+  name: Theoretical Physics seminar
+  type: seminar
+  link: 
+  institution:  IPhT
+  location: CEA Saclay
+  video: 
+
+- date: 2023-09-19
+  name: Correlators in Cortona
+  type: conference
+  link: https://indico.sns.it/event/55/timetable/#20230919
+  institution:  
+  location: Monte Verità, Ascona
+  video: 
+
+- date: 2023-09-13
+  name: Swamplandia workshop (Discussion co-lead with Thomas Van Riet)
+  type: conference
+  link: https://eventos.uam.es/99620/detail/swamplandia.html
+  institution:  
+  location: Madrid
+  video: 
+
+- date: 2023-08-17
+  name: Beyond BSM
+  type: conference
+  link: https://indico.cern.ch/event/824151/timetable/#20230813
+  institution:  
+  location: Monte Verità, Ascona
+  video: 
+
+- date: 2023-08-11
+  name: Traversing the Particle Physics Peaks — Phenomenology to Formal
+  type: seminar
+  link:
+  institution: Aspen Center for Physics 
+  location:
+  video: 
+
 - date: 2023-07-23
   name: Strings 2023
   type: conference
   link: https://events.perimeterinstitute.ca/event/29/overview
   institution: Perimeter Institute 
   location:
-  video: 
+  video: https://pirsa.org/23070019
 
 - date: 2023-05-19
   name: EPP Theory Seminar
@@ -14,8 +102,8 @@
   location:
   video: 
 
-- date: 2023-04-21
-  name: CMSA Colloquium, 
+- date: 2023-04-20
+  name: CMSA Colloquium 
   type: seminar
   link: 
   institution: Harvard U. 

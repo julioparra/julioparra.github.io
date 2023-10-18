@@ -63,11 +63,11 @@
   video: 
 
 - date: 2023-09-13
-  name: Swamplandia workshop (Discussion co-lead with Thomas Van Riet)
+  name: Swamplandia workshop 
   type: conference
   link: https://eventos.uam.es/99620/detail/swamplandia.html
   institution:  
-  location: Madrid
+  location: (Discussion co-led with Thomas Van Riet), Madrid
   video: 
 
 - date: 2023-08-17
@@ -113,7 +113,7 @@
 - date: 2023-04-19
   name: Theoretical Tests of the Landscape
   type: conference
-  link: 
+  link: https://www.physics.umass.edu/acfi/seminars-and-workshops/theoretical-tests-of-the-landscape
   institution: Amherst Center for Fundamental Interactions 
   location: Amherst
   video: 

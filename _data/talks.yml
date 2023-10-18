@@ -6,20 +6,20 @@
   location: 
   video: 
 
-- date: 2024-01-14
+- date: 2024-01-17
   name: Iberian Strings 2024
   type: conference
-  link: http://home.phy.iitb.ac.in/ism2023/index.html
-  institution: Indian Institute of Technology
-  location: Mumbai, India
+  link: https://indico.cern.ch/event/1322387/timetable/
+  institution: 
+  location: Porto, Portugal
   video: 
 
 - date: 2023-12-15
   name: Indian Strings Meeting 2023
   type: conference
-  link: https://www.triumf.ca/research-program/lectures-conferences/upcoming-seminars-lectures
-  institution: TRIUMF
-  location: Vancouver, CA
+  link: http://home.phy.iitb.ac.in/ism2023/index.html
+  institution: Indian Institute of Technology
+  location: Mumbai, India
   video: 
 
 - date: 2023-11-23

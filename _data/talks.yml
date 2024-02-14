@@ -6,6 +6,14 @@
   location: 
   video: 
 
+- date: 2024-02-26
+  name: Theory HEP seminars
+  type: seminar
+  link: http://www.physics.mcgill.ca/seminars/CHEP.html#IHEP
+  institution: McGill U.
+  location: Zoom 
+  video: 
+
 - date: 2024-01-17
   name: Iberian Strings 2024
   type: conference

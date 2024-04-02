@@ -1,3 +1,19 @@
+- date: 2024-12-09
+  name: QCD Meets Gravity 2024
+  type: conference
+  link: https://indico.cern.ch/event/1355263/
+  institution: National Taiwan University
+  location: Taipei
+  video: 
+
+- date: 2024-07-18
+  name: ICHEP 2024
+  type: conference
+  link: https://indico.cern.ch/event/1291157/overview 
+  institution:
+  location: Prague
+  video: 
+
 - date: 2024-06-03
   name: TASI 2024
   type: lectures

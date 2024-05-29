@@ -7,25 +7,42 @@ layout: default
 </div>
 <div class="col-8 col-sm-8 col-md-4">
 Julio Parra-Martinez <br> 
-University of British Columbia, <br> 
-Vancouver Campus,  <br>
-Department of Physics & Astronomy,  <br>
-325 - 6224 Agricultural Road,  <br>
-Vancouver, BC V6T 1Z1, <br>
-Canada <br>
+Permanent professor <br>
+<a href="https://www.ihes.fr/en/">IHES </a> <br>
+<a href="https://www.ihes.fr/en/directions/"> 35 Route de Chartres,  <br>
+91440, Bures-sur-Yvette,   <br>
+France</a>  <br>
+Office: 0N5 <br>
+Contact: <a href="mailto:julio@ihes.fr"> julio (at) ihes.fr</a> <br>
 <!--
-<br>
-Office: PAB 4-737 <br>
--->
+
 <a href="/contact/index.html">Contact </a>
+<D-c>-->
 </div>
-<div class="col-4 col-sm-4 col-md-3">
-<img src="/images/ubc-crest.png" class="float-sm-center float-md-right" style="width:75%">  
+<div class="col-5 col-sm-5 col-md-3">
+<img src="/images/IHES-logo-3-filets.png" class="float-sm-center float-md-right" style="width:100%">  
 </div>
 </div>
 <br>
 
 ***
+
+
+<!--
+
+I am a theoretical physicist working on quantum field theory, scattering amplitudes, gravitation, effective field theories and string theory. 
+<br>
+
+### My group ###
+
+Jonah Berean-Dutcher (PhD student, UBC) <br>
+Rachel Wang (PhD student, UBC) <br>
+Vincent He (Masters student, UBC) <br>
+<br>
+Past members:
+Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
+-->
+
 
 <br>
 

@@ -1,3 +1,19 @@
+- date: 2025-07-09
+  name: Young Frontiers Meeting 2025
+  type: lectures
+  link: 
+  institution: ICPT-SAIFR 
+  location: Sao Paulo
+  video: 
+
+- date: 2025-03-03
+  name: Black Hole Initiative Colloquium
+  type: colloquium
+  link: https://bhi.fas.harvard.edu/events/?event_type=bhi-colloquium
+  institution: Harvard U.
+  location: Cambridge
+  video: 
+
 - date: 2024-12-09
   name: QCD Meets Gravity 2024
   type: conference
@@ -6,12 +22,44 @@
   location: Taipei
   video: 
 
+- date: 2024-09-26
+  name: Korea-France joint workshop on string theory
+  type: conference
+  link: https://physics.kias.re.kr/KIAS-SACLAY/#home
+  institution: KIAS
+  location: Seoul
+  video: 
+
+- date: 2024-09-14
+  name: Amplitudes Meets Cosmology 2022
+  type: conference
+  link: https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2024/
+  institution:
+  location: Vidago, Portugal
+  video: 
+
+- date: 2024-09-06
+  name: Physics Colloquium
+  type: colloquium
+  link: 
+  institution: Seoul National University
+  location: Seoul
+  video: 
+
 - date: 2024-07-18
   name: ICHEP 2024
   type: conference
   link: https://indico.cern.ch/event/1291157/overview 
   institution:
   location: Prague
+  video: 
+
+- date: 2024-06-28
+  name: S-matrix bootstrap workshop
+  type: conference
+  link: https://bootstrapcollaboration.com/smatrix2024/ 
+  institution: University of Iceland
+  location: Reykjavik
   video: 
 
 - date: 2024-06-03

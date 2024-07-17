@@ -22,6 +22,14 @@
   location: Taipei
   video: 
 
+- date: 2024-11-15
+  name: Theoretical Physics Colloquium 
+  type: colloquium
+  link:
+  institution: Imperial College
+  location: London
+  video: 
+
 - date: 2024-09-26
   name: Korea-France joint workshop on string theory
   type: conference

@@ -14,6 +14,14 @@
   location: Cambridge
   video: 
 
+- date: 2024-01-28
+  name: High-Energy Theory Seminar
+  type: seminar
+  link: 
+  institution: CERN
+  location: Geneva
+  video: 
+
 - date: 2024-12-09
   name: QCD Meets Gravity 2024
   type: conference
@@ -47,8 +55,8 @@
   video: 
 
 - date: 2024-09-06
-  name: Physics Colloquium
-  type: colloquium
+  name: High-Energy Theory Seminar
+  type: seminar
   link: 
   institution: Seoul National University
   location: Seoul

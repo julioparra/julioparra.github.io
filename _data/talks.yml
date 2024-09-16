@@ -22,6 +22,14 @@
   location: Geneva
   video: 
 
+- date: 2025-01-10
+  name: Strings 2025
+  type: conference
+  link: 
+  institution: NYU 
+  location: Abu Dhabi
+  video: 
+
 - date: 2024-12-09
   name: QCD Meets Gravity 2024
   type: conference
@@ -36,6 +44,14 @@
   link:
   institution: Imperial College
   location: London
+  video: 
+
+- date: 2024-30-10
+  name: EFT and Multi-Loop Methods for Advancing Precision in Collider and Gravitational Wave Physics
+  type: conference
+  link: https://www.munich-iapbp.de/eft-multi-loop-methods
+  institution: MIAPPb
+  location: Munich
   video: 
 
 - date: 2024-09-26

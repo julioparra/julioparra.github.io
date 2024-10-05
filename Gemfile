@@ -6,4 +6,4 @@ gem 'bootstrap-sass'
 gem 'sass-rails', '>= 3.2'
 gem 'octicons'
 gem 'nokogiri', '>= 1.16.5'
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"

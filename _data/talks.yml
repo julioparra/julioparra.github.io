@@ -17,23 +17,23 @@
 - date: 2025-02-11
   name: Strings Seminar
   type: seminar
-  link: 
+  link: https://iop.uva.nl/content/research-groups/strings/seminars/google-calendar/index.html
   institution: University of Amsterdam
-  location: 
+  location: Amsterdam
   video: 
 
 - date: 2025-01-30
   name: Seminar
   type: seminar
-  link: 
+  link: https://www.ijclab.in2p3.fr/en/seminaire/
   institution: IJCLab
   location: Orsay
   video: 
 
 - date: 2025-01-28
-  name: High-Energy Theory Seminar
+  name: String Theory Seminar
   type: seminar
-  link: 
+  link: https://indico.cern.ch/category/104/
   institution: CERN
   location: Geneva
   video: 
@@ -41,7 +41,7 @@
 - date: 2025-01-10
   name: Strings 2025
   type: conference
-  link: 
+  link: https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html
   institution: NYU 
   location: Abu Dhabi
   video: 
@@ -52,12 +52,19 @@
   link: https://indico.cern.ch/event/1355263/
   institution: National Taiwan University
   location: Taipei
+
+- date: 2024-12-05
+  name: Rencontres Theoriciennes
+  type: seminar
+  link: https://string.lpthe.jussieu.fr/today.pl?lang=eng
+  institution: Institut Henri Poincare
+  location: Paris
   video: 
 
 - date: 2024-11-15
-  name: Theoretical Physics Colloquium 
-  type: colloquium
-  link:
+  name: Theoretical Seminar 
+  type: seminar
+  link: https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
   institution: Imperial College
   location: London
   video: 

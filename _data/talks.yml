@@ -46,6 +46,13 @@
   location: Abu Dhabi
   video: 
 
+- date: 2024-12-20
+  name: Energy Operators in Particle Physics, Quantum Field Theory and Gravity
+  type: workshop
+  link: https://scgp.stonybrook.edu/archives/43087
+  institution: Simons Center for Geometry and Physics
+  location: New York
+
 - date: 2024-12-09
   name: QCD Meets Gravity 2024
   type: conference
@@ -62,7 +69,7 @@
   video: 
 
 - date: 2024-11-15
-  name: Theoretical Seminar 
+  name: Theoretical Physics Colloquium
   type: seminar
   link: https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
   institution: Imperial College

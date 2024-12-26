@@ -1,9 +1,89 @@
-- date: 2025-07-09
-  name: Young Frontiers Meeting 2025
+- date: 2025-12-09
+  name: QCD Meets Gravity school 2025
   type: lectures
   link: 
   institution: ICPT-SAIFR 
   location: Sao Paulo
+  video: 
+
+- date: 2025-10-13
+  name: School of Analytic Computing in Theoretical High-Energy Physics
+  type: lectures
+  link: 
+  institution: Atrani
+  location: Italy
+  video: 
+
+- date: 2025-09-
+  name: 2nd Annual Workshop on Self-Force and Amplitudes
+  type: conference
+  link: https://indico.cern.ch/event/1485758/
+  institution: University of Southampton
+  location: UK
+  video: 
+
+- date: 2025-07-09
+  name: Young Frontiers Meeting 2025
+  type: lectures
+  link: https://sites.google.com/view/youngfrontiersmeeting/home
+  institution: ICPT-SAIFR 
+  location: Sao Paulo
+  video: 
+
+- date: 2025-07-07
+  name: Constraining EFTs without Lorentz
+  type: conference
+  link: https://www.ifpu.it/focus-week-25-07-07/
+  institution: ICTP
+  location: Trieste
+  video: 
+
+- date: 2025-06-23
+  name: ENS Summer Institute
+  type: conference
+  link: 
+  institution: Ecole Normale Superieure
+  location: Paris
+  video: 
+
+- date: 2025-06-10
+  name: Amplitudes Summer School
+  type: lectures
+  link: 
+  institution: Seoul National University
+  location: Seoul
+  video: 
+
+- date: 2025-05-23
+  name: Astrophysical and Cosmological Relativity Seminar
+  type: seminar
+  link: 
+  institution: Albert Einstein Istitute, MPI
+  location: Potsdam
+  video: 
+
+- date: 2025-05-08
+  name: Theoretical Physics Seminar
+  type: seminar
+  link: 
+  institution: Scuola Normale Superiore
+  location: Pisa
+  video: 
+
+- date: 2025-04-23
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: Humboldt U.
+  location: Berlin
+  video: 
+
+- date: 2025-03-10
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: MIT 
+  location: Cambridge, MA
   video: 
 
 - date: 2025-03-03
@@ -59,14 +139,6 @@
   link: https://indico.cern.ch/event/1355263/
   institution: National Taiwan University
   location: Taipei
-
-- date: 2024-12-05
-  name: Rencontres Theoriciennes
-  type: seminar
-  link: https://string.lpthe.jussieu.fr/today.pl?lang=eng
-  institution: Institut Henri Poincare
-  location: Paris
-  video: 
 
 - date: 2024-11-15
   name: Theoretical Physics Colloquium

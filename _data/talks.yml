@@ -14,7 +14,7 @@
   location: Italy
   video: 
 
-- date: 2025-09-
+- date: 2025-09-09
   name: 2nd Annual Workshop on Self-Force and Amplitudes
   type: conference
   link: https://indico.cern.ch/event/1485758/
@@ -76,6 +76,14 @@
   link: 
   institution: Humboldt U.
   location: Berlin
+  video: 
+
+- date: 2025-04-10
+  name: Rencontres Theoriciennes
+  type: seminar
+  link: 
+  institution: Institut Henri Poincare
+  location: Paris
   video: 
 
 - date: 2025-03-10

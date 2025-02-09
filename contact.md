@@ -48,7 +48,7 @@ exclude: true
            <select class="form-control" id="exampleSelect1" name="Topic">
 	     <option>-----------</option>
              <option>Research</option>
-             <option>Teaching</option>
+             <option>Supervision</option>
              <option>Other</option>
            </select>
          </div>

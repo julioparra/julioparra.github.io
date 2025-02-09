@@ -64,14 +64,30 @@ Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
 
 {% capture datenow %}{{'now' | date: '%s'}}{% endcapture %}
 
-#### Upcoming Talks, Lectures, etc ####
+#### Upcoming Seminars, Talks, etc ####
 
 {% for talk in site.data.talks reversed %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
+  {% if talk.type == "conference" or talk.type == "workshop" or talk.type == "seminar" %}
   {% if talkdate > datenow %}
   <div class="row">
      <div class="col-11"> {{ talk.date | date: "%m/%Y" }}: {% if talk.link != nil %} <a href="{{ talk.link }}">{{ talk.name }}</a>{% else %}{{ talk.name }}{% endif %}{% if talk.institution != nil %}, {{ talk.institution }}{% endif %}{% if talk.location != nil %}, {{ talk.location }} {% endif %} </div> 
   </div>
+  {% endif %}
+  {% endif %}
+{% endfor %}
+
+<br>
+
+#### Upcoming Lectures ####
+
+{% for talk in site.data.talks reversed %}
+{% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
+  {% if talkdate > datenow and talk.type == "lectures" %}
+  <div class="row">
+     <div class="col-11"> {{ talk.date | date: "%m/%Y" }}: {% if talk.link != nil %} <a href="{{ talk.link }}">{{ talk.name }}</a>{% else %}{{ talk.name }}{% endif %}{% if talk.institution != nil %}, {{ talk.institution }}{% endif %}{% if talk.location != nil %}, {{ talk.location }} {% endif %} </div> 
+  </div>
+  {% endif %}
   {% endif %}
 {% endfor %}
 

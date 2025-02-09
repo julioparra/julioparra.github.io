@@ -25,7 +25,7 @@
 - date: 2025-07-09
   name: Young Frontiers Meeting 2025
   type: lectures
-  link: https://sites.google.com/view/youngfrontiersmeeting/home
+  link: https://www.ictp-saifr.org/yfm2025/
   institution: ICPT-SAIFR 
   location: Sao Paulo
   video: 
@@ -41,15 +41,23 @@
 - date: 2025-06-23
   name: ENS Summer Institute
   type: conference
-  link: 
+  link: https://indico.in2p3.fr/event/34339/
   institution: Ecole Normale Superieure
   location: Paris
+  video: 
+
+- date: 2025-06-17
+  name: Amplitudes 2025
+  type: lectures
+  link: https://indico.global/event/13171/
+  institution: Seoul National University
+  location: Seoul
   video: 
 
 - date: 2025-06-10
   name: Amplitudes Summer School
   type: lectures
-  link: 
+  link: https://physics.kias.re.kr/Amplitudes2025/
   institution: Seoul National University
   location: Seoul
   video: 
@@ -62,18 +70,26 @@
   location: Potsdam
   video: 
 
+- date: 2025-05-14
+  name: 2025 Symposium of the Wolfgang Pauli Centre
+  type: conference
+  link: https://indico.desy.de/event/47240/
+  institution: DESY
+  location: Hamburg
+  video: 
+
 - date: 2025-05-08
-  name: Theoretical Physics Seminar
+  name: SNS Theory Seminar
   type: seminar
-  link: 
+  link: https://www.heptheory.sns.it/sns-theory-seminars-2024-2025
   institution: Scuola Normale Superiore
   location: Pisa
   video: 
 
 - date: 2025-04-23
-  name: Theory Seminar
+  name: QFT and Mathematical Physics Seminar
   type: seminar
-  link: 
+  link: https://qft.physik.hu-berlin.de/next-seminars/categories/pizza-seminars/
   institution: Humboldt U.
   location: Berlin
   video: 
@@ -81,7 +97,7 @@
 - date: 2025-04-10
   name: Rencontres Theoriciennes
   type: seminar
-  link: 
+  link: https://string.lpthe.jussieu.fr/today.pl?lang=eng
   institution: Institut Henri Poincare
   location: Paris
   video: 
@@ -100,6 +116,14 @@
   link: https://bhi.fas.harvard.edu/events/?event_type=bhi-colloquium
   institution: Harvard U.
   location: Cambridge
+  video: 
+
+- date: 2025-25-02
+  name: IPhT Colloquium
+  type: colloquium
+  link: https://www.ipht.fr/calendrier/
+  institution: CEA 
+  location: Saclay
   video: 
 
 - date: 2025-02-11

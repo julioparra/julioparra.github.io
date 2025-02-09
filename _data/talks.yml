@@ -48,7 +48,7 @@
 
 - date: 2025-06-17
   name: Amplitudes 2025
-  type: lectures
+  type: conference
   link: https://indico.global/event/13171/
   institution: Seoul National University
   location: Seoul
@@ -118,7 +118,7 @@
   location: Cambridge
   video: 
 
-- date: 2025-25-02
+- date: 2025-02-25
   name: IPhT Colloquium
   type: colloquium
   link: https://www.ipht.fr/calendrier/

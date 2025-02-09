@@ -28,10 +28,9 @@ Contact: <a href="mailto:julio@ihes.fr"> julio (at) ihes.fr</a> <br>
 ***
 
 
-<!--
 
-I am a theoretical physicist working on quantum field theory, scattering amplitudes, gravitation, effective field theories and string theory. 
-<br>
+
+<!--
 
 ### My group ###
 
@@ -47,6 +46,9 @@ Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
 <br>
 
 ### Research ###
+
+I am a theoretical physicist working on quantum field theory, scattering amplitudes, gravitation, effective field theories and string theory. 
+<br>
 
   <div class="row">
     <div class="col-md-8 col-0"> <h4> Publications </h4> </div>
@@ -68,7 +70,7 @@ Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
 
 {% for talk in site.data.talks reversed %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
-  {% if talk.type == "conference" or talk.type == "workshop" or talk.type == "seminar" %}
+  {% if talk.type == "conference" or talk.type == "workshop" or talk.type == "seminar" or talk.type == "colloquium" %}
   {% if talkdate > datenow %}
   <div class="row">
      <div class="col-11"> {{ talk.date | date: "%m/%Y" }}: {% if talk.link != nil %} <a href="{{ talk.link }}">{{ talk.name }}</a>{% else %}{{ talk.name }}{% endif %}{% if talk.institution != nil %}, {{ talk.institution }}{% endif %}{% if talk.location != nil %}, {{ talk.location }} {% endif %} </div> 
@@ -83,7 +85,8 @@ Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
 
 {% for talk in site.data.talks reversed %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
-  {% if talkdate > datenow and talk.type == "lectures" %}
+  {% if talk.type == "lectures" %}
+  {% if talkdate > datenow %}
   <div class="row">
      <div class="col-11"> {{ talk.date | date: "%m/%Y" }}: {% if talk.link != nil %} <a href="{{ talk.link }}">{{ talk.name }}</a>{% else %}{{ talk.name }}{% endif %}{% if talk.institution != nil %}, {{ talk.institution }}{% endif %}{% if talk.location != nil %}, {{ talk.location }} {% endif %} </div> 
   </div>

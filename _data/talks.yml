@@ -1,3 +1,337 @@
+- date: 2025-12-09
+  name: QCD Meets Gravity school 2025
+  type: lectures
+  link: 
+  institution: ICPT-SAIFR 
+  location: Sao Paulo
+  video: 
+
+- date: 2025-10-13
+  name: School of Analytic Computing in Theoretical High-Energy Physics
+  type: lectures
+  link: 
+  institution: Atrani
+  location: Italy
+  video: 
+
+- date: 2025-09-09
+  name: 2nd Annual Workshop on Self-Force and Amplitudes
+  type: conference
+  link: https://indico.cern.ch/event/1485758/
+  institution: University of Southampton
+  location: UK
+  video: 
+
+- date: 2025-07-09
+  name: Young Frontiers Meeting 2025
+  type: lectures
+  link: https://www.ictp-saifr.org/yfm2025/
+  institution: ICPT-SAIFR 
+  location: Sao Paulo
+  video: 
+
+- date: 2025-07-07
+  name: Constraining EFTs without Lorentz
+  type: conference
+  link: https://www.ifpu.it/focus-week-25-07-07/
+  institution: ICTP
+  location: Trieste
+  video: 
+
+- date: 2025-06-23
+  name: ENS Summer Institute
+  type: conference
+  link: https://indico.in2p3.fr/event/34339/
+  institution: Ecole Normale Superieure
+  location: Paris
+  video: 
+
+- date: 2025-06-17
+  name: Amplitudes 2025
+  type: lectures
+  link: https://indico.global/event/13171/
+  institution: Seoul National University
+  location: Seoul
+  video: 
+
+- date: 2025-06-10
+  name: Amplitudes Summer School
+  type: lectures
+  link: https://physics.kias.re.kr/Amplitudes2025/
+  institution: Seoul National University
+  location: Seoul
+  video: 
+
+- date: 2025-05-23
+  name: Astrophysical and Cosmological Relativity Seminar
+  type: seminar
+  link: 
+  institution: Albert Einstein Istitute, MPI
+  location: Potsdam
+  video: 
+
+- date: 2025-05-14
+  name: 2025 Symposium of the Wolfgang Pauli Centre
+  type: conference
+  link: https://indico.desy.de/event/47240/
+  institution: DESY
+  location: Hamburg
+  video: 
+
+- date: 2025-05-08
+  name: SNS Theory Seminar
+  type: seminar
+  link: https://www.heptheory.sns.it/sns-theory-seminars-2024-2025
+  institution: Scuola Normale Superiore
+  location: Pisa
+  video: 
+
+- date: 2025-04-23
+  name: QFT and Mathematical Physics Seminar
+  type: seminar
+  link: https://qft.physik.hu-berlin.de/next-seminars/categories/pizza-seminars/
+  institution: Humboldt U.
+  location: Berlin
+  video: 
+
+- date: 2025-04-10
+  name: Rencontres Theoriciennes
+  type: seminar
+  link: https://string.lpthe.jussieu.fr/today.pl?lang=eng
+  institution: Institut Henri Poincare
+  location: Paris
+  video: 
+
+- date: 2025-03-10
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: MIT 
+  location: Cambridge, MA
+  video: 
+
+- date: 2025-03-03
+  name: Black Hole Initiative Colloquium
+  type: colloquium
+  link: https://bhi.fas.harvard.edu/events/?event_type=bhi-colloquium
+  institution: Harvard U.
+  location: Cambridge
+  video: 
+
+- date: 2025-25-02
+  name: IPhT Colloquium
+  type: colloquium
+  link: https://www.ipht.fr/calendrier/
+  institution: CEA 
+  location: Saclay
+  video: 
+
+- date: 2025-02-11
+  name: Strings Seminar
+  type: seminar
+  link: https://iop.uva.nl/content/research-groups/strings/seminars/google-calendar/index.html
+  institution: University of Amsterdam
+  location: Amsterdam
+  video: 
+
+- date: 2025-01-30
+  name: Seminar
+  type: seminar
+  link: https://www.ijclab.in2p3.fr/en/seminaire/
+  institution: IJCLab
+  location: Orsay
+  video: 
+
+- date: 2025-01-28
+  name: String Theory Seminar
+  type: seminar
+  link: https://indico.cern.ch/category/104/
+  institution: CERN
+  location: Geneva
+  video: 
+
+- date: 2025-01-10
+  name: Strings 2025
+  type: conference
+  link: https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html
+  institution: NYU 
+  location: Abu Dhabi
+  video: 
+
+- date: 2024-12-20
+  name: Energy Operators in Particle Physics, Quantum Field Theory and Gravity
+  type: workshop
+  link: https://scgp.stonybrook.edu/archives/43087
+  institution: Simons Center for Geometry and Physics
+  location: New York
+
+- date: 2024-12-09
+  name: QCD Meets Gravity 2024
+  type: conference
+  link: https://indico.cern.ch/event/1355263/
+  institution: National Taiwan University
+  location: Taipei
+
+- date: 2024-11-15
+  name: Theoretical Physics Colloquium
+  type: seminar
+  link: https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
+  institution: Imperial College
+  location: London
+  video: 
+
+- date: 2024-10-30
+  name: EFT and Multi-Loop Methods for Advancing Precision in Collider and Gravitational Wave Physics
+  type: conference
+  link: https://www.munich-iapbp.de/eft-multi-loop-methods
+  institution: MIAPPb
+  location: Munich
+  video: 
+
+- date: 2024-09-26
+  name: Korea-France joint workshop on string theory
+  type: conference
+  link: https://physics.kias.re.kr/KIAS-SACLAY/#home
+  institution: KIAS
+  location: Seoul
+  video: 
+
+- date: 2024-09-14
+  name: Amplitudes Meets Cosmology 2024
+  type: conference
+  link: https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2024/
+  institution:
+  location: Vidago, Portugal
+  video: 
+
+- date: 2024-09-06
+  name: High-Energy Theory Seminar
+  type: seminar
+  link: 
+  institution: Seoul National University
+  location: Seoul
+  video: 
+
+- date: 2024-07-18
+  name: ICHEP 2024
+  type: conference
+  link: https://indico.cern.ch/event/1291157/overview 
+  institution:
+  location: Prague
+  video: 
+
+- date: 2024-06-28
+  name: S-matrix bootstrap workshop
+  type: conference
+  link: https://bootstrapcollaboration.com/smatrix2024/ 
+  institution: University of Iceland
+  location: Reykjavik
+  video: 
+
+- date: 2024-06-03
+  name: TASI 2024
+  type: lectures
+  link: https://sites.google.com/colorado.edu/tasi-2024-hub
+  institution: UC Boulder
+  location: Colorado
+  video: https://youtube.com/playlist?list=PLunZtuemnQ1dKm_HVNrTuT1X95sXlELib
+
+- date: 2024-02-26
+  name: Theory HEP seminars
+  type: seminar
+  link: http://www.physics.mcgill.ca/seminars/CHEP.html#IHEP
+  institution: McGill U.
+  location: Zoom 
+  video: 
+
+- date: 2024-01-17
+  name: Iberian Strings 2024
+  type: conference
+  link: https://indico.cern.ch/event/1322387/timetable/
+  institution: 
+  location: Porto, Portugal
+  video: 
+
+- date: 2023-12-15
+  name: Indian Strings Meeting 2023
+  type: conference
+  link: http://home.phy.iitb.ac.in/ism2023/index.html
+  institution: Indian Institute of Technology
+  location: Mumbai, India
+  video: 
+
+- date: 2023-11-23
+  name: TRIUMF Colloquium
+  type: colloquium
+  link: https://www.triumf.ca/research-program/lectures-conferences/upcoming-seminars-lectures
+  institution: TRIUMF
+  location: Vancouver, CA
+  video: 
+
+- date: 2023-11-15
+  name: UBC Gravity Seminar
+  type: seminar
+  link: https://pitp.phas.ubc.ca/GravitySeminars/index.html
+  institution: UBC
+  location: Vancouver, CA
+  video: 
+
+- date: 2023-11-07
+  name: Particle Theory Seminar
+  type: seminar
+  link: https://phys.washington.edu/events/series/particle-theory
+  institution: University of Washington
+  location: Seattle
+  video: 
+
+- date: 2023-10-12
+  name: Theoretical Physics seminar
+  type: seminar
+  link: 
+  institution:  IPhT
+  location: CEA Saclay
+  video: 
+
+- date: 2023-09-19
+  name: Correlators in Cortona
+  type: conference
+  link: https://indico.sns.it/event/55/timetable/#20230919
+  institution:  
+  location: Cortona
+  video: 
+
+- date: 2023-09-13
+  name: Swamplandia workshop 
+  type: conference
+  link: https://eventos.uam.es/99620/detail/swamplandia.html
+  institution:  
+  location: (Discussion co-led with Thomas Van Riet), Madrid
+  video: 
+
+- date: 2023-08-17
+  name: Beyond BSM
+  type: conference
+  link: https://indico.cern.ch/event/824151/timetable/#20230813
+  institution:  
+  location: Monte Verità, Ascona
+  video: 
+
+- date: 2023-08-11
+  name: Traversing the Particle Physics Peaks — Phenomenology to Formal
+  type: seminar
+  link:
+  institution: Aspen Center for Physics 
+  location:
+  video: 
+
+- date: 2023-07-23
+  name: Strings 2023
+  type: conference
+  link: https://events.perimeterinstitute.ca/event/29/overview
+  institution: Perimeter Institute 
+  location:
+  video: https://pirsa.org/23070019
+
 - date: 2023-05-19
   name: EPP Theory Seminar
   type: seminar
@@ -7,8 +341,8 @@
   video: 
 
 - date: 2023-04-20
-  name: CMSA Colloquium, 
-  type: colloquium
+  name: CMSA Colloquium 
+  type: seminar
   link: 
   institution: Harvard U. 
   location: Cambridge
@@ -17,7 +351,7 @@
 - date: 2023-04-19
   name: Theoretical Tests of the Landscape
   type: conference
-  link: 
+  link: https://www.physics.umass.edu/acfi/seminars-and-workshops/theoretical-tests-of-the-landscape
   institution: Amherst Center for Fundamental Interactions 
   location: Amherst
   video: 
@@ -26,7 +360,7 @@
   name: APS April Meeting
   type: conference
   link: https://april.aps.org
-  institution: Plenary talk 
+  institution: Invited talk 
   location: Minneapolis
   video: 
 
@@ -178,7 +512,7 @@
   name: APS April Meeting
   type: conference
   link: https://meetings.aps.org/Meeting/APR22/Session/L01
-  institution: Plenary Talk
+  institution: Invited Talk
   location: New York, Virtual
   video: 
 

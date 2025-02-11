@@ -94,6 +94,14 @@
   location: Berlin
   video: 
 
+- date: 2025-04-16
+  name: Simons Celestial Holography Satellite Meeting
+  type: workshop
+  link: 
+  institution: Simons Foundation 
+  location: New York, NY
+  video: 
+
 - date: 2025-04-10
   name: Rencontres Theoriciennes
   type: seminar
@@ -108,6 +116,14 @@
   link: 
   institution: MIT 
   location: Cambridge, MA
+  video: 
+
+- date: 2025-03-07
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: Boston University 
+  location: Boston, MA
   video: 
 
 - date: 2025-03-03

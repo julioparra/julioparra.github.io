@@ -1,9 +1,25 @@
+- date: 2025-12-15
+  name: Symbology@15
+  type: conference
+  link: 
+  institution: MPI for Physics
+  location: Munich
+  video: 
+
 - date: 2025-12-09
   name: QCD Meets Gravity school 2025
   type: lectures
   link: 
   institution: ICPT-SAIFR 
   location: Sao Paulo
+  video: 
+
+- date: 2025-11-06
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: DAMTP, University of Cambridge
+  location: Cambridge
   video: 
 
 - date: 2025-10-13
@@ -14,6 +30,14 @@
   location: Italy
   video: 
 
+- date: 2025-10-02
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: LPHT
+  location: Annecy
+  video: 
+
 - date: 2025-09-09
   name: 2nd Annual Workshop on Self-Force and Amplitudes
   type: conference
@@ -22,7 +46,7 @@
   location: UK
   video: 
 
-- date: 2025-07-09
+- date: 2025-07-01
   name: Young Frontiers Meeting 2025
   type: lectures
   link: https://www.ictp-saifr.org/yfm2025/
@@ -62,20 +86,28 @@
   location: Seoul
   video: 
 
-- date: 2025-05-23
-  name: Astrophysical and Cosmological Relativity Seminar
-  type: seminar
-  link: 
-  institution: Albert Einstein Istitute, MPI
-  location: Potsdam
-  video: 
-
 - date: 2025-05-14
   name: 2025 Symposium of the Wolfgang Pauli Centre
   type: conference
   link: https://indico.desy.de/event/47240/
   institution: DESY
   location: Hamburg
+  video: 
+
+- date: 2025-05-14
+  name: Infrared Surprises in Scattering Amplitudes
+  type: conference
+  link: https://indico.cern.ch/event/1461182/timetable/#20250512.detailed
+  institution: CERN
+  location: Geneva
+  video: 
+
+- date: 2025-05-09
+  name: Investigating Compact Objects and Binary Mergers with Gravitational Waves
+  type: workshop
+  link: https://agenda.infn.it/event/46974/
+  institution: U. Tor Vergata
+  location: Rome
   video: 
 
 - date: 2025-05-08
@@ -111,7 +143,7 @@
   video: 
 
 - date: 2025-03-10
-  name: Theory Seminar
+  name: Cosmology Coffee Seminar
   type: seminar
   link: 
   institution: MIT 

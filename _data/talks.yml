@@ -1,3 +1,11 @@
+- date: 2026-01-11
+  name: Asian Winter School on Strings, Particles and Cosmology
+  type: lectures
+  link: https://aws2025.com/
+  institution: IISER
+  location: Bhopal
+  video: 
+
 - date: 2025-12-15
   name: Symbology@15
   type: conference
@@ -22,7 +30,15 @@
   location: Cambridge
   video: 
 
-- date: 2025-10-13
+- date: 2025-11-06
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: Queen Mary University
+  location: London 
+  video: 
+
+- date: 2025-10-20
   name: School of Analytic Computing in Theoretical High-Energy Physics
   type: lectures
   link: 
@@ -30,7 +46,7 @@
   location: Italy
   video: 
 
-- date: 2025-10-02
+- date: 2025-10-09
   name: Theory Seminar
   type: seminar
   link: 
@@ -46,11 +62,19 @@
   location: UK
   video: 
 
-- date: 2025-07-01
-  name: Young Frontiers Meeting 2025
+- date: 2025-07-30
+  name: HoloGrav Young Frontiers Meeting 2025
   type: lectures
   link: https://www.ictp-saifr.org/yfm2025/
   institution: ICPT-SAIFR 
+  location: Sao Paulo
+  video: 
+
+- date: 2025-07-01
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: Universidade de Sao Paulo
   location: Sao Paulo
   video: 
 

@@ -1,4 +1,12 @@
-- date: 2026-01-11
+- date: 2026-01-28
+  name: Seed Seminar of Mathematics and Physics
+  type: seminar
+  link: https://seedseminar.apps.math.cnrs.fr
+  institution: Institut Henri Poincare
+  location: Paris
+  video: 
+
+- date: 2026-01-19
   name: Asian Winter School on Strings, Particles and Cosmology
   type: lectures
   link: https://aws2025.com/
@@ -6,20 +14,36 @@
   location: Bhopal
   video: 
 
+- date: 2026-01-12
+  name: From Analyticity to Phenomenology
+  type: workshop
+  link: https://pcts.princeton.edu/events/2026/analyticity-phenomenology
+  institution: IAS/PCTS
+  location: Princeton
+  video: 
+
 - date: 2025-12-15
   name: Symbology@15
   type: conference
-  link: 
+  link: https://indico.mpp.mpg.de/event/11294/
   institution: MPI for Physics
   location: Munich
   video: 
 
-- date: 2025-12-09
-  name: QCD Meets Gravity school 2025
-  type: lectures
+- date: 2025-12-11
+  name: Fields and Strings Seminar
+  type: seminar
+  link: https://www.theorie.physik.uni-muenchen.de/MATH/seminars/strings_and_fields/index.html
+  institution: MPI for Physics
+  location: Munich
+  video: 
+
+- date: 2025-11-11
+  name: Loop-the-loop workshop
+  type: workshop
   link: 
-  institution: ICPT-SAIFR 
-  location: Sao Paulo
+  institution: MITP
+  location: Online
   video: 
 
 - date: 2025-11-06
@@ -30,6 +54,7 @@
   location: Cambridge
   video: 
 
+
 - date: 2025-11-06
   name: Theory Seminar
   type: seminar
@@ -37,6 +62,15 @@
   institution: Queen Mary University
   location: London 
   video: 
+
+- date: 2025-10-29
+  name: Strings Online Lisbon Workshop 2025
+  type: conference
+  link: https://sites.google.com/view/sol-25-strings-online-lisbon/
+  institution: Instituto Superior Tecnico 
+  location: Lisbon
+  video: 
+
 
 - date: 2025-10-20
   name: School of Analytic Computing in Theoretical High-Energy Physics

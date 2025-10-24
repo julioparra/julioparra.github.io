@@ -1,3 +1,19 @@
+- date: 2026-05-13
+  name: School on Gravity
+  type: lectures 
+  link: https://the-center-of-gravity.com/events/the-school-on-gravity-from-motion-to-commotion-2026/
+  institution: NBI
+  location: Copenhaguen
+  video: 
+
+- date: 2026-05-13
+  name: Joint Belgian hep-th Seminars
+  type: seminar
+  link: 
+  institution: ULB
+  location: Brussels
+  video: 
+
 - date: 2026-01-28
   name: Seed Seminar of Mathematics and Physics
   type: seminar
@@ -36,6 +52,14 @@
   link: https://www.theorie.physik.uni-muenchen.de/MATH/seminars/strings_and_fields/index.html
   institution: MPI for Physics
   location: Munich
+  video: 
+
+- date: 2025-11-11
+  name: Seminar
+  type: seminar
+  link: 
+  institution: Crete Center for Theoretical Physics
+  location: Online
   video: 
 
 - date: 2025-11-11

@@ -9,7 +9,7 @@
 - date: 2026-05-13
   name: Joint Belgian hep-th Seminars
   type: seminar
-  link: 
+  link: https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/
   institution: ULB
   location: Brussels
   video: 
@@ -54,10 +54,18 @@
   location: Munich
   video: 
 
+- date: 2025-12-10
+  name: Observables in gauge theories and gravity
+  type: workshop
+  link: https://indico.in2p3.fr/event/36962/
+  institution: IPhT/CEA
+  location: France
+  video: 
+
 - date: 2025-11-11
   name: Seminar
   type: seminar
-  link: 
+  link: https://sites.google.com/view/theoretical-physics-crete/seminars/2025-2026?authuser=0
   institution: Crete Center for Theoretical Physics
   location: Online
   video: 
@@ -126,7 +134,7 @@
   link: https://www.ictp-saifr.org/yfm2025/
   institution: ICPT-SAIFR 
   location: Sao Paulo
-  video: 
+  video: https://youtube.com/playlist?list=PLunZtuemnQ1eA96k-TveZIzHSsExMopbk&si=rOoflKxCHUvs6Gwv
 
 - date: 2025-07-01
   name: Theory Seminar
@@ -158,7 +166,7 @@
   link: https://indico.global/event/13171/
   institution: Seoul National University
   location: Seoul
-  video: 
+  video: https://www.youtube.com/watch?v=rGWBGBXKc2o
 
 - date: 2025-06-10
   name: Amplitudes Summer School
@@ -174,7 +182,7 @@
   link: https://indico.desy.de/event/47240/
   institution: DESY
   location: Hamburg
-  video: 
+  video: https://video.desy.de/video/wpc-theoretical-physics-symposium-2025-julioparra-martinez/e16f41785b2d18e0edb738f656709dd3
 
 - date: 2025-05-14
   name: Infrared Surprises in Scattering Amplitudes
@@ -211,7 +219,7 @@
 - date: 2025-04-16
   name: Simons Celestial Holography Satellite Meeting
   type: workshop
-  link: 
+  link: https://indico.ph.ed.ac.uk/event/335/overview
   institution: Simons Foundation 
   location: New York, NY
   video: 
@@ -246,7 +254,7 @@
   link: https://bhi.fas.harvard.edu/events/?event_type=bhi-colloquium
   institution: Harvard U.
   location: Cambridge
-  video: 
+  video: https://www.youtube.com/watch?v=UgaBMEXsz6A
 
 - date: 2025-02-25
   name: IPhT Colloquium
@@ -254,7 +262,7 @@
   link: https://www.ipht.fr/calendrier/
   institution: CEA 
   location: Saclay
-  video: 
+  video: https://youtu.be/IExoSP3mWWI
 
 - date: 2025-02-11
   name: Strings Seminar
@@ -275,7 +283,7 @@
 - date: 2025-01-28
   name: String Theory Seminar
   type: seminar
-  link: https://indico.cern.ch/category/104/
+  link: <D-c><D-c>https://indico.cern.ch/category/104/
   institution: CERN
   location: Geneva
   video: 
@@ -286,7 +294,7 @@
   link: https://nyuad.nyu.edu/en/academics/divisions/science/strings-conference-2025-abu-dhabi.html
   institution: NYU 
   location: Abu Dhabi
-  video: 
+  video: https://youtu.be/YW5rFW3O5Rw?t=4328
 
 - date: 2024-12-20
   name: Energy Operators in Particle Physics, Quantum Field Theory and Gravity
@@ -301,6 +309,7 @@
   link: https://indico.cern.ch/event/1355263/
   institution: National Taiwan University
   location: Taipei
+  video: https://www.youtube.com/watch?v=kBmvStV-9zs
 
 - date: 2024-11-15
   name: Theoretical Physics Colloquium

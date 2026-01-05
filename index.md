@@ -8,7 +8,6 @@ layout: default
 <div class="col-8 col-sm-8 col-md-4">
 Julio Parra-Martinez <br> 
 Permanent professor <a href="/cv_short.pdf"> (CV) </a> <br>
- <br>
 <a href="https://www.ihes.fr/en/">IHES </a> <br>
 <a href="https://www.ihes.fr/en/directions/"> 35 Route de Chartres,  <br>
 91440, Bures-sur-Yvette,   <br>

@@ -31,6 +31,14 @@
   video: 
 
 - date: 2026-01-19
+  name: Lost in Translation, The Language of gravitational waves
+  type: workshop
+  link: https://indico.mitp.uni-mainz.de/event/464/page/934-speaker-list
+  institution: MITP
+  location: Mainz
+  video: 
+
+- date: 2026-01-17
   name: Asian Winter School on Strings, Particles and Cosmology
   type: lectures
   link: https://aws2025.com/
@@ -198,7 +206,7 @@
   link: https://indico.cern.ch/event/1461182/timetable/#20250512.detailed
   institution: CERN
   location: Geneva
-  video: 
+  video: https://cds.cern.ch/record/2932102
 
 - date: 2025-05-09
   name: Investigating Compact Objects and Binary Mergers with Gravitational Waves

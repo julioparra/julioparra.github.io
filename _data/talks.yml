@@ -1,3 +1,11 @@
+- date: 2026-06-27
+  name: Symmetries 2026
+  type: conference 
+  link: https://indico.math.cnrs.fr/event/14721/
+  institution: Institut Henri Poincaré
+  location: Paris
+  video: 
+
 - date: 2026-06-23
   name: School on Gravity
   type: lectures 
@@ -12,6 +20,14 @@
   link: https://web.umons.ac.be/pucg/en/research-activities/joint-seminars/
   institution: ULB
   location: Brussels
+  video: 
+
+- date: 2026-03-25
+  name: Open Issues in Gravitation
+  type: colloquium
+  link: 
+  institution: IHES
+  location: Bures-sur-Yvette
   video: 
 
 - date: 2026-02-11

@@ -14,5 +14,7 @@ kramdown:
    math_engine: mathjax
 
 plugins:
-  - jekyll-bootstrap-sass
   - jekyll-octicons
+
+exclude:
+  - old

@@ -1,84 +1,696 @@
-- title: "Gravitational Raman scattering: a systematic toolkit for tidal effects in General Relativity"
+- title: "Gravitational Raman scattering: a systematic toolkit for tidal effects in general relativity"
   arxivnumber: "2602.06951"
-- title: "Scattering perspective on gravitational lensing"
+  arxiv_categories: [hep-th, astro-ph.HE, gr-qc, hep-ph]
+  authors:
+    - "Ivanov, Mikhail M."
+    - "Li, Yue-Zhou"
+    - "Parra-Martinez, Julio"
+    - "Zhou, Zihan"
+  preprint_date: "2026-02-06"
+  texkey: "Ivanov:2026icp"
+  abstract: We present a framework for systematic computations of scattering amplitudes for gravitational Raman scattering, -- the inelastic scattering of massless fields off compact relativistic objects. We focus on the small-frequency (post-Minkowskian, PM) regime relevant for the study of tidal effects, which can be mapped onto gravitational wave observables during the inspiraling phase of a merger. We demonstrate that this setup is ideal for systematic studies of tidal effects, in a way that is free from coordinate, gauge, and field redefinition ambiguities. We use a combination of worldline effective field theory, the background field method, and advanced scattering amplitude techniques to derive phase shifts for scattering of spin-$0,1,2$ fields off generic compact objects at third PM order. We demonstrate that the inclusion of the recoil of the object is crucial for consistency of this calculation. Focusing on a particular case of black holes, we extract the leading static and dynamical Love numbers of the spin-0 field and the static Love number of the spin-1 field in four dimensions by matching our EFT amplitudes and calculations in General Relativity. We show, fully on-shell, that the leading static Love numbers vanish identically, while the dynamical Love numbers are not zero and run logarithmically. The latter resolves the ambiguities of previous off-shell matching calculations. We also extend our results to seven dimensions, where spin-2 Love numbers undergo a renormalization group running at 2PM, which we compute explicitly. In addition, we extract the leading static Love numbers of spin-0 and spin-1 fields in five dimensions, which also run.
+  number_of_pages: 52
+- title: Scattering perspective on gravitational lensing
   arxivnumber: "2511.15797"
-- title: "Naturalness of vanishing black-hole tides"
+  arxiv_categories: [hep-th, astro-ph.CO, gr-qc]
+  doi: "10.1103/w2z2-974w"
+  journal: "Phys.Rev.D"
+  journal_volume: "113"
+  journal_artid: "024024"
+  publication_year: 2026
+  authors:
+    - "Carrillo Gonzalez, Mariana"
+    - "De Luca, Valerio"
+    - "Garoffolo, Alice"
+    - "Parra-Martinez, Julio"
+    - "Trodden, Mark"
+  preprint_date: "2025-11-19"
+  texkey: "CarrilloGonzalez:2025gqm"
+  abstract: Gravitational waves propagating across gravitational potentials undergo lensing effects that, in the wave-optics regime, manifest as frequency-dependent amplitude and phase modulations. In this work, we revisit the diffraction integral formalism of gravitational lensing and demonstrate that it admits a natural and transparent interpretation within the framework of scattering theory. We establish a direct correspondence between the lensing amplification factor and the scattering amplitude of waves propagating in curved spacetime, clarifying how familiar lensing limits map onto distinct scattering regimes. In particular, we show that the diffraction integral matches exactly the eikonal limit of the scattering amplitude at lowest post-Minkowskian order, after a change in coordinates and the inclusion of finite-distance effects. We further extend the standard formalism by including subleading corrections to the post-Minkowskian and eikonal approximations. Our results provide a unified theoretical framework for the interpretation of lensed gravitational-wave signals and open the way to more accurate waveform modeling for future lensed observations.
+  number_of_pages: 15
+- title: Naturalness of vanishing black-hole tides
   arxivnumber: "2510.20694"
-- title: "Generalized unitarity method for worldline field theory"
+  arxiv_categories: [hep-th, gr-qc]
+  authors:
+    - "Parra-Martinez, Julio"
+    - "Podo, Alessandro"
+  preprint_date: "2025-10-23"
+  texkey: "Parra-Martinez:2025bcu"
+  abstract: We provide a symmetry argument for the vanishing and non-renormalization of static Love numbers for spherically symmetric black holes at full nonlinear order in four-dimensional General Relativity. The symmetry is realized both in full GR and in the worldline EFT, allowing for a unified treatment and proving both vanishing and non-renormalization to all orders. This closes some loop-holes in previous arguments that neglected nonlinearities in the worldline EFT, and extends previous vanishing results to all nonlinear static tides. When extended to higher-dimensional gravity, these arguments also explain the pattern of vanishing and running static Love numbers of electric and tensor type, and predict new results at the nonlinear order. We also apply our findings to the tidal response of shift-symmetric scalar fields, predicting the vanishing of even order nonlinear static Love numbers and unifying these statements with the no-hair theorem (and its violations).
+  number_of_pages: 14
+- title: Generalized unitarity method for worldline field theory
   arxivnumber: "2510.00989"
+  arxiv_categories: [hep-th, gr-qc]
+  authors:
+    - "He, Vincent F."
+    - "Parra-Martinez, Julio"
+  preprint_date: "2025-10-01"
+  texkey: "He:2025how"
+  abstract: "We present a generalized unitarity method for theories of point-particle worldlines coupled to gravity, analogous to that of scattering amplitudes in quantum field theory. This method allows the computation of perturbative observables from basic principles such as locality and unitarity, thus avoiding gauge redundancies and the use of Feynman diagrams. We illustrate the method with a variety of examples, including the gravitational waveform for the scattering of two point masses at next-to-leading order (or ${\\cal O}(G^{5/2})$), reproducing known results. Our method further streamlines the calculation of the scattering dynamics of compact binary systems and opens the door to further applications and systematical exploration of structure in this class of observables."
+  number_of_pages: 30
 - title: "GSO defects: IIA/IIB walls and the surprisingly stable R7-brane"
   arxivnumber: "2507.21210"
-- title: "Nonlinear gravitational memory in the post-Minkowskian expansion"
+  arxiv_categories: [hep-th, math-ph, math.MP]
+  doi: "10.1103/wqys-zsyf"
+  journal: "Phys.Rev.D"
+  journal_volume: "113"
+  journal_artid: "066021"
+  publication_year: 2026
+  authors:
+    - "Heckman, Jonathan J."
+    - "McNamara, Jacob"
+    - "Parra-Martinez, Julio"
+    - "Torres, Ethan"
+  preprint_date: "2025-07-28"
+  texkey: "Heckman:2025wqd"
+  abstract: "The recently proposed swampland cobordism conjecture predicts the existence of new nonsupersymmetric objects which supplement the spectrum of low-energy gravitational effective field theories. In this paper, we study a subset of these defects related to the Gliozzi-Scherk-Olive projection on the string worldsheet. These include the predicted domain wall between type IIA and IIB superstring theories and the newly discovered R7-brane. We study these defects in two different ways: via long-string probes and target-space effective field theory. We find that the R7-brane can be identified with a collapsed cylindrical configuration of the IIA/IIB wall, and further, that the R7-brane is stable, in contrast to previous expectations. Moreover, we argue that BPS D-branes pulled across the IIA/IIB wall become non-BPS D-branes, which we identify with fluxbrane configurations. We show that the non-BPS D-branes of either type II theory are charged under a <math display=\"inline\"><msub><mi mathvariant=\"double-struck\">Z</mi><mn>2</mn></msub></math> remnant of the Ramond-Ramond potentials of the other, which we identify with the mod 2 reduction of the Ramond-Ramond fluxes. Similar considerations provide a complementary perspective on the heterotic <math display=\"inline\"><mi mathvariant=\"fraktur\">so</mi><mo stretchy=\"false\">(</mo><mn>32</mn><mo stretchy=\"false\">)</mo></math> S-duals of known non-BPS 7- and 8-branes in type I string theory."
+  number_of_pages: 51
+- title: Nonlinear gravitational memory in the post-Minkowskian expansion
   arxivnumber: "2506.20733"
-- title: "Soft theorems from higher symmetries"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1103/8m17-s2y8"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "136"
+  journal_artid: "121401"
+  publication_year: 2026
+  authors:
+    - "Georgoudis, Alessandro"
+    - "Goncalves, Vasco"
+    - "Heissenberg, Carlo"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2025-06-25"
+  texkey: "Georgoudis:2025vkk"
+  abstract: "We present the first computation of the nonlinear gravitational memory waveform for the scattering of two compact objects in general relativity at leading order in the post-Minkowskian expansion. We use the scattering-amplitude-based representation of the gravitational waveform, which naturally expresses the nonlinear memory as the contribution of soft gravitons emitted by the gravitational waves themselves. We perform the calculation by applying a multipolar decomposition to the waveform and using the reverse unitarity method to obtain explicit exact-in-velocity predictions. We validate the results by calculating the corresponding velocity-expanded post-Newtonian multipoles, finding perfect agreement. Our results complete the knowledge of the gauge-invariant nonanalytic-in-frequency part of the <math display=\"inline\"><mi mathvariant=\"script\">O</mi><mo stretchy=\"false\">(</mo><msup><mi>G</mi><mn>3</mn></msup><mo stretchy=\"false\">)</mo></math> multipolar waveform, thus providing a useful benchmark for future calculations of this quantity."
+  number_of_pages: 5
+- title: Soft theorems from higher symmetries
   arxivnumber: "2505.03566"
-- title: "Resummation of universal tails in gravitational waveforms"
+  arxiv_categories: [hep-th]
+  doi: "10.1007/JHEP03(2026)193"
+  journal: "JHEP"
+  journal_volume: "03"
+  journal_artid: "193"
+  publication_year: 2026
+  authors:
+    - "Berean-Dutcher, Jonah"
+    - "Derda, Maria"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2025-05-06"
+  texkey: "Berean-Dutcher:2025ohp"
+  abstract: We describe the connection between spontaneously-broken higher symmetries and soft theorems for scattering amplitudes of their associated Nambu-Goldstone bosons. Our main result is a new sub-leading double soft pion theorem in theories with a spontaneously-broken continuous 2-group global symmetry, which intertwines amplitudes with different numbers of pions and photons. We also provide a novel derivation of the leading soft photon theorem from the Ward identity of an emergent 1-form global symmetry in effective field theories where antiparticles are integrated out. Our derivations of these soft theorems use the algebra of spacetime currents and do not rely on asymptotic symmetries or diagrammatic arguments.
+  number_of_pages: 31
+- title: Resummation of universal tails in gravitational waveforms
   arxivnumber: "2504.07862"
-- title: "Graviton loops and negativity"
+  arxiv_categories: [hep-th, astro-ph.HE, gr-qc, hep-ph]
+  doi: "10.1103/jzd1-qzkt"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "135"
+  journal_artid: "141401"
+  publication_year: 2025
+  authors:
+    - "Ivanov, Mikhail M."
+    - "Li, Yue-Zhou"
+    - "Parra-Martinez, Julio"
+    - "Zhou, Zihan"
+  preprint_date: "2025-04-10"
+  texkey: "Ivanov:2025ozg"
+  abstract: We present a formula for the universal anomalous scaling of the multipole moments of a generic gravitating source in classical general relativity. We derive this formula in two independent ways using effective field theory methods. First, we use the absorption of low-frequency gravitational waves by a black hole to identify the total multipole scaling dimension as the renormalized angular momentum of black hole perturbation theory. More generally, we show that the anomalous dimension is determined by phase shifts of gravitational waves elastically scattering off generic source multipole moments, which reproduces the renormalized angular momentum in the particular case of black holes. The effective field theory approach thus clarifies the role of the renormalized angular momentum in the multipole expansion. The universality of the point particle effective description of compact gravitating systems further allows us to extract the universal part of the anomalous dimension, which is the same for any object, including black holes, neutron stars, and binary systems. As an application, we propose a novel resummation of the universal short-distance logarithms (“tails”) in the gravitational waveform of binary systems, which may improve the modeling of signals from current and future gravitational wave experiments.
+  number_of_pages: 14
+- title: Graviton loops and negativity
   arxivnumber: "2501.17949"
-- title: "Classical observables from causal response functions"
+  arxiv_categories: [hep-th]
+  doi: "10.1007/JHEP08(2025)175"
+  journal: "JHEP"
+  journal_volume: "08"
+  journal_artid: "175"
+  publication_year: 2025
+  authors:
+    - "Chang, Cyuan-Han"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2025-01-29"
+  texkey: "Chang:2025cxc"
+  abstract: We revisit dispersive bounds on Wilson coefficients of scalar effective field theories (EFT) coupled to gravity in various spacetime dimensions, by computing the contributions from graviton loops to the corresponding sum rules at low energies. Fixed-momentum-transfer dispersion relations are often ill-behaved due to forward singularities arising from loop-level graviton exchange, making naive positivity bounds derived from them unreliable. Instead, we perform a careful analysis using crossing-symmetric dispersion relations, and compute the one-loop corrections to the bounds on EFT coefficients. We find that including the graviton loops generically allows for negativity of Wilson coefficients by an amount suppressed by powers of Newton’s constant, G. The exception are the few couplings that dominate over (or are degenerate with) the graviton loops at low energies. In D = 4, we observe that assuming that the eikonal formula captures the correct forward behavior of the amplitude at all orders in G, and for energies of the order of the EFT cutoff, yields bounds free of logarithmic infrared divergences.
+  number_of_pages: 56
+- title: Classical observables from causal response functions
   arxivnumber: "2411.09016"
-- title: "Gravitational scattering and beyond from extreme mass ratio effective field theory"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP07(2025)037"
+  journal: "JHEP"
+  journal_volume: "07"
+  journal_artid: "037"
+  publication_year: 2025
+  authors:
+    - "Biswas, Shovon"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2024-11-13"
+  texkey: "Biswas:2024ept"
+  abstract: "We revisit the calculation of classical observables from causal response functions, following up on recent work by Caron-Huot et al. [1]. We derive a formula to compute asymptotic in-in observables from a particular soft limit of five-point amputated response functions. Using such formula, we re-derive the formulas by Kosower, Maybee and O’Connell (KMOC) for the linear impulse and radiated linear momentum of particles undergoing scattering, and we present an unambiguous calculation of the radiated angular momentum at leading order. Then, we explore the consequences of manifestly causal Feynman rules in the calculation of classical observables by employing the causal (Keldysh) basis in the in-in formalism. We compute the linear impulse, radiated waveform and its variance at leading and/or next-to-leading order in the causal basis, and find that all terms singular in the ħ → 0 limit cancel manifestly at the integrand level. We also find that the calculations simplify considerably and classical properties such as factorization of six-point amplitudes are more transparent in the causal basis."
+  number_of_pages: 31
+- title: Gravitational scattering and beyond from extreme mass ratio effective field theory
   arxivnumber: "2406.14770"
-- title: "Soft scalars in effective field theory"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP10(2024)005"
+  journal: "JHEP"
+  journal_volume: "10"
+  journal_artid: "005"
+  publication_year: 2024
+  authors:
+    - "Cheung, Clifford"
+    - "Parra-Martinez, Julio"
+    - "Rothstein, Ira Z."
+    - "Shah, Nabha"
+    - "Wilson-Gerow, Jordan"
+  preprint_date: "2024-06-20"
+  texkey: "Cheung:2024byb"
+  abstract: We explore a recently proposed effective field theory describing electromagnetically or gravitationally interacting massive particles in an expansion about their mass ratio, also known as the self-force (SF) expansion. By integrating out the deviation of the heavy particle about its inertial trajectory, we obtain an effective action whose only degrees of freedom are the lighter particle together with the photon or graviton, all propagating in a Coulomb or Schwarzschild background. The 0SF dynamics are described by the usual background field method, which at 1SF is supplemented by a “recoil operator” that encodes the wobble of the heavy particle, and similarly computable corrections appearing at 2SF and higher. Our formalism exploits the fact that the analytic expressions for classical backgrounds and particle trajectories encode dynamical information to all orders in the couplings, and from them we extract multiloop integrands for perturbative scattering. As a check, we study the two-loop classical scattering of scalar particles in electromagnetism and gravity, verifying known results. We then present new calculations for the two-loop classical scattering of dyons, and of particles interacting with an additional scalar or vector field coupling directly to the lighter particle but only gravitationally to the heavier particle.
+  number_of_pages: 77
+- title: Soft scalars in effective field theory
   arxivnumber: "2403.12142"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1007/JHEP06(2024)133"
+  journal: "JHEP"
+  journal_volume: "06"
+  journal_artid: "133"
+  publication_year: 2024
+  authors:
+    - "Derda, Maria"
+    - "Helset, Andreas"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2024-03-18"
+  texkey: "Derda:2024jvo"
+  abstract: We derive a soft theorem for a massless scalar in an effective field theory with generic field content using the geometry of field space. This result extends the geometric soft theorem for scalar effective field theories by allowing the massless scalar to couple to other scalars, fermions, and gauge bosons. The soft theorem keeps its geometric form, but where the field-space geometry now involves the full field content of the theory. As a bonus, we also present novel double soft theorems with fermions, which mimic the geometric structure of the double soft theorem for scalars.
+  number_of_pages: 34
 - title: "Gravitational Raman scattering in effective field theory: a scalar tidal matching at \\({\\cal O}(G^3)\\)"
   arxivnumber: "2401.08752"
-- title: "Effective field theory for extreme mass ratios"
+  arxiv_categories: [hep-th, astro-ph.CO, astro-ph.HE, gr-qc, hep-ph]
+  doi: "10.1103/PhysRevLett.132.131401"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "132"
+  journal_artid: "131401"
+  publication_year: 2024
+  authors:
+    - "Ivanov, Mikhail M."
+    - "Li, Yue-Zhou"
+    - "Parra-Martinez, Julio"
+    - "Zhou, Zihan"
+  preprint_date: "2024-01-16"
+  texkey: "Ivanov:2024sds"
+  abstract: "We present a framework to compute amplitudes for the gravitational analog of the Raman process, a quasielastic scattering of waves off compact objects, in worldline effective field theory. As an example, we calculate third post-Minkowskian order [<math display=\"inline\"><mi mathvariant=\"script\">O</mi><mo stretchy=\"false\">(</mo><msup><mi>G</mi><mn>3</mn></msup><mo stretchy=\"false\">)</mo></math>], or two-loop, phase shifts for the scattering of a massless scalar field including all tidal effects and dissipation. Our calculation unveils two sources of the classical renormalization-group flow of dynamical Love numbers: a universal running independent of the nature of the compact object, and a running self-induced by tides. Restricting to the black hole case, we find that our effective field theory phase shifts agree exactly with those from general relativity, provided that the relevant static Love numbers are set to zero. In addition, we carry out a complete matching of the leading scalar dynamical Love number required to renormalize a universal short scale divergence in the <math display=\"inline\"><mi>S</mi></math> wave. Our results pave the way for systematic calculations of gravitational Raman scattering at higher post-Minkowskian orders."
+  number_of_pages: 6
+- title: Effective field theory for extreme mass ratios
   arxivnumber: "2308.14832"
-- title: "Comparison of post-Minkowskian and self-force expansions: scattering in a scalar charge toy model"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1103/PhysRevLett.132.091402"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "132"
+  journal_artid: "091402"
+  publication_year: 2024
+  authors:
+    - "Cheung, Clifford"
+    - "Parra-Martinez, Julio"
+    - "Rothstein, Ira Z."
+    - "Shah, Nabha"
+    - "Wilson-Gerow, Jordan"
+  preprint_date: "2023-08-28"
+  texkey: "Cheung:2023lnj"
+  abstract: We derive an effective field theory describing a pair of gravitationally interacting point particles in an expansion in their mass ratio, also known as the self-force (SF) expansion. The 0SF dynamics are trivially obtained to all orders in Newton’s constant by the geodesic motion of the light body in a Schwarzschild background encoding the gravitational field of the heavy body. The corrections at 1SF and higher are generated by perturbations about this configuration—that is, the geodesic deviation of the light body and the fluctuation graviton—but crucially supplemented by an operator describing the recoil of the heavy body as it interacts with the smaller companion. Using this formalism we compute new results at third post-Minkowskian order for the conservative dynamics of a system of gravitationally interacting massive particles coupled to a set of additional scalar and vector fields.
+  number_of_pages: 9
+- title: "Comparison of post-Minkowskian and self-force expansions: Scattering in a scalar charge toy model"
   arxivnumber: "2304.09200"
-- title: "Soft phonon theorems"
+  arxiv_categories: [hep-th, gr-qc]
+  doi: "10.1103/PhysRevD.108.024025"
+  journal: "Phys.Rev.D"
+  journal_volume: "108"
+  journal_artid: "024025"
+  publication_year: 2023
+  authors:
+    - "Barack, Leor"
+    - "Bern, Zvi"
+    - "Herrmann, Enrico"
+    - "Long, Oliver"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+    - "Ruf, Michael S."
+    - "Shen, Chia-Hsien"
+    - "Solon, Mikhail P."
+    - "Teng, Fei"
+    - "Zeng, Mao"
+  preprint_date: "2023-04-18"
+  texkey: "Barack:2023oqp"
+  abstract: "We compare numerical self-force results and analytical fourth-order post-Minkowskian (PM) calculations for hyperbolic-type scattering of a pointlike particle carrying a scalar charge <math display=\"inline\"><mi>Q</mi></math> off a Schwarzschild black hole, showing a remarkably good agreement. Specifically, we numerically compute the scattering angle including the full <math display=\"inline\"><mi mathvariant=\"script\">O</mi><mo stretchy=\"false\">(</mo><msup><mi>Q</mi><mn>2</mn></msup><mo stretchy=\"false\">)</mo></math> scalar-field self-force term (but ignoring the gravitational self-force), and we compare with analytical expressions obtained in a PM framework using scattering-amplitude methods. This example provides a nontrivial, high-precision test of both calculation methods and illustrates the complementarity of the two approaches in the context of the program to provide high-precision models of gravitational two-body dynamics. Our PM calculation is carried out through 4PM order, i.e., including all terms through <math display=\"inline\"><mi mathvariant=\"script\">O</mi><mo stretchy=\"false\">(</mo><msup><mi>Q</mi><mn>2</mn></msup><msup><mi>G</mi><mn>3</mn></msup><mo stretchy=\"false\">)</mo></math>. At the fourth post-Minkowskian order the point-particle description involves two a priori undetermined coefficients, due to contributions from tidal effects in the model under consideration. These coefficients are chosen to align the post-Minkowskian results with the self-force ones."
+  number_of_pages: 53
+- title: Soft phonon theorems
   arxivnumber: "2301.11363"
-- title: "Graviton partial waves and causality in higher dimensions"
+  arxiv_categories: [hep-th, cond-mat.other, hep-ph]
+  doi: "10.1007/JHEP08(2023)103"
+  journal: "JHEP"
+  journal_volume: "08"
+  journal_artid: "103"
+  publication_year: 2023
+  authors:
+    - "Cheung, Clifford"
+    - "Derda, Maria"
+    - "Helset, Andreas"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2023-01-26"
+  texkey: "Cheung:2023qwn"
+  abstract: A variety of condensed matter systems describe gapless modes that can be interpreted as Nambu-Goldstone bosons of spontaneously broken Poincaré symmetry. In this paper we derive new soft theorems constraining the tree-level scattering of these degrees of freedom, as exhibited in solids, fluids, superfluids, and framids. These soft theorems are in one-to-one correspondence with various broken symmetries, including spacetime translations, Lorentz boosts, and, for the case of fluids, volume-preserving diffeomorphisms. We also implement a bootstrap in which the enhanced vanishing of amplitudes in the soft limit is taken as an input, thus sculpting out a subclass of exceptional solid, fluid, and framid theories.
+  number_of_pages: 40
+- title: Graviton partial waves and causality in higher dimensions
   arxivnumber: "2205.01495"
-- title: "Non-perturbative double copy in Flatland"
+  arxiv_categories: [hep-th, gr-qc]
+  doi: "10.1103/PhysRevD.108.026007"
+  journal: "Phys.Rev.D"
+  journal_volume: "108"
+  journal_artid: "026007"
+  publication_year: 2023
+  authors:
+    - "Caron-Huot, Simon"
+    - "Li, Yue-Zhou"
+    - "Parra-Martinez, Julio"
+    - "Simmons-Duffin, David"
+  preprint_date: "2022-05-03"
+  texkey: "Caron-Huot:2022jli"
+  abstract: "Do gravitational interactions respect the basic principles of relativity and quantum mechanics? We show that any graviton <math display=\"inline\"><mi>S</mi></math>-matrix that satisfies these assumptions cannot significantly differ from General Relativity at low energies. We provide sharp bounds on the size of potential corrections in terms of the mass <math display=\"inline\"><mi>M</mi></math> of new higher-spin states, in spacetime dimensions <math display=\"inline\"><mi>D</mi><mo>≥</mo><mn>5</mn></math> where the <math display=\"inline\"><mi>S</mi></math>-matrix does not suffer from infrared ambiguities. The key novel ingredient is the full set of <math display=\"inline\"><mrow><mi>SO</mi><mo stretchy=\"false\">(</mo><mi>D</mi><mo>-</mo><mn>1</mn><mo stretchy=\"false\">)</mo></mrow></math> partial waves for this process, which we show how to efficiently compute with Young tableau manipulations. We record new bounds on the central charges of holographic conformal theories."
+  number_of_pages: 17
+- title: Non-perturbative double copy in Flatland
   arxivnumber: "2204.07130"
-- title: "Geometry-kinematics duality"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1103/PhysRevLett.129.221602"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "129"
+  journal_artid: "221602"
+  publication_year: 2022
+  authors:
+    - "Cheung, Clifford"
+    - "Mangan, James"
+    - "Parra-Martinez, Julio"
+    - "Shah, Nabha"
+  preprint_date: "2022-04-14"
+  texkey: "Cheung:2022mix"
+  abstract: We derive a non-perturbative, Lagrangian-level formulation of the double copy in two spacetime dimensions. Our results elucidate the field theoretic underpinnings of the double copy in a broad class of scalar theories which can include masses and higher-dimension operators. An immediate corollary is the amplitudes-level double copy at all orders in perturbation theory. Applied to certain integrable models, the double copy defines an isomorphism between Lax connections, Wilson lines, and infinite towers of conserved currents. We also implement the double copy at the level of non-perturbative classical solutions, both analytically and numerically, and present a generalization of the double copy map that includes a fixed tower of higher-dimension corrections given by the Moyal algebra.
+  number_of_pages: 9
+- title: Geometry-kinematics duality
   arxivnumber: "2202.06972"
-- title: "Causality constraints on corrections to Einstein gravity"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1103/PhysRevD.106.045016"
+  journal: "Phys.Rev.D"
+  journal_volume: "106"
+  journal_artid: "045016"
+  publication_year: 2022
+  authors:
+    - "Cheung, Clifford"
+    - "Helset, Andreas"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2022-02-14"
+  texkey: "Cheung:2022vnd"
+  abstract: We propose a mapping between geometry and kinematics that implies the classical equivalence of any theory of massless bosons—including spin and exhibiting arbitrary derivative or potential interactions—to a nonlinear sigma model (NLSM) with a momentum-dependent metric in field space. From this kinematic metric we construct a corresponding kinematic connection, covariant derivative, and curvature, all of which transform appropriately under general field redefinitions, even including derivatives. We show explicitly how all tree-level on-shell scattering amplitudes of massless bosons are equal to those of the NLSM via the replacement of geometry with kinematics. Lastly, we describe how the recently introduced geometric soft theorem of the NLSM, which universally encodes all leading and subleading soft scalar theorems, also captures the soft photon theorems.
+  number_of_pages: 6
+- title: Causality constraints on corrections to Einstein gravity
   arxivnumber: "2201.06602"
-- title: "On-shell correlators and color-kinematics duality in curved symmetric spacetimes"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP05(2023)122"
+  journal: "JHEP"
+  journal_volume: "05"
+  journal_artid: "122"
+  publication_year: 2023
+  authors:
+    - "Caron-Huot, Simon"
+    - "Li, Yue-Zhou"
+    - "Parra-Martinez, Julio"
+    - "Simmons-Duffin, David"
+  preprint_date: "2022-01-17"
+  texkey: "Caron-Huot:2022ugt"
+  abstract: We study constraints from causality and unitarity on 2 → 2 graviton scattering in four-dimensional weakly-coupled effective field theories. Together, causality and unitarity imply dispersion relations that connect low-energy observables to high-energy data. Using such dispersion relations, we derive two-sided bounds on gravitational Wilson coefficients in terms of the mass M of new higher-spin states. Our bounds imply that gravitational interactions must shut off uniformly in the limit G → 0, and prove the scaling with M expected from dimensional analysis (up to an infrared logarithm). We speculate that causality, together with the non-observation of gravitationally-coupled higher spin states at colliders, severely restricts modifications to Einstein gravity that could be probed by experiments in the near future.
+  number_of_pages: 50
+- title: On-shell correlators and color-kinematics duality in curved symmetric spacetimes
   arxivnumber: "2201.05147"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1007/JHEP05(2022)027"
+  journal: "JHEP"
+  journal_volume: "05"
+  journal_artid: "027"
+  publication_year: 2022
+  authors:
+    - "Cheung, Clifford"
+    - "Parra-Martinez, Julio"
+    - "Sivaramakrishnan, Allic"
+  preprint_date: "2022-01-13"
+  texkey: "Cheung:2022pdk"
+  abstract: We define a perturbatively calculable quantity — the on-shell correlator — which furnishes a unified description of particle dynamics in curved spacetime. Specializing to the case of flat and anti-de Sitter space, on-shell correlators coincide precisely with on-shell scattering amplitudes and boundary correlators, respectively. Remarkably, we find that symmetric manifolds admit a generalization of on-shell kinematics in which the corresponding momenta are literally the isometry generators of the spacetime acting on the external kinematic data. These isometric momenta are intrinsically non-commutative but exhibit on-shell conditions that are identical to those of flat space, thus providing a common language for computing and representing on-shell correlators which is agnostic about the underlying geometry. Afterwards, we compute tree-level on-shell correlators for biadjoint scalar (BAS) theory and the nonlinear sigma model (NLSM) and learn that color-kinematics duality is manifested at the level of fields under a mapping of the color algebra to the algebra of gauged isometries on the spacetime manifold. Last but not least, we present a field theoretic derivation of the fundamental BCJ relations for on-shell correlators following from the existence of certain conserved currents in BAS theory and the NLSM.
+  number_of_pages: 51
 - title: "Scattering amplitudes, the tail effect, and conservative binary dynamics at \\({\\cal O}(G^4)\\)"
   arxivnumber: "2112.10750"
-- title: "Geometric soft theorems"
+  arxiv_categories: [hep-th, gr-qc]
+  doi: "10.1103/PhysRevLett.128.161103"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "128"
+  journal_artid: "161103"
+  publication_year: 2022
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+    - "Ruf, Michael S."
+    - "Shen, Chia-Hsien"
+    - "Solon, Mikhail P."
+    - "Zeng, Mao"
+  preprint_date: "2021-12-20"
+  texkey: "Bern:2021yeh"
+  abstract: "We complete the calculation of conservative two-body scattering dynamics at fourth post-Minkowskian order, i.e., <math display=\"inline\"><mi mathvariant=\"script\">O</mi><mo stretchy=\"false\">(</mo><msup><mi>G</mi><mn>4</mn></msup><mo stretchy=\"false\">)</mo></math> and all orders in velocity, including radiative contributions corresponding to the tail effect in general relativity. As in previous calculations, we harness powerful tools from the modern scattering amplitudes program including generalized unitarity, the double copy, and advanced multiloop integration methods, in combination with effective field theory. The classical amplitude involves complete elliptic integrals, and polylogarithms with up to transcendental weight 2. Using the amplitude-action relation, we obtain the radial action directly from the amplitude, and match the known overlapping terms in the post-Newtonian expansion."
+  number_of_pages: 8
+- title: Geometric soft theorems
   arxivnumber: "2111.03045"
-- title: "Holomorphic modular bootstrap revisited"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1007/JHEP04(2022)011"
+  journal: "JHEP"
+  journal_volume: "04"
+  journal_artid: "011"
+  publication_year: 2022
+  authors:
+    - "Cheung, Clifford"
+    - "Helset, Andreas"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2021-11-04"
+  texkey: "Cheung:2021yog"
+  abstract: We derive a universal soft theorem for every scattering amplitude with at least one massless particle in an arbitrary theory of scalars. Our results follow from the geometry of field space and are valid for any choice of mass spectrum, potential terms, and higher-derivative interactions. For a vanishing potential, the soft limit of every amplitude is equal to the field-space covariant derivative of an amplitude with one fewer particle. Furthermore, the Adler zero and the dilaton soft theorem are special cases of our results. We also discuss more exotic scenarios in which the soft limit is non-trivial but still universal. Last but not least, we derive new theorems for multiple-soft limits which directly probe the field-space curvature, as well as on-shell recursion relations applicable to two-derivative scalar field theories exhibiting no symmetries whatsoever.
+  number_of_pages: 38
+- title: Holomorphic modular bootstrap revisited
   arxivnumber: "2107.13557"
+  arxiv_categories: [hep-th, math.NT, math.QA]
+  doi: "10.1007/JHEP12(2021)151"
+  journal: "JHEP"
+  journal_volume: "12"
+  journal_artid: "151"
+  publication_year: 2021
+  authors:
+    - "Kaidi, Justin"
+    - "Lin, Ying-Hsuan"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2021-07-28"
+  texkey: "Kaidi:2021ent"
+  abstract: "In this work we revisit the “holomorphic modular bootstrap”, i.e. the classification of rational conformal field theories via an analysis of the modular differential equations satisfied by their characters. By making use of the representation theory of PSL(2, ℤ$_{n}$), we describe a method to classify allowed central charges and weights (c, h$_{i}$) for theories with any number of characters d. This allows us to avoid various bottlenecks encountered previously in the literature, and leads to a classification of consistent characters up to d = 5 whose modular differential equations are uniquely fixed in terms of (c, h$_{i}$). In the process, we identify the full set of constraints on the allowed values of the Wronskian index for fixed d ≤ 5."
+  number_of_pages: 55
 - title: "Radiative classical gravitational observables at \\({\\cal O}(G^3)\\) from scattering amplitudes"
   arxivnumber: "2104.03957"
-- title: "Gravitational bremsstrahlung from reverse unitarity"
-  arxivnumber: "2101.07255"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP10(2021)148"
+  journal: "JHEP"
+  journal_volume: "10"
+  journal_artid: "148"
+  publication_year: 2021
+  authors:
+    - "Herrmann, Enrico"
+    - "Parra-Martinez, Julio"
+    - "Ruf, Michael S."
+    - "Zeng, Mao"
+  preprint_date: "2021-04-08"
+  texkey: "Herrmann:2021tct"
+  abstract: "We compute classical gravitational observables for the scattering of two spinless black holes in general relativity and $ \\mathcal{N} $=8 supergravity in the formalism of Kosower, Maybee, and O’Connell (KMOC). We focus on the gravitational impulse with radiation reaction and the radiated momentum in black hole scattering at $ \\mathcal{O} $(G$^{3}$) to all orders in the velocity. These classical observables require the construction and evaluation of certain loop-level quantities which are greatly simplified by harnessing recent advances from scattering amplitudes and collider physics. In particular, we make use of generalized unitarity to construct the relevant loop integrands, employ reverse unitarity, the method of regions, integration-by-parts (IBP), and (canonical) differential equations to simplify and evaluate all loop and phase-space integrals to obtain the classical gravitational observables of interest to two-loop order. The KMOC formalism naturally incorporates radiation effects which enables us to explore these classical quantities beyond the conservative two-body dynamics. From the impulse and the radiated momentum, we extract the scattering angle and the radiated energy. Finally, we discuss universality of the impulse in the high-energy limit and the relation to the eikonal phase."
+  number_of_pages: 70
 - title: "Scattering amplitudes and conservative binary dynamics at \\({\\cal O}(G^4)\\)"
   arxivnumber: "2101.07254"
-- title: "Leading nonlinear tidal effects and scattering amplitudes"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1103/PhysRevLett.126.171601"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "126"
+  journal_artid: "171601"
+  publication_year: 2021
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+    - "Ruf, Michael S."
+    - "Shen, Chia-Hsien"
+    - "Solon, Mikhail P."
+    - "Zeng, Mao"
+  preprint_date: "2021-01-18"
+  texkey: "Bern:2021dqo"
+  abstract: Using scattering amplitudes, we obtain the potential contributions to conservative binary dynamics in general relativity at fourth post-Minkowskian order O(G4). As in previous lower-order calculations, we harness powerful tools from the modern scattering amplitudes program including generalized unitarity, the double copy, and advanced multiloop integration methods, in combination with effective field theory. The classical amplitude involves polylogarithms with up to transcendental weight two and elliptic integrals. We derive the radial action directly from the amplitude, and determine the corresponding Hamiltonian in isotropic gauge. Our results are in agreement with known overlapping terms up to sixth post-Newtonian order, and with the probe limit. We also determine the post-Minkowskian energy loss from radiation emission at O(G3) via its relation to the tail effect.
+  number_of_pages: 8
+- title: Gravitational bremsstrahlung from reverse unitarity
+  arxivnumber: "2101.07255"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1103/PhysRevLett.126.201602"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "126"
+  journal_artid: "201602"
+  publication_year: 2021
+  authors:
+    - "Herrmann, Enrico"
+    - "Parra-Martinez, Julio"
+    - "Ruf, Michael S."
+    - "Zeng, Mao"
+  preprint_date: "2021-01-18"
+  texkey: "Herrmann:2021lqe"
+  abstract: We compute the total radiated momentum carried by gravitational waves during the scattering of two spinless black holes at the lowest order in Newton’s constant, O(G3), and all orders in velocity. By analytic continuation into the bound state regime, we obtain the O(G3) energy loss in elliptic orbits. This provides an essential step toward the complete understanding of the third-post-Minkowskian binary dynamics. We employ the formalism of Kosower, Maybee, and O’Connell (KMOC), which relates classical observables to quantum scattering amplitudes, and derive the relevant integrands using generalized unitarity. The subsequent phase-space integrations are performed via the reverse unitarity method familiar from collider physics, using differential equations to obtain the exact velocity dependence from near-static boundary conditions.
+  number_of_pages: 7
+- title: Leading nonlinear tidal effects and scattering amplitudes
   arxivnumber: "2010.08559"
-- title: "Structure of two-loop SMEFT anomalous dimensions via on-shell methods"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP05(2021)188"
+  journal: "JHEP"
+  journal_volume: "05"
+  journal_artid: "188"
+  publication_year: 2021
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+    - "Sawyer, Eric"
+    - "Shen, Chia-Hsien"
+  preprint_date: "2020-10-16"
+  texkey: "Bern:2020uwk"
+  abstract: We present the two-body Hamiltonian and associated eikonal phase, to leading post-Minkowskian order, for infinitely many tidal deformations described by operators with arbitrary powers of the curvature tensor. Scattering amplitudes in momentum and position space provide systematic complementary approaches. For the tidal operators quadratic in curvature, which describe the linear response to an external gravitational field, we work out the leading post-Minkowskian contributions using a basis of operators with arbitrary numbers of derivatives which are in one-to-one correspondence with the worldline multipole operators. Explicit examples are used to show that the same techniques apply to both bodies interacting tidally with a spinning particle, for which we find the leading contributions from quadratic in curvature tidal operators with an arbitrary number of derivatives, and to effective field theory extensions of general relativity. We also note that the leading post-Minkowskian order contributions from higher-dimension operators manifest double-copy relations. Finally, we comment on the structure of higher-order corrections.
+  number_of_pages: 45
+- title: Structure of two-loop SMEFT anomalous dimensions via on-shell methods
   arxivnumber: "2005.12917"
-- title: "Extremal black hole scattering at \\({\\cal O}(G^3)\\)"
+  arxiv_categories: [hep-ph, hep-th]
+  doi: "10.1007/JHEP10(2020)211"
+  journal: "JHEP"
+  journal_volume: "10"
+  journal_artid: "211"
+  publication_year: 2020
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Sawyer, Eric"
+  preprint_date: "2020-05-26"
+  texkey: "Bern:2020ikv"
+  abstract: We describe on-shell methods for computing one- and two-loop anomalous dimensions in the context of effective field theories containing higher-dimension operators. We also summarize methods for computing one-loop amplitudes, which are used as inputs to the computation of two-loop anomalous dimensions, and we explain how the structure of rational terms and judicious renormalization scheme choices can lead to additional vanishing terms in the anomalous dimension matrix at two loops. We describe the two-loop implications for the Standard Model Effective Field Theory (SMEFT). As a by-product of this analysis we verify a variety of one-loop SMEFT anomalous dimensions computed by Alonso, Jenkins, Manohar and Trott.
+  number_of_pages: 65
+- title: "Extremal black hole scattering at \\({\\cal O}(G^3)\\): graviton dominance, eikonal exponentiation, and differential equations"
   arxivnumber: "2005.04236"
-- title: "Universality in the classical limit of massless gravitational scattering"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1007/JHEP11(2020)023"
+  journal: "JHEP"
+  journal_volume: "11"
+  journal_artid: "023"
+  publication_year: 2020
+  authors:
+    - "Parra-Martinez, Julio"
+    - "Ruf, Michael S."
+    - "Zeng, Mao"
+  preprint_date: "2020-05-08"
+  texkey: "Parra-Martinez:2020dzs"
+  abstract: "We use $ \\mathcal{N} $ = 8 supergravity as a toy model for understanding the dynamics of black hole binary systems via the scattering amplitudes approach. We compute the conservative part of the classical scattering angle of two extremal (half-BPS) black holes with minimal charge misalignment at $ \\mathcal{O} $(G$^{3}$) using the eikonal approximation and effective field theory, finding agreement between both methods. We construct the massive loop integrands by Kaluza-Klein reduction of the known D-dimensional massless integrands. To carry out integration we formulate a novel method for calculating the post-Minkowskian expansion with exact velocity dependence, by solving velocity differential equations for the Feynman integrals subject to modified boundary conditions that isolate conservative contributions from the potential region. Motivated by a recent result for universality in massless scattering, we compare the scattering angle to the result found by Bern et. al. in Einstein gravity and find that they coincide in the high-energy limit, suggesting graviton dominance at this order."
+  number_of_pages: 67
+- title: Universality in the classical limit of massless gravitational scattering
   arxivnumber: "2002.02459"
-- title: "Topological superconductors on superstring worldsheets"
+  arxiv_categories: [hep-th, gr-qc, hep-ph]
+  doi: "10.1103/PhysRevLett.125.031601"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "125"
+  journal_artid: "031601"
+  publication_year: 2020
+  authors:
+    - "Bern, Zvi"
+    - "Ita, Harald"
+    - "Parra-Martinez, Julio"
+    - "Ruf, Michael S."
+  preprint_date: "2020-02-06"
+  texkey: "Bern:2020gjj"
+  abstract: We demonstrate the universality of the gravitational classical deflection angle of massless particles through O(G3) by studying the high-energy limit of full two-loop four-graviton scattering amplitudes in pure Einstein gravity as well as N≥4 supergravity. As a by-product, our first-principles calculation provides a direct confirmation of the massless deflection angle in Einstein gravity proposed long ago by Amati, Ciafaloni, and Veneziano, and is inconsistent with a recently proposed alternative.
+  number_of_pages: 6
+- title: Topological superconductors on superstring worldsheets
   arxivnumber: "1911.11780"
-- title: "Non-renormalization and operator mixing via on-shell methods"
+  arxiv_categories: [hep-th, cond-mat.str-el]
+  doi: "10.21468/SciPostPhys.9.1.010"
+  journal: "SciPost Phys."
+  journal_volume: "9"
+  journal_artid: "10"
+  publication_year: 2020
+  authors:
+    - "Kaidi, Justin"
+    - "Parra-Martinez, Julio"
+    - "Tachikawa, Yuji"
+  preprint_date: "2019-11-26"
+  texkey: "Kaidi:2019tyf"
+  abstract: "We point out that different choices of Gliozzi-Scherk-Olive (GSO) projections in superstring theory can be conveniently understood by the inclusion of fermionic invertible phases, or equivalently topological superconductors, on the worldsheet. This allows us to find that the unoriented Type $\\rm 0$ string theory with $\\Omega^2=(-1)^{\\sf f}$ admits different GSO projections parameterized by $n$ mod 8, depending on the number of Kitaev chains on the worldsheet. The presence of $n$ boundary Majorana fermions then leads to the classification of D-branes by $KO^n(X)\\oplus KO^{-n}(X)$ in these theories, which we also confirm by the study of the D-brane boundary states. Finally, we show that there is no essentially new GSO projection for the Type $\\rm I$ worldsheet theory by studying the relevant bordism group, which classifies corresponding invertible phases. This paper provides the details for the results announced in the letter \\cite{Kaidi:2019pzj}."
+  number_of_pages: 75
+- title: Non-renormalization and operator mixing via on-shell methods
   arxivnumber: "1910.05831"
-- title: "Logarithmic forms and differential equations for Feynman integrals"
+  arxiv_categories: [hep-ph, hep-th]
+  doi: "10.1103/PhysRevLett.124.051601"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "124"
+  journal_artid: "051601"
+  publication_year: 2020
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Sawyer, Eric"
+  preprint_date: "2019-10-13"
+  texkey: "Bern:2019wie"
+  abstract: Using on-shell methods, we present a new perturbative nonrenormalization theorem for operator mixing in massless four-dimensional quantum field theories. By examining how unitarity cuts of form factors encode anomalous dimensions, we show that longer operators are often restricted from renormalizing shorter operators at the first order where Feynman diagrams exist. The theorem applies quite generally and depends only on the field content of the operators involved. We apply our theorem to operators of dimension five through seven in the standard model effective field theory, including examples of nontrivial zeros in the anomalous-dimension matrix at one through four loops. The zeros at two and higher loops go beyond those previously explained using helicity selection rules. We also include explicit sample calculations at two loops.
+  number_of_pages: 6
+- title: Logarithmic forms and differential equations for Feynman integrals
   arxivnumber: "1909.04777"
-- title: "Gravity integrands from the ultraviolet"
+  arxiv_categories: [hep-th, hep-ph]
+  doi: "10.1007/JHEP02(2020)099"
+  journal: "JHEP"
+  journal_volume: "02"
+  journal_artid: "099"
+  publication_year: 2020
+  authors:
+    - "Herrmann, Enrico"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2019-09-10"
+  texkey: "Herrmann:2019upk"
+  abstract: "We describe in detail how a d log representation of Feynman integrals leads to simple differential equations. We derive these differential equations directly in loop momentum or embedding space making use of a localization trick and generalized unitarity. For the examples we study, the alphabet of the differential equation is related to special points in kinematic space, described by certain cut equations which encode the geometry of the Feynman integral. At one loop, we reproduce the motivic formulae described by Goncharov [1] that reappeared in the context of Feynman integrals in [2–4]. The d log representation allows us to generalize the differential equations to higher loops and motivates the study of certain mixed-dimension integrals."
+  number_of_pages: 34
+- title: Gravity loop integrands from the ultraviolet
   arxivnumber: "1909.02003"
-- title: "GSO projections via SPT phases"
+  arxiv_categories: [hep-th]
+  doi: "10.21468/SciPostPhys.10.1.016"
+  journal: "SciPost Phys."
+  journal_volume: "10"
+  journal_artid: "016"
+  publication_year: 2021
+  authors:
+    - "Edison, Alex"
+    - "Herrmann, Enrico"
+    - "Parra-Martinez, Julio"
+    - "Trnka, Jaroslav"
+  preprint_date: "2019-09-04"
+  texkey: "Edison:2019ovj"
+  abstract: We demonstrate that loop integrands of (super-)gravity scattering ampli- tudes possess surprising properties in the ultraviolet (UV) region. In particular, we study the scaling of multi-particle unitarity cuts for asymptotically large momenta and expose an improved UV behavior of four-dimensional cuts through seven loops as com- pared to standard expectations. For N=8 supergravity, we show that the improved large momentum scaling combined with the behavior of the integrand under BCFW deformations of external kinematics uniquely fixes the loop integrands in a number of non-trivial cases. In the integrand construction, all scaling conditions are homoge- neous. Therefore, the only required information about the amplitude is its vanishing at particular points in momentum space. This homogeneous construction gives indirect evidence for a new geometric picture for graviton amplitudes similar to the one found for planar N=4 super Yang-Mills theory. We also show how the behavior at infinity is related to the scaling of tree-level amplitudes under certain multi-line chiral shifts which can be used to construct new recursion relations.
+  number_of_pages: 41
+- title: GSO projections via SPT phases
   arxivnumber: "1908.04805"
+  arxiv_categories: [hep-th, cond-mat.str-el]
+  doi: "10.1103/PhysRevLett.124.121601"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "124"
+  journal_artid: "121601"
+  publication_year: 2020
+  authors:
+    - "Kaidi, Justin"
+    - "Parra-Martinez, Julio"
+    - "Tachikawa, Yuji"
+  preprint_date: "2019-08-13"
+  texkey: "Kaidi:2019pzj"
+  abstract: We point out that the choice of phases in Gliozzi-Scherk-Olive projections can be accounted for by a choice of fermionic symmetry-protected topological phases on the world sheet of the string. This point of view not only easily explains why there are essentially two type II theories, but also predicts that there are unoriented type 0 theories labeled by n mod 8 and that there is an essentially unique choice of the type I world sheet theory. We also discuss the relationship between this point of view and the K-theoretic classification of D-branes.
+  number_of_pages: 6
 - title: "Two-loop n-point anomalous amplitudes in \\({\\cal N}=4\\) supergravity"
   arxivnumber: "1905.05151"
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
+  arxiv_categories: [hep-th]
+  doi: "10.1098/rspa.2019.0722"
+  journal: "Proc.Roy.Soc.Lond.A"
+  journal_volume: "476"
+  journal_artid: "20190722"
+  publication_year: 2020
+  authors:
+    - "Bern, Zvi"
+    - "Kosower, David"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2019-05-13"
+  texkey: "Bern:2019isl"
+  abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
+  number_of_pages: 5
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
   arxivnumber: "1806.06072"
+  arxiv_categories: [hep-th]
+  doi: "10.1007/JHEP10(2018)059"
+  journal: "JHEP"
+  journal_volume: "10"
+  journal_artid: "059"
+  publication_year: 2018
+  authors:
+    - "Henn, Johannes"
+    - "Herrmann, Enrico"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2018-06-15"
+  texkey: "Henn:2018cdp"
+  abstract: "We derive analytic results for the symbol of certain two-loop Feynman integrals relevant for seven- and eight-point two-loop scattering amplitudes in planar $ \\mathcal{N}=4 $ super-Yang-Mills theory. We use a bootstrap inspired strategy, combined with a set of second-order partial differential equations that provide powerful constraints on the symbol ansatz. When the complete symbol alphabet is not available, we adopt a hybrid approach. Instead of the full function, we bootstrap a certain discontinuity for which the alphabet is known. Then we write a one-fold dispersion integral to recover the complete result. At six and seven points, we find that the individual Feynman integrals live in the same space of functions as the amplitude, which is described by the 9- and 42-letter cluster alphabets respectively. Starting at eight points however, the symbol alphabet of the MHV amplitude is insufficient for individual integrals. In particular, some of the integrals require algebraic letters involving four-mass box square-root singularities. We point out that these algebraic letters are relevant at the amplitude level directly starting with N$^{2}$MHV amplitudes even at one loop."
+  number_of_pages: 49
 - title: "Ultraviolet properties of \\({\\cal N}=8\\) supergravity at five loops"
   arxivnumber: "1804.09311"
-- title: "Cancelling the \\(U(1)\\) anomaly in the S-matrix of \\({\\cal N}=4\\) supergravity"
+  arxiv_categories: [hep-th]
+  doi: "10.1103/PhysRevD.98.086021"
+  journal: "Phys.Rev.D"
+  journal_volume: "98"
+  journal_artid: "086021"
+  publication_year: 2018
+  authors:
+    - "Bern, Zvi"
+    - "Carrasco, John Joseph"
+    - "Chen, Wei-Ming"
+    - "Edison, Alex"
+    - "Johansson, Henrik"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+    - "Zeng, Mao"
+  preprint_date: "2018-04-24"
+  texkey: "Bern:2018jmv"
+  abstract: We use the recently developed generalized double-copy construction to obtain an improved representation of the five-loop four-point integrand of N=8 supergravity whose leading ultraviolet behavior we analyze using state-of-the-art loop-integral expansion and reduction methods. We find that the five-loop critical dimension where ultraviolet divergences first occur is Dc=24/5, corresponding to a D8R4 counterterm. This ultraviolet behavior stands in contrast to the cases of four-dimensional N=4 supergravity at three loops and N=5 supergravity at four loops whose improved ultraviolet behavior demonstrates enhanced cancellations beyond implications from standard symmetry considerations. We express this Dc=24/5 divergence in terms of two relatively simple positive-definite integrals with vanishing external momenta, excluding any additional ultraviolet cancellations at this loop order. We note nontrivial relations between the integrals describing this leading ultraviolet behavior and integrals describing lower-loop behavior. This observation suggests not only a path towards greatly simplifying future calculations at higher loops, but may even allow us to directly investigate ultraviolet behavior in terms of simplified integrals, avoiding the construction of complete integrands.
+  number_of_pages: 36
+- title: "Cancelling the \\(U(1)\\) anomaly in the s-matrix of \\({\\cal N}=4\\) supergravity"
   arxivnumber: "1712.03928"
+  arxiv_categories: [hep-th]
+  doi: "10.1103/PhysRevLett.121.101604"
+  journal: "Phys.Rev.Lett."
+  journal_volume: "121"
+  journal_artid: "101604"
+  publication_year: 2018
+  authors:
+    - "Bern, Zvi"
+    - "Parra-Martinez, Julio"
+    - "Roiban, Radu"
+  preprint_date: "2017-12-11"
+  texkey: "Bern:2017rjw"
+  abstract: N=4 supergravity is understood to contain a U(1) anomaly which manifests itself via the nonvanishing of loop-level scattering amplitudes that violate a tree-level charge conservation rule. In this Letter we provide detailed evidence that at one loop such anomalous amplitudes can be set to zero by the addition of a finite local counterterm. We show that the same counterterm also cancels evanescent contributions that play an important role in the analysis of ultraviolet divergences in dimensionally regularized gravity. These cancellations call for a reanalysis of the four-loop ultraviolet divergences previously found in this theory without the addition of such counterterms.
+  number_of_pages: 6
 - title: "Curvature-squared multiplets, evanescent effects and the \\(U(1)\\) anomaly in \\({\\cal N}=4\\) supergravity"
   arxivnumber: "1706.01486"
+  arxiv_categories: [hep-th]
+  doi: "10.1103/PhysRevD.96.066004"
+  journal: "Phys.Rev.D"
+  journal_volume: "96"
+  journal_artid: "066004"
+  publication_year: 2017
+  authors:
+    - "Bern, Zvi"
+    - "Edison, Alex"
+    - "Kosower, David"
+    - "Parra-Martinez, Julio"
+  preprint_date: "2017-06-05"
+  texkey: "Bern:2017tuc"
+  abstract: We evaluate one-loop amplitudes of N=4 supergravity in D dimensions using the double-copy procedure that expresses gravity integrands in terms of corresponding ones in Yang–Mills theory. We organize the calculation in terms of a set of gauge-invariant tensors, allowing us to identify evanescent contributions. Among the latter, we find the matrix elements of supersymmetric completions of curvature-squared operators. In addition, we find that such evanescent terms and the U(1)-anomalous contributions to one-loop N=4 amplitudes are tightly intertwined. The appearance of evanescent operators in N=4 supergravity and their relation to anomalies raises the question of their effect on the known four-loop divergence in this theory. We provide bases of gauge-invariant tensors and corresponding projectors useful for Yang–Mills theories as a by-product of our analysis.
+  number_of_pages: 16
 - title: "Manifesting enhanced cancellations in supergravity: integrands versus integrals"
   arxivnumber: "1703.08927"
+  arxiv_categories: [hep-th]
+  doi: "10.1007/JHEP05(2017)137"
+  journal: "JHEP"
+  journal_volume: "05"
+  journal_artid: "137"
+  publication_year: 2017
+  authors:
+    - "Bern, Zvi"
+    - "Enciso, Michael"
+    - "Parra-Martinez, Julio"
+    - "Zeng, Mao"
+  preprint_date: "2017-03-27"
+  texkey: "Bern:2017lpv"
+  abstract: Examples of ‘enhanced ultraviolet cancellations’ with no known standard-symmetry explanation have been found in a variety of supergravity theories. By examining one- and two-loop examples in four- and five-dimensional half-maximal supergravity, we argue that enhanced cancellations in general cannot be exhibited prior to integration. In light of this, we explore reorganizations of integrands into parts that are manifestly finite and parts that have poor power counting but integrate to zero due to integral identities. At two loops we find that in the large loop-momentum limit the required integral identities follow from Lorentz and SL(2) relabeling symmetry. We carry out a nontrivial check at four loops showing that the identities generated in this way are a complete set. We propose that at L loops the combination of Lorentz and SL(L) symmetry is sufficient for displaying enhanced cancellations when they happen, whenever the theory is known to be ultraviolet finite up to (L − 1) loops.
+  number_of_pages: 29

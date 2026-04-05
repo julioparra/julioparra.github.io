@@ -8,8 +8,10 @@ import urllib.request
 import urllib.parse
 
 AUTHOR_BAI = "J.Parra.Martinez.1"
+AUTHOR_RECID = 1519679
 API_BASE = "https://inspirehep.net/api/literature"
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "_data", "papers.yml")
+COAUTHORS_PATH = os.path.join(os.path.dirname(__file__), "..", "_data", "coauthors.yml")
 PAGE_SIZE = 100
 
 FIELDS = ",".join([
@@ -291,6 +293,51 @@ def write_yaml(papers):
     print(f"Wrote {len(papers)} papers to {OUTPUT_PATH}")
 
 
+def extract_coauthors(raw_papers):
+    """Extract unique coauthors from raw API results, excluding self.
+
+    Papers arrive most-recent-first from the API, so the first time we
+    encounter a coauthor is their most recent collaboration date.
+    Duplicates are handled by only recording each recid once.
+    """
+    coauthors = {}
+    for hit in raw_papers:
+        date = hit.get("metadata", {}).get("preprint_date", "")
+        for author in hit.get("metadata", {}).get("authors", []):
+            recid = author.get("recid")
+            if not recid or recid == AUTHOR_RECID:
+                continue
+            if recid not in coauthors:
+                full_name = author.get("full_name", "")
+                # Convert "Last, First" to "First Last"
+                if ", " in full_name:
+                    last, first = full_name.split(", ", 1)
+                    full_name = f"{first} {last}"
+                coauthors[recid] = {
+                    "name": full_name,
+                    "recid": recid,
+                    "last_active": date,
+                }
+    # Sort by most recent collaboration date (descending)
+    return sorted(coauthors.values(),
+                  key=lambda a: a["last_active"], reverse=True)
+
+
+def write_coauthors_yaml(coauthors):
+    """Write coauthors to YAML."""
+    lines = []
+    for c in coauthors:
+        lines.append(f"- name: \"{c['name']}\"")
+        lines.append(f"  inspire_url: \"https://inspirehep.net/authors/{c['recid']}\"")
+    output = "\n".join(lines) + "\n"
+
+    os.makedirs(os.path.dirname(COAUTHORS_PATH), exist_ok=True)
+    with open(COAUTHORS_PATH, "w") as f:
+        f.write(output)
+
+    print(f"Wrote {len(coauthors)} coauthors to {COAUTHORS_PATH}")
+
+
 def main():
     print(f"Fetching papers for {AUTHOR_BAI}...")
     raw_papers = fetch_all_papers()
@@ -299,6 +346,9 @@ def main():
     papers = [extract_paper(hit) for hit in raw_papers]
     papers = [p for p in papers if "arxivnumber" in p]
     write_yaml(papers)
+
+    coauthors = extract_coauthors(raw_papers)
+    write_coauthors_yaml(coauthors)
 
 
 if __name__ == "__main__":

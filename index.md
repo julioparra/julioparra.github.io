@@ -149,6 +149,12 @@ I am a theoretical physicist working on quantum field theory, scattering amplitu
 
 <br>
 
+#### My recent collaborators ####
+
+{% for coauthor in site.data.coauthors limit:10 %}<a href="{{ coauthor.inspire_url }}">{{ coauthor.name }}</a>, {% endfor %}<a href="#" onclick="document.getElementById('all-coauthors').style.display='inline'; this.style.display='none'; return false;">more...</a><span id="all-coauthors" style="display:none">{% for coauthor in site.data.coauthors offset:10 %}<a href="{{ coauthor.inspire_url }}">{{ coauthor.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+
+<br>
+
 <div class="row">
     <div class="col-6">  </div>
     <div class="col-6" style="text-align:right">  Updated: {{ 'now' | date: "%d/%m/%Y"}} </div>

@@ -4,7 +4,31 @@
   link: https://indico.in2p3.fr/event/38354/
   institution: ENS
   location: Lyon
-  video: 
+  video:
+
+- date: 2026-11-05
+  name: HEP-Seminar
+  type: seminar
+  link:
+  institution: TUM
+  location: Munich
+  video:
+
+- date: 2026-11-04
+  name: DESY/UHH String Theory Seminar
+  type: seminar
+  link:
+  institution: DESY
+  location: Hamburg
+  video:
+
+- date: 2026-07-08
+  name: Physics seminar
+  type: seminar
+  link:
+  institution: Fudan University
+  location: Shanghai
+  video:
 
 - date: 2026-06-27
   name: Symmetries 2026
@@ -12,7 +36,7 @@
   link: https://indico.math.cnrs.fr/event/14721/
   institution: Institut Henri Poincaré
   location: Paris
-  video: 
+  video:
 
 - date: 2026-06-23
   name: School on Gravity
@@ -20,7 +44,15 @@
   link: https://the-center-of-gravity.com/events/the-school-on-gravity-from-motion-to-commotion-2026/
   institution: NBI
   location: Copenhaguen
-  video: 
+  video:
+
+- date: 2026-06-03
+  name: Journées Relativistes
+  type: conference
+  link:
+  institution: Institut Denis Poisson
+  location: Tours
+  video:
 
 - date: 2026-05-13
   name: Joint Belgian hep-th Seminars
@@ -30,13 +62,21 @@
   location: Brussels
   video: 
 
+- date: 2026-04-23
+  name: High-energy theory/Astro seminar
+  type: seminar
+  link: 
+  institution: KAIST
+  location: Daejeon
+  video:
+
 - date: 2026-03-25
   name: Open Issues in Gravitation
-  type: colloquium
-  link: 
+  type: conference
+  link: https://indico.math.cnrs.fr/event/16096/
   institution: IHES
   location: Bures-sur-Yvette
-  video: 
+  video:
 
 - date: 2026-02-11
   name: TH Colloquium
@@ -44,7 +84,7 @@
   link: https://indico.cern.ch/category/100/
   institution: CERN
   location: Geneva
-  video: 
+  video:
 
 - date: 2026-01-28
   name: Seed Seminar of Mathematics and Physics
@@ -52,7 +92,7 @@
   link: https://seedseminar.apps.math.cnrs.fr
   institution: Institut Henri Poincare
   location: Paris
-  video: 
+  video:
 
 - date: 2026-01-19
   name: Lost in Translation, The Language of gravitational waves
@@ -60,7 +100,7 @@
   link: https://indico.mitp.uni-mainz.de/event/464/page/934-speaker-list
   institution: MITP
   location: Mainz
-  video: 
+  video:
 
 - date: 2026-01-17
   name: Asian Winter School on Strings, Particles and Cosmology
@@ -68,7 +108,7 @@
   link: https://aws2025.com/
   institution: IISER
   location: Bhopal
-  video: 
+  video:
 
 - date: 2026-01-12
   name: From Analyticity to Phenomenology
@@ -76,7 +116,7 @@
   link: https://pcts.princeton.edu/events/2026/analyticity-phenomenology
   institution: IAS/PCTS
   location: Princeton
-  video: 
+  video:
 
 - date: 2025-12-15
   name: Symbology@15
@@ -84,7 +124,7 @@
   link: https://indico.mpp.mpg.de/event/11294/
   institution: MPI for Physics
   location: Munich
-  video: 
+  video:
 
 - date: 2025-12-11
   name: Fields and Strings Seminar
@@ -92,7 +132,7 @@
   link: https://www.theorie.physik.uni-muenchen.de/MATH/seminars/strings_and_fields/index.html
   institution: MPI for Physics
   location: Munich
-  video: 
+  video:
 
 - date: 2025-12-10
   name: Observables in gauge theories and gravity
@@ -100,7 +140,7 @@
   link: https://indico.in2p3.fr/event/36962/
   institution: IPhT/CEA
   location: Paris
-  video: 
+  video:
 
 - date: 2025-11-11
   name: Seminar
@@ -108,7 +148,7 @@
   link: https://sites.google.com/view/theoretical-physics-crete/seminars/2025-2026?authuser=0
   institution: Crete Center for Theoretical Physics
   location: Online
-  video: 
+  video:
 
 - date: 2025-11-11
   name: Loop-the-loop workshop
@@ -116,7 +156,7 @@
   link: https://indico.dfa.unipd.it/e/looptheloop
   institution: MITP
   location: Online
-  video: 
+  video:
 
 - date: 2025-11-06
   name: Quantum Fields and Strings Seminar
@@ -124,8 +164,7 @@
   link: https://talks.cam.ac.uk/show/index/18332
   institution: DAMTP, University of Cambridge
   location: Cambridge
-  video: 
-
+  video:
 
 - date: 2025-11-06
   name: Theory Seminar
@@ -133,7 +172,7 @@
   link: https://www.qmul.ac.uk/spcs/ctp/events/
   institution: Queen Mary University
   location: London 
-  video: 
+  video:
 
 - date: 2025-10-29
   name: Strings Online Lisbon Workshop 2025
@@ -141,8 +180,7 @@
   link: https://sites.google.com/view/sol-25-strings-online-lisbon/
   institution: Instituto Superior Tecnico 
   location: Lisbon
-  video: 
-
+  video:
 
 - date: 2025-10-20
   name: School of Analytic Computing in Theoretical High-Energy Physics
@@ -150,7 +188,7 @@
   link: https://indico.cern.ch/event/1514553/overview
   institution: Atrani
   location: Italy
-  video: 
+  video:
 
 - date: 2025-10-09
   name: Weekly Seminar
@@ -158,7 +196,7 @@
   link: https://indico.in2p3.fr/category/359/
   institution: LAPTh
   location: Annecy
-  video: 
+  video:
 
 - date: 2025-09-09
   name: 2nd Annual Workshop on Self-Force and Amplitudes
@@ -166,7 +204,7 @@
   link: https://indico.cern.ch/event/1485758/
   institution: University of Southampton
   location: UK
-  video: 
+  video:
 
 - date: 2025-07-30
   name: HoloGrav Young Frontiers Meeting 2025
@@ -176,21 +214,21 @@
   location: Sao Paulo
   video: https://youtube.com/playlist?list=PLunZtuemnQ1eA96k-TveZIzHSsExMopbk&si=rOoflKxCHUvs6Gwv
 
-- date: 2025-07-01
-  name: Theory Seminar
-  type: seminar
-  link: 
-  institution: Universidade de Sao Paulo
-  location: Sao Paulo
-  video: 
-
 - date: 2025-07-07
   name: Constraining EFTs without Lorentz
   type: conference
   link: https://www.ifpu.it/focus-week-25-07-07/
   institution: ICTP
   location: Trieste
-  video: 
+  video:
+
+- date: 2025-07-01
+  name: Theory Seminar
+  type: seminar
+  link: 
+  institution: Universidade de Sao Paulo
+  location: Sao Paulo
+  video:
 
 - date: 2025-06-23
   name: ENS Summer Institute
@@ -198,7 +236,7 @@
   link: https://indico.in2p3.fr/event/34339/
   institution: Ecole Normale Superieure
   location: Paris
-  video: 
+  video:
 
 - date: 2025-06-17
   name: Amplitudes 2025
@@ -214,7 +252,7 @@
   link: https://physics.kias.re.kr/Amplitudes2025/
   institution: Seoul National University
   location: Seoul
-  video: 
+  video:
 
 - date: 2025-05-14
   name: 2025 Symposium of the Wolfgang Pauli Centre
@@ -238,7 +276,7 @@
   link: https://agenda.infn.it/event/46974/
   institution: U. Tor Vergata
   location: Rome
-  video: 
+  video:
 
 - date: 2025-05-08
   name: SNS Theory Seminar
@@ -246,7 +284,7 @@
   link: https://www.heptheory.sns.it/sns-theory-seminars-2024-2025
   institution: Scuola Normale Superiore
   location: Pisa
-  video: 
+  video:
 
 - date: 2025-04-23
   name: QFT and Mathematical Physics Seminar
@@ -254,7 +292,7 @@
   link: https://qft.physik.hu-berlin.de/next-seminars/categories/pizza-seminars/
   institution: Humboldt U.
   location: Berlin
-  video: 
+  video:
 
 - date: 2025-04-16
   name: Simons Celestial Holography Satellite Meeting
@@ -262,7 +300,7 @@
   link: https://indico.ph.ed.ac.uk/event/335/overview
   institution: Simons Foundation 
   location: New York, NY
-  video: 
+  video:
 
 - date: 2025-04-10
   name: Rencontres Theoriciennes
@@ -270,7 +308,7 @@
   link: https://string.lpthe.jussieu.fr/today.pl?lang=eng
   institution: Institut Henri Poincare
   location: Paris
-  video: 
+  video:
 
 - date: 2025-03-10
   name: Cosmology Coffee Seminar
@@ -278,7 +316,7 @@
   link: 
   institution: MIT 
   location: Cambridge, MA
-  video: 
+  video:
 
 - date: 2025-03-07
   name: Theory Seminar
@@ -286,7 +324,7 @@
   link: 
   institution: Boston University 
   location: Boston, MA
-  video: 
+  video:
 
 - date: 2025-03-03
   name: Black Hole Initiative Colloquium
@@ -310,7 +348,7 @@
   link: https://iop.uva.nl/content/research-groups/strings/seminars/google-calendar/index.html
   institution: University of Amsterdam
   location: Amsterdam
-  video: 
+  video:
 
 - date: 2025-01-30
   name: Seminar
@@ -318,7 +356,7 @@
   link: https://www.ijclab.in2p3.fr/en/seminaire/
   institution: IJCLab
   location: Orsay
-  video: 
+  video:
 
 - date: 2025-01-28
   name: String Theory Seminar
@@ -326,7 +364,7 @@
   link: <D-c><D-c>https://indico.cern.ch/category/104/
   institution: CERN
   location: Geneva
-  video: 
+  video:
 
 - date: 2025-01-10
   name: Strings 2025
@@ -342,6 +380,7 @@
   link: https://scgp.stonybrook.edu/archives/43087
   institution: Simons Center for Geometry and Physics
   location: New York
+  video: https://scgp.stonybrook.edu/video_portal/video.php?id=6859
 
 - date: 2024-12-09
   name: QCD Meets Gravity 2024
@@ -357,7 +396,7 @@
   link: https://www.imperial.ac.uk/events/182355/theory-group-seminar-julio-parra/
   institution: Imperial College
   location: London
-  video: 
+  video:
 
 - date: 2024-10-30
   name: EFT and Multi-Loop Methods for Advancing Precision in Collider and Gravitational Wave Physics
@@ -365,7 +404,7 @@
   link: https://www.munich-iapbp.de/eft-multi-loop-methods
   institution: MIAPPb
   location: Munich
-  video: 
+  video:
 
 - date: 2024-09-26
   name: Korea-France joint workshop on string theory
@@ -373,7 +412,7 @@
   link: https://physics.kias.re.kr/KIAS-SACLAY/#home
   institution: KIAS
   location: Seoul
-  video: 
+  video:
 
 - date: 2024-09-14
   name: Amplitudes Meets Cosmology 2024
@@ -381,7 +420,7 @@
   link: https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2024/
   institution:
   location: Vidago, Portugal
-  video: 
+  video:
 
 - date: 2024-09-06
   name: High-Energy Theory Seminar
@@ -389,7 +428,7 @@
   link: 
   institution: Seoul National University
   location: Seoul
-  video: 
+  video:
 
 - date: 2024-07-18
   name: ICHEP 2024
@@ -397,7 +436,7 @@
   link: https://indico.cern.ch/event/1291157/overview 
   institution:
   location: Prague
-  video: 
+  video:
 
 - date: 2024-06-28
   name: S-matrix bootstrap workshop
@@ -405,7 +444,7 @@
   link: https://bootstrapcollaboration.com/smatrix2024/ 
   institution: University of Iceland
   location: Reykjavik
-  video: 
+  video:
 
 - date: 2024-06-03
   name: TASI 2024
@@ -421,7 +460,7 @@
   link: http://www.physics.mcgill.ca/seminars/CHEP.html#IHEP
   institution: McGill U.
   location: Zoom 
-  video: 
+  video:
 
 - date: 2024-01-17
   name: Iberian Strings 2024
@@ -429,7 +468,7 @@
   link: https://indico.cern.ch/event/1322387/timetable/
   institution: 
   location: Porto, Portugal
-  video: 
+  video:
 
 - date: 2023-12-15
   name: Indian Strings Meeting 2023
@@ -437,7 +476,7 @@
   link: http://home.phy.iitb.ac.in/ism2023/index.html
   institution: Indian Institute of Technology
   location: Mumbai, India
-  video: 
+  video:
 
 - date: 2023-11-23
   name: TRIUMF Colloquium
@@ -445,7 +484,7 @@
   link: https://www.triumf.ca/research-program/lectures-conferences/upcoming-seminars-lectures
   institution: TRIUMF
   location: Vancouver, CA
-  video: 
+  video:
 
 - date: 2023-11-15
   name: UBC Gravity Seminar
@@ -453,7 +492,7 @@
   link: https://pitp.phas.ubc.ca/GravitySeminars/index.html
   institution: UBC
   location: Vancouver, CA
-  video: 
+  video:
 
 - date: 2023-11-07
   name: Particle Theory Seminar
@@ -461,7 +500,7 @@
   link: https://phys.washington.edu/events/series/particle-theory
   institution: University of Washington
   location: Seattle
-  video: 
+  video:
 
 - date: 2023-10-12
   name: Theoretical Physics seminar
@@ -469,7 +508,7 @@
   link: 
   institution:  IPhT
   location: CEA Saclay
-  video: 
+  video:
 
 - date: 2023-09-19
   name: Correlators in Cortona
@@ -477,7 +516,7 @@
   link: https://indico.sns.it/event/55/timetable/#20230919
   institution:  
   location: Cortona
-  video: 
+  video:
 
 - date: 2023-09-13
   name: Swamplandia workshop 
@@ -485,7 +524,7 @@
   link: https://eventos.uam.es/99620/detail/swamplandia.html
   institution:  
   location: (Discussion co-led with Thomas Van Riet), Madrid
-  video: 
+  video:
 
 - date: 2023-08-17
   name: Beyond BSM
@@ -493,7 +532,7 @@
   link: https://indico.cern.ch/event/824151/timetable/#20230813
   institution:  
   location: Monte Verità, Ascona
-  video: 
+  video:
 
 - date: 2023-08-11
   name: Traversing the Particle Physics Peaks — Phenomenology to Formal
@@ -501,7 +540,7 @@
   link:
   institution: Aspen Center for Physics 
   location:
-  video: 
+  video:
 
 - date: 2023-07-23
   name: Strings 2023
@@ -517,7 +556,7 @@
   link: https://epp.slac.stanford.edu/event-categories/epp-theory-seminars
   institution: SLAC 
   location:
-  video: 
+  video:
 
 - date: 2023-04-20
   name: CMSA Colloquium 
@@ -525,7 +564,7 @@
   link: 
   institution: Harvard U. 
   location: Cambridge
-  video: 
+  video:
 
 - date: 2023-04-19
   name: Theoretical Tests of the Landscape
@@ -533,7 +572,7 @@
   link: https://www.physics.umass.edu/acfi/seminars-and-workshops/theoretical-tests-of-the-landscape
   institution: Amherst Center for Fundamental Interactions 
   location: Amherst
-  video: 
+  video:
 
 - date: 2023-04-15
   name: APS April Meeting
@@ -541,7 +580,7 @@
   link: https://april.aps.org
   institution: Invited talk 
   location: Minneapolis
-  video: 
+  video:
 
 - date: 2023-01-17
   name: High Energy Physics Seminar
@@ -549,7 +588,7 @@
   link: https://physics.nyu.edu/events.html?EventsPage=hep
   institution: NYU 
   location: New York
-  video: 
+  video:
 
 - date: 2023-01-17
   name: High Energy Theory Seminar
@@ -557,7 +596,7 @@
   link: https://physics.tamu.edu/events/categories/lectures/het/
   institution: Texas A&M University
   location: College Station
-  video: 
+  video:
 
 - date: 2022-12-19
   name: KIAS String Seminars
@@ -565,7 +604,7 @@
   link: https://www.kias.re.kr/kias/activities/seminars/view.do?seqno=PGN1720221206-0002&menuNo=404003
   institution: Korea Institute for Advance Study 
   location: Seoul
-  video: 
+  video:
 
 - date: 2022-12-02
   name: Équations différentielles motiviques et au–delà
@@ -573,7 +612,7 @@
   link: https://indico.math.cnrs.fr/category/603/
   institution: Institut Henri Poincaré
   location: Paris
-  video: 
+  video:
 
 - date: 2022-11-28
   name: Séminaire de Physique Théorique
@@ -581,7 +620,7 @@
   link: https://indico.math.cnrs.fr/category/71/
   institution: IHES
   location: Paris
-  video: 
+  video:
 
 - date: 2022-09-28
   name: Back to the Swamp
@@ -589,7 +628,7 @@
   link: https://members.ift.uam-csic.es/marchesano/back-to-the-swamp/
   institution: IFT
   location: Madrid
-  video: #https://www.youtube.com/watch?v=D9Xd_HyNTaM
+  video: https://www.youtube.com/watch?v=D9Xd_HyNTaM
 
 - date: 2022-09-24
   name: Celestial Holography Group Meeting 
@@ -597,7 +636,7 @@
   link: 
   institution: Harvard
   location: Cambridge, MA
-  video: 
+  video:
 
 - date: 2022-08-12
   name: Amplitudes 2022
@@ -613,7 +652,7 @@
   link: https://indico.nbi.ku.dk/event/1669/  
   institution: Niels Bohr Institute
   location: Copenhaguen
-  video: 
+  video:
 
 - date: 2022-05-19
   name: Amplitudes Meets Cosmology 2022
@@ -621,7 +660,7 @@
   link: https://www.simonsfoundation.org/event/amplitudes-meet-cosmology-2022/
   institution: Gleneagles Hotel
   location: Scotland
-  video: 
+  video:
 
 - date: 2022-05-17
   name: Quantum Encounters
@@ -629,7 +668,7 @@
   link: https://seminars.ihes.fr/quantum/
   institution: IHES, Paris
   location: Virtual #, via Zoom
-  video: 
+  video:
 
 - date: 2022-05-11
   name: All Things EFT 
@@ -645,7 +684,7 @@
   link: https://www.ias.edu/possible-and-impossible-effective-field-theory-s-matrix-swampland
   institution: Institute for Advance Study
   location: Princeton
-  video: 
+  video:
 
 - date: 2022-05-03
   name: Quantum Gravity Seminar 
@@ -653,7 +692,7 @@
   link: 
   institution: Max Planck Institute for Gravitational Physics (AEI), Potsdam
   location: Virtual
-  video: 
+  video:
 
 - date: 2022-04-19
   name: Storming the Gravitational Wave Frontier 
@@ -669,7 +708,7 @@
   link: https://pitp.phas.ubc.ca/upcoming/index.html
   institution: Pacific Insitute for Theoretical Physics, UBC
   location: Vancouver
-  video: 
+  video:
 
 - date: 2022-04-12
   name: YOUNGST@RS - Color-Kinematics
@@ -685,7 +724,7 @@
   link: Max Planck Institut für Physik
   institution: Max Planck Institut für Physik, Munich
   location: Virtual
-  video: 
+  video:
 
 - date: 2022-04-10
   name: APS April Meeting
@@ -693,7 +732,7 @@
   link: https://meetings.aps.org/Meeting/APR22/Session/L01
   institution: Invited Talk
   location: New York, Virtual
-  video: 
+  video:
 
 - date: 2022-04-07
   name: High Energy and Gravity Seminar
@@ -701,7 +740,7 @@
   link: https://www.kitp.ucsb.edu/strings/seminars
   institution: KITP
   location: Santa Barbara
-  video: 
+  video:
 
 - date: 2022-04-04
   name: Swampland Seminar 
@@ -710,7 +749,7 @@
   institution:
   location: Virtual
   video: https://youtu.be/bPA0VU2luaA
- 
+
 - date: 2022-03-24
   name: Astrophysics Seminar 
   type: seminar
@@ -725,7 +764,7 @@
   link: https://phy.princeton.edu/events/het-seminar-julio-parra-martinez-caltech-causality-constraints-corrections-einstein-gravity
   institution: Princeton University
   location: Princeton
-  video: 
+  video:
 
 - date: 2022-03-10
   name: Joint Theory Seminar
@@ -733,7 +772,7 @@
   link: 
   institution: Niels Bohr Institute, Copenhagen
   location: Virtual
-  video: 
+  video:
 
 - date: 2022-03-05
   name: California Amplitudes Meeting
@@ -741,7 +780,7 @@
   link: https://qmap.ucdavis.edu/events/ca-amplitudes-meeting-2022
   institution: UC Davis
   location: Davis
-  video: 
+  video:
 
 - date: 2022-03-02
   name: Colloquium
@@ -749,7 +788,7 @@
   link: https://phas.ubc.ca/seminar-black-hole-collider-physics
   institution: University of British Columbia
   location: Zoom
-  video: 
+  video:
 
 - date: 2022-02-23
   name: Colloquium
@@ -757,7 +796,7 @@
   link: https://lsa.umich.edu/physics/news-events/all-events.detail.html/92464-21691706.html
   institution: University of Michigan 
   location: Ann Arbor
-  video: 
+  video:
 
 - date: 2022-02-07
   name: Quantum Spacetime Seminars
@@ -765,7 +804,7 @@
   link: http://qst.theory.tifr.res.in/StringTheoryStud/Seminars.php
   institution: Tata Institute of Fundamental Research, Mumbai
   location: Virtual
-  video: 
+  video:
 
 - date: 2022-02-01
   name: Particle Physics Seminar
@@ -773,7 +812,7 @@
   link: https://het.ucsd.edu/seminars.html
   institution: UC San Diego
   location: Virtual
-  video: 
+  video:
 
 - date: 2022-01-11
   name: Amplitudes Meeting
@@ -781,7 +820,7 @@
   link: 
   institution: Institute for Advanced Study, Princeton
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-11-30
   name: HET Seminar
@@ -789,7 +828,7 @@
   link: https://lsa.umich.edu/physics/news-events/all-events.detail.html/89154-21660700.html
   institution: University of Michigan
   location: Ann Arbor
-  video: 
+  video:
 
 - date: 2021-11-17
   name: Theory Seminar
@@ -797,7 +836,7 @@
   link: 
   institution: Carnegie Mellon University
   location: Pittsburgh
-  video: 
+  video:
 
 - date: 2021-06-03
   name: Amplitudes Journal Club
@@ -805,7 +844,7 @@
   link: 
   institution: Durham University 
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-05-21
   name: RADCOR+LoopFest 2021
@@ -821,7 +860,7 @@
   link: 
   institution: U. Chicago 
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-04-27
   name: TH String Theory Seminar
@@ -829,7 +868,7 @@
   link: https://indico.cern.ch/event/1008832/
   institution: CERN 
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-04-27
   name: Gravitational scattering, inspiral, and radiation
@@ -845,7 +884,7 @@
   link: https://theory.slac.stanford.edu/events/epp-theory-seminar-julio-parra-martinez-collider-tools-for-classical-gravity
   institution: SLAC 
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-03-03
   name: Particle Physics Theory Seminar
@@ -869,7 +908,7 @@
   link: https://het.physics.columbia.edu/events/julio-parra-martinez-caltech
   institution: Columbia University, New York
   location: Virtual
-  video: 
+  video:
 
 - date: 2021-01-15
   name: Amplitudes Journal Club
@@ -877,7 +916,7 @@
   link: 
   institution: UCLA
   location: Virtual
-  video: 
+  video:
 
 - date: 2020-12-01
   name: QCD Meets Gravity 2020
@@ -887,14 +926,13 @@
   location: Virtual
   video: https://www.youtube.com/watch?v=nhfTtENCxWM
 
-
 - date: 2020-11-25
   name: High Energy Theory Informal Meeting
   type: seminar
   link: https://www.theory.caltech.edu/seminars/high-energy-theory-informal-meeting
   institution: Caltech
   location: Virtual
-  video: 
+  video:
 
 - date: 2020-10-29
   name: EFT methods from Bound States to Binary Systems
@@ -910,7 +948,7 @@
   link: https://www-theory.lbl.gov/wordpress/?event=julio-parra-martinez
   institution: LBL/UC Berkeley
   location: Virtual
-  video: 
+  video:
 
 - date: 2020-05-12
   name: Amplitudes 2020
@@ -926,7 +964,7 @@
   link: https://indico.cern.ch/event/866125/overview
   institution: University of Pittsburgh
   location: Cancelled due to Covid-19
-  video: 
+  video:
 
 - date: 2020-02-11
   name: TEP Seminar
@@ -934,7 +972,7 @@
   link: http://bhaumik-institute.physics.ucla.edu/seminars-and-colloquia
   institution: UCLA
   location: Los Angeles
-  video: 
+  video:
 
 - date: 2019-12-11
   name: QCD Meets Gravity 2019
@@ -942,7 +980,7 @@
   link: http://bhaumik-institute.physics.ucla.edu/QCD%20Meets%20Gravity%202019
   institution: UCLA
   location: Los Angeles
-  video: 
+  video:
 
 - date: 2019-11-11
   name: Amplitudes Group Meeting
@@ -950,7 +988,7 @@
   link: 
   institution: Brown University
   location: Providence
-  video: 
+  video:
 
 - date: 2019-10-17
   name: From Scattering to Expansion
@@ -958,7 +996,7 @@
   link: https://indico.desy.de/indico/event/24148/overview
   institution: Northwestern University
   location: Evanston
-  video: 
+  video:
 
 - date: 2019-09-11
   name: Quantum Matter Seminar
@@ -974,7 +1012,7 @@
   link: https://theory.slac.stanford.edu/events/epp-theory-seminar-julio-parra-martinez-universality-the-classical-limit-gravitational
   institution: SLAC
   location:
-  video: 
+  video:
 
 - date: 2019-08-11
   name: Off-term Seminar
@@ -982,15 +1020,15 @@
   link: 
   institution: ETH
   location: Zurich
-  video: 
-      
+  video:
+
 - date: 2019-06-26
   name: "IGC@25: Multimessenger Universe"
   type: conference
   link: https://igc.psu.edu/os/events/igc25/
   institution: ICG, Penn State
   location:
-  video: 
+  video:
 
 - date: 2019-06-01
   name: California Amplitudes Meeting
@@ -998,7 +1036,7 @@
   link: https://qmap.ucdavis.edu/events/events-past-events/california-amplitudes-meeting
   institution: QMAP, UC Davis
   location:
-  video: 
+  video:
 
 - date: 2019-04-10
   name: Brown Bag Seminar
@@ -1006,15 +1044,15 @@
   link: https://lsa.umich.edu/lctp/news-events/all-events/seminars/seminar-history/past-brown-bag-seminar-series/winter-2019.html
   institution: University of Michigan
   location: Ann Arbor
-  video: 
-    
+  video:
+
 - date: 2018-11-11
   name: Fields and Strings Seminar
   type: seminar
   link: 
   institution: QMAP, UC Davis
   location: Zurich
-  video: 
+  video:
 
 - date: 2018-09-11
   name: Supergravity and M/Superstring Theory in the Ultraviolet and Double Copy
@@ -1022,7 +1060,7 @@
   link: http://gravity.psu.edu/events/superstring_supergravity/index_sstu.shtml
   institution: Penn State
   location:
-  video: 
+  video:
 
 - date: 2018-06-11
   name: Amplitudes Summer School, Gong Show
@@ -1030,7 +1068,7 @@
   link: http://qmap.ucdavis.edu/events/events-past-events/amplitudes-summer-school
   institution: QMAP, UC Davis
   location:
-  video: 
+  video:
 
 - date: 2018-04-11
   name: California Amplitudes Meeting
@@ -1038,7 +1076,7 @@
   link: https://sites.google.com/site/calamps2018/home
   institution: SLAC
   location: 
-  video: 
+  video:
 
 - date: 2018-03-11
   name: 34th Pacific Coast Gravity Meeting
@@ -1046,7 +1084,7 @@
   link: http://www.tapir.caltech.edu/~pcgm34/
   institution: Caltech 
   location: Pasadena
-  video: 
+  video:
 
 - date: 2017-12-11
   name: QCD Meets Gravity 2017
@@ -1054,7 +1092,7 @@
   link: http://bhaumik-institute.physics.ucla.edu/qcdmg2017_schedule.html
   institution: UCLA
   location: Los Angeles
-  video: 
+  video:
 
 - date: 2017-07-11
   name: String Theory Seminar
@@ -1062,7 +1100,7 @@
   link: 
   institution: Max Planck Institute for Gravitational Physics (AEI)
   location: Potsdam
-  video: 
+  video:
 
 - date: 2017-06-11
   name: "Scattering Amplitudes: from Gauge Theory to Gravity"
@@ -1078,7 +1116,7 @@
   link: http://qmap.ucdavis.edu/events/events-past-events/fsg2016/events-fsg2016-program
   institution: QMAP, UC Davis
   location: 
-  video: 
+  video:
 
 - date: 2016-10-11
   name: California Amplitudes Meeting
@@ -1086,7 +1124,7 @@
   link: https://bhaumik-institute.physics.ucla.edu/california-amplitudes-2016
   institution: UCLA
   location: Los Angeles
-  video: 
+  video:
 
 - date: 2016-06-11
   name: California Amplitudes Meeting
@@ -1094,8 +1132,4 @@
   link: http://qmap.ucdavis.edu/events/events-past-events/amplitudes-meeting
   institution: QMAP, UC Davis
   location: 
-  video: 
-      
-    
-
-
+  video:

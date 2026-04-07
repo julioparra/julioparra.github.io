@@ -104,13 +104,13 @@ I am a theoretical physicist working on quantum field theory, scattering amplitu
 
 <br>
 
-<h4> <span id="all-seminars-recent">Recent</span> seminars, colloquia, etc {% assign sem_pre = 0 %}{% for talk in site.data.talks %}{% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}{% if talkdate < datenow and talk.type == "seminar" %}{% assign sem_pre = sem_pre | plus: 1 %}{% endif %}{% endfor %}{% if sem_pre > 10 %}<small style="font-weight: 300">(<a href="#" onclick="return toggleSection('all-seminars', this);">see all</a>)</small>{% endif %}</h4>
+<h4> <span id="all-seminars-recent">Recent</span> seminars, colloquia, etc {% assign sem_pre = 0 %}{% for talk in site.data.talks %}{% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}{% if talkdate < datenow and talk.type == "seminar" or talk.type == "colloquium" %}{% assign sem_pre = sem_pre | plus: 1 %}{% endif %}{% endfor %}{% if sem_pre > 10 %}<small style="font-weight: 300">(<a href="#" onclick="return toggleSection('all-seminars', this);">see all</a>)</small>{% endif %}</h4>
 
 {% capture datenow %}{{'now' | date: '%s'}}{% endcapture %}
 {% assign sem_count = 0 %}
 {% for talk in site.data.talks %}
 {% capture talkdate %}{{ talk.date | date: '%s'}}{% endcapture %}
-  {% if talkdate < datenow and talk.type == "seminar" %}
+  {% if talkdate < datenow and talk.type == "seminar" or talk.type == "colloquium" %}
   {% assign sem_count = sem_count | plus: 1 %}
   {% if sem_count == 11 %}<div id="all-seminars" style="display:none">{% endif %}
   <div class="row">

@@ -47,9 +47,9 @@
   video:
 
 - date: 2026-06-03
-  name: Journées Relativistes
+  name: Lichnerowicz Conference: Journées Relativistes
   type: conference
-  link:
+  link: https://indico.in2p3.fr/event/38896/
   institution: Institut Denis Poisson
   location: Tours
   video:
@@ -76,7 +76,7 @@
   link: https://indico.math.cnrs.fr/event/16096/
   institution: IHES
   location: Bures-sur-Yvette
-  video:
+  video: https://youtu.be/LF0wKevoFSQ?si=8BU_mkeUXR4r6JLL
 
 - date: 2026-02-11
   name: TH Colloquium
@@ -252,7 +252,7 @@
   link: https://physics.kias.re.kr/Amplitudes2025/
   institution: Seoul National University
   location: Seoul
-  video:
+  video: https://www.youtube.com/watch?v=OnY0FSO9ik8&list=PLunZtuemnQ1fC_DHEtV9JWxwqp_Z7mAKh
 
 - date: 2025-05-14
   name: 2025 Symposium of the Wolfgang Pauli Centre

@@ -65,7 +65,7 @@
   virtual: no
 
 - date: 2026-06-03
-  name: Lichnerowicz Conference: Journées Relativistes
+  name: "Lichnerowicz Conference: Journées Relativistes"
   type: conference
   link: https://indico.in2p3.fr/event/38896/
   institution: Institut Denis Poisson
@@ -534,7 +534,7 @@
   location: New York, NY
   country: US
   video: https://scgp.stonybrook.edu/video_portal/video.php?id=6859
-  title: Detectors in classical physics: puzzles and applications
+  title: "Detectors in classical physics: puzzles and applications"
   virtual: no
 
 - date: 2024-12-09

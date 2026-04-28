@@ -607,7 +607,7 @@
   texkey: "Bern:2019isl"
   abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
   number_of_pages: 5
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
   arxivnumber: "1806.06072"
   arxiv_categories: [hep-th]
   doi: "10.1007/JHEP10(2018)059"

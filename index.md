@@ -47,7 +47,10 @@ Francesco Calisto (Summer student 2023 -> PhD Student at Caltech)
 
 {% capture datenow %}{{'now' | date: '%s'}}{% endcapture %}
 
-### Research ###
+<div class="row">
+  <div class="col-md-8 col-0"><h3>Research</h3></div>
+  <div class="col-md-4 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>, <a href="https://scholar.google.com/citations?user=oASELmIAAAAJ&hl=en&authuser=1">Google Scholar</a>)</div>
+</div>
 
 I am a theoretical physicist working on quantum field theory, scattering amplitudes, gravitation, effective field theories and string theory. 
 
@@ -67,10 +70,7 @@ I am a theoretical physicist working on quantum field theory, scattering amplitu
 
 <div style="margin-top: 1.3em"></div>
 
-  <div class="row">
-    <div class="col-md-8 col-0"> <h4> <span id="all-publications-recent">Recent</span> publications {% if site.data.papers.size > 10 %}<small style="font-weight: 300">(<a href="#" onclick="return toggleSection('all-publications', this);">see all</a>)</small>{% endif %}</h4> </div>
-    <div class="col-md-4 col-12" style="vertical-align: middle; text-align:right"> (<a href="http://inspirehep.net/author/profile/J.Parra.Martinez.1">INSPIRE</a>, <a href="https://scholar.google.com/citations?user=oASELmIAAAAJ&hl=en&authuser=1">Google Scholar</a>)</div>
-  </div>
+  <h4> <span id="all-publications-recent">Recent</span> publications {% if site.data.papers.size > 10 %}<small style="font-weight: 300">(<a href="#" onclick="return toggleSection('all-publications', this);">see all</a>)</small>{% endif %}</h4>
   {% for paper in site.data.papers %}
   {% if forloop.index == 11 %}<div id="all-publications" style="display:none">{% endif %}
   <div class="row">

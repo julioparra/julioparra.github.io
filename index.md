@@ -17,7 +17,7 @@ Contact: <a href="mailto:julio@ihes.fr"> julio (at) ihes.fr</a> <br>
 <!--
 
 <a href="/contact/index.html">Contact </a>
-<D-c>-->
+-->
 </div>
 <div class="col-5 col-sm-5 col-md-3">
 <img src="/images/IHES-logo-3-filets.png" class="float-sm-center float-md-right" style="width:100%">  

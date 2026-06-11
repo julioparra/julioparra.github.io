@@ -120,7 +120,7 @@
   virtual: no
 
 - date: 2026-04-23
-  name: High-energy theory/Astro seminar
+  name: High-energy theory seminar
   type: seminar
   link: 
   institution: KAIST
@@ -540,7 +540,7 @@
 - date: 2025-01-28
   name: String Theory Seminar
   type: seminar
-  link: <D-c><D-c>https://indico.cern.ch/category/104/
+  link: https://indico.cern.ch/category/104/
   institution: CERN
   location: Geneva
   country: CH

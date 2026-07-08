@@ -47,7 +47,7 @@
   preprint_date: "2025-10-01"
   texkey: "He:2025how"
   abstract: "We present a generalized unitarity method for theories of point-particle worldlines coupled to gravity, analogous to that of scattering amplitudes in quantum field theory. This method allows the computation of perturbative observables from basic principles such as locality and unitarity, thus avoiding gauge redundancies and the use of Feynman diagrams. We illustrate the method with a variety of examples, including the gravitational waveform for the scattering of two point masses at next-to-leading order (or ${\\cal O}(G^{5/2})$), reproducing known results. Our method further streamlines the calculation of the scattering dynamics of compact binary systems and opens the door to further applications and systematical exploration of structure in this class of observables."
-  number_of_pages: 30
+  number_of_pages: 31
 - title: "GSO defects: IIA/IIB walls and the surprisingly stable R7-brane"
   arxivnumber: "2507.21210"
   arxiv_categories: [hep-th, math-ph, math.MP]

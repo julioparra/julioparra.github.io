@@ -1,3 +1,25 @@
+- date: 2027-06-21
+  name: "All roads lead to Waveforms: GSF, PM, PN and all that"
+  type: workshop
+  link:
+  institution: ICTP-SAIFR
+  location: Sao Paulo
+  country: BR
+  video:
+  title:
+  virtual: no
+
+- date: 2027-01-14
+  name: HEP-Seminar
+  type: seminar
+  link:
+  institution: TUM
+  location: Munich
+  country: DE
+  video:
+  title:
+  virtual: no
+
 - date: 2026-11-17
   name: Theorie, Univers et Gravitation
   type: conference 
@@ -5,17 +27,6 @@
   institution: ENS
   location: Lyon
   country: FR
-  video:
-  title:
-  virtual: no
-
-- date: 2026-11-05
-  name: HEP-Seminar
-  type: seminar
-  link:
-  institution: TUM
-  location: Munich
-  country: DE
   video:
   title:
   virtual: no
@@ -41,6 +52,28 @@
   video:
   title:
   virtual: yes
+
+- date: 2026-09-01
+  name: Pro(v/b)ing the Swampland
+  type: workshop
+  link: https://sites.google.com/view/pro-swampland/home
+  institution: IFT
+  location: Madrid
+  country: ES
+  video:
+  title:
+  virtual: no
+
+- date: 2026-08-16
+  name: Fudan Particle Physics Summer School 2026
+  type: lectures
+  link: https://indico.ihep.ac.cn/event/29307/timetable/
+  institution: Fudan University
+  location: Shanghai
+  country: CN
+  video:
+  title:
+  virtual: no
 
 - date: 2026-08-09
   name: 2026 International Congress of Basic Science (ICBS)

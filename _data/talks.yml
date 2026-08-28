@@ -31,6 +31,17 @@
   title:
   virtual: no
 
+- date: 2027-02-08
+  name: CERN Winter School on Supergravity, Strings and Gauge Theory 2027
+  type: lectures
+  link:
+  institution: CERN
+  location: Villars-sur-Ollon
+  country: CH
+  video:
+  title:
+  virtual: no
+
 - date: 2027-01-14
   name: HEP-Seminar
   type: seminar

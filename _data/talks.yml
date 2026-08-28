@@ -1,3 +1,14 @@
+- date: 2027-08-15
+  name: Bridging Strings, Fields, and Gravity
+  type: conference
+  link: https://www.unige.ch/math/la-une/2026/bridging-strings-fields-and-gravity-15-20-aug-ascona
+  institution: University of Geneva
+  location: Ascona
+  country: CH
+  video:
+  title:
+  virtual: no
+
 - date: 2027-06-21
   name: "All roads lead to Waveforms: GSF, PM, PN and all that"
   type: workshop
@@ -9,6 +20,17 @@
   title:
   virtual: no
 
+- date: 2027-02-15
+  name: Colloquium
+  type: colloquium
+  link:
+  institution: EPFL
+  location: Lausanne
+  country: CH
+  video:
+  title:
+  virtual: no
+
 - date: 2027-01-14
   name: HEP-Seminar
   type: seminar
@@ -16,6 +38,28 @@
   institution: TUM
   location: Munich
   country: DE
+  video:
+  title:
+  virtual: no
+
+- date: 2026-12-17
+  name: QCD Meets Gravity 2026
+  type: conference
+  link: https://indico.desy.de/event/54372/
+  institution: Humboldt University
+  location: Berlin
+  country: DE
+  video:
+  title:
+  virtual: no
+
+- date: 2026-11-20
+  name: Joint Columbia U./NYU Theory Seminar
+  type: seminar
+  link:
+  institution: Columbia University / NYU
+  location: New York, NY
+  country: US
   video:
   title:
   virtual: no
@@ -64,7 +108,7 @@
   title:
   virtual: yes
 
-- date: 2026-09-22
+- date: 2026-09-25
   name: Colloquium
   type: colloquium
   link: https://www.aei.mpg.de/460860/colloquia-in-potsdam

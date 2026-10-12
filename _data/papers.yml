@@ -1,3 +1,17 @@
+- title: "The school on gravity: from motion to commotion"
+  arxivnumber: "2610.13514"
+  arxiv_categories: [gr-qc, astro-ph.HE, hep-th]
+  authors:
+    - "Cardoso, Vitor"
+    - "Ezquiaga, Jose María"
+    - "Parra-Martinez, Julio"
+    - "Sberna, Laura"
+    - "Turiaci, Gustavo J."
+    - "van Son, Lieke"
+  preprint_date: "2026-10-09"
+  texkey: "Cardoso:2026bfr"
+  abstract: Understanding the gravitational interaction is one of the great scientific endeavors of the 21st century. The Nobel Prize-winning discovery of gravitational waves in 2015, and subsequent detections by the LIGO-Virgo-KAGRA Collaboration, have marked a revolutionary step forward in physics and astrophysics by opening an entirely new window for exploring the Universe. Future upgrades to these detectors, along with upcoming facilities such as LISA, the Einstein Telescope, and radio and optical instruments, promise other breakthrough discoveries that the next generation of scientists will need to interpret. The School on Gravity (22--26 June 2026, Copenhagen) aimed to introduce junior scientists--graduate students and advanced undergraduates with a background in general relativity--to a wide range of foundational topics in the exciting new field of gravitational-wave physics. Topics spanned from the theory of motion, to new challenges introduced by quantum physics, to the astrophysics of black holes and source modeling for gravitational-wave detectors. The School on Gravity took place at the legendary Auditorium A of the Niels Bohr Institute, inviting students and lecturers to challenge current paradigms in gravitational physics in the spirit of the quantum revolution that unfolded in this very room. These lecture notes aim at opening up those new ideas presented in Auditorium A to the rest of the scientific community.
+  number_of_pages: 101
 - title: Quantum love numbers are non-zero
   arxivnumber: "2609.25875"
   arxiv_categories: [hep-th, gr-qc]
@@ -619,7 +633,7 @@
   texkey: "Bern:2019isl"
   abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
   number_of_pages: 5
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
   arxivnumber: "1806.06072"
   arxiv_categories: [hep-th]
   doi: "10.1007/JHEP10(2018)059"

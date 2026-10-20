@@ -1,3 +1,15 @@
+- title: The anyon atlas
+  arxivnumber: "2610.25439"
+  arxiv_categories: [hep-th, cond-mat.str-el, math.QA]
+  authors:
+    - "Berean-Dutcher, Jonah"
+    - "Cordova, Clay"
+    - "Parra-Martinez, Julio"
+    - "Tuddenham, Richard"
+  preprint_date: "2026-10-18"
+  texkey: "Berean-Dutcher:2026fck"
+  abstract: "We classify possible topological quantum field theories in 2+1 dimensions with up to 22 anyons in the bosonic case and up to 26 in the fermionic case, through the modular data of modular and supermodular tensor categories. We construct such data via congruence representations of $\\mathrm{SL}(2,\\mathbb{Z})$ using a numerical optimization algorithm that scales to high rank. We chart the relations between the resulting theories, including anyon condensations and Chern-Simons realizations. We find examples of modular data that do not appear to arise from any Chern-Simons theory by any sequence of condensations of anyons or gaugings of ordinary global symmetries. These examples give qualitatively new topological quantum field theories, which go beyond any notion of gauge theory. For examples in this class with 11 and 12 anyon types, we solve the pentagon and hexagon equations explicitly, showing that these modular data are realized by full unitary topological quantum field theories. We also introduce https://www.AnyonAtlas.org, an online resource for exploring the data."
+  number_of_pages: 78
 - title: Analytical time-domain waveforms for black-hole scattering in the post-Minkowskian expansion
   arxivnumber: "2610.20452"
   arxiv_categories: [gr-qc, hep-th]
@@ -655,7 +667,7 @@
   texkey: "Bern:2019isl"
   abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
   number_of_pages: 5
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
   arxivnumber: "1806.06072"
   arxiv_categories: [hep-th]
   doi: "10.1007/JHEP10(2018)059"

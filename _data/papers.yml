@@ -101,12 +101,17 @@
 - title: Generalized unitarity method for worldline field theory
   arxivnumber: "2510.00989"
   arxiv_categories: [hep-th, gr-qc]
+  doi: "10.1007/JHEP10(2026)267"
+  journal: "JHEP"
+  journal_volume: "10"
+  journal_artid: "267"
+  publication_year: 2026
   authors:
     - "He, Vincent F."
     - "Parra-Martinez, Julio"
   preprint_date: "2025-10-01"
   texkey: "He:2025how"
-  abstract: "We present a generalized unitarity method for theories of point-particle worldlines coupled to gravity, analogous to that of scattering amplitudes in quantum field theory. This method allows the computation of perturbative observables from basic principles such as locality and unitarity, thus avoiding gauge redundancies and the use of Feynman diagrams. We illustrate the method with a variety of examples, including the gravitational waveform for the scattering of two point masses at next-to-leading order (or ${\\cal O}(G^{5/2})$), reproducing known results. Our method further streamlines the calculation of the scattering dynamics of compact binary systems and opens the door to further applications and systematical exploration of structure in this class of observables."
+  abstract: "We present a generalized unitarity method for theories of point-particle worldlines coupled to gravity, analogous to that of scattering amplitudes in quantum field theory. This method allows the computation of perturbative observables from basic principles such as locality and unitarity, thus avoiding gauge redundancies and the use of Feynman diagrams. We illustrate the method with a variety of examples, including the gravitational waveform for the scattering of two point masses at next-to-leading order $ \\left(\\mathrm{or}\\ \\mathcal{O}\\left({G}^{5/2}\\right)\\right) $, reproducing known results. Our method further streamlines the calculation of the scattering dynamics of compact binary systems and opens the door to further applications and systematic exploration of the structure in this class of observables."
   number_of_pages: 31
 - title: "GSO defects: IIA/IIB walls and the surprisingly stable R7-brane"
   arxivnumber: "2507.21210"
@@ -667,7 +672,7 @@
   texkey: "Bern:2019isl"
   abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
   number_of_pages: 5
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
   arxivnumber: "1806.06072"
   arxiv_categories: [hep-th]
   doi: "10.1007/JHEP10(2018)059"

@@ -1,3 +1,16 @@
+- title: Property f implies weak integrality for non-degenerate pivotal braided fusion categories
+  arxivnumber: "2611.12836"
+  arxiv_categories: [math.QA, cond-mat.str-el, hep-th]
+  authors:
+    - "Asher, Justin"
+    - "Berean-Dutcher, Jonah"
+    - "Cordova, Clay"
+    - "Parra-Martinez, Julio"
+    - "Tuddenham, Richard"
+  preprint_date: "2026-11-09"
+  texkey: "Asher:2026bvo"
+  abstract: "We prove that every non-degenerate pivotal braided fusion category with property F is pseudo-unitary and weakly integral. In particular, every modular category with property F is weakly integral. Neither sphericality nor pseudo-unitarity is assumed. Passing to the Drinfeld centre extends the result to degenerate categories whose dimensions are positive on the intersection of the Müger centre with the adjoint subcategory; these include every braided fusion category with a pseudo-unitary Galois conjugate. Physically, the result connects the arithmetic of topological orders to the computational power of anyon braiding: non-integer squared total quantum dimension guarantees infinite braid group images, a necessary condition for universal quantum computation."
+  number_of_pages: 11
 - title: The anyon atlas
   arxivnumber: "2610.25439"
   arxiv_categories: [hep-th, cond-mat.str-el, math.QA]

@@ -64,38 +64,38 @@
   title:
   virtual: no
 
-- date: 2026-11-20
-  name: Joint Columbia U./NYU Theory Seminar
-  type: seminar
-  link:
-  institution: Columbia University / NYU
-  location: New York, NY
-  country: US
-  video:
-  title:
-  virtual: no
+# - date: 2026-11-20
+#   name: Joint Columbia U./NYU Theory Seminar
+#   type: seminar
+#   link:
+#   institution: Columbia University / NYU
+#   location: New York, NY
+#   country: US
+#   video:
+#   title:
+#   virtual: no
 
-- date: 2026-11-17
-  name: Theorie, Univers et Gravitation
-  type: conference 
-  link: https://indico.in2p3.fr/event/38354/
-  institution: ENS
-  location: Lyon
-  country: FR
-  video:
-  title:
-  virtual: no
+# - date: 2026-11-17
+#   name: Theorie, Univers et Gravitation
+#   type: conference 
+#   link: https://indico.in2p3.fr/event/38354/
+#   institution: ENS
+#   location: Lyon
+#   country: FR
+#   video:
+#   title:
+#   virtual: no
 
-- date: 2026-11-16
-  name: Nuclear & Particle Theory Seminar
-  type: seminar
-  link: https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/nuclear-and-particle-theory-seminar/
-  institution: MIT Center for Theoretical Physics
-  location: Cambridge, MA
-  country: US
-  video:
-  title:
-  virtual: no
+# - date: 2026-11-16
+#   name: Nuclear & Particle Theory Seminar
+#   type: seminar
+#   link: https://physics.mit.edu/research/labs-centers/mit-center-for-theoretical-physics-leinweber-institute/nuclear-and-particle-theory-seminar/
+#   institution: MIT Center for Theoretical Physics
+#   location: Cambridge, MA
+#   country: US
+#   video:
+#   title:
+#   virtual: no
 
 - date: 2026-11-04
   name: DESY/UHH String Theory Seminar

@@ -1,3 +1,16 @@
+- title: Gravitational memory correlators and BMS symmetry
+  arxivnumber: "2611.18827"
+  arxiv_categories: [hep-th, gr-qc]
+  authors:
+    - "Herrmann, Enrico"
+    - "Moult, Ian"
+    - "Oertel, Brett"
+    - "Parra-Martinez, Julio"
+    - "Sahoo, Biswajit"
+  preprint_date: "2026-11-13"
+  texkey: "Herrmann:2026kue"
+  abstract: We compute the n-point memory and mixed energy-memory correlators for scalar decay into gravitons using the in-in formalism at leading order in perturbative quantum gravity. We obtain compact results for arbitrary n and explicitly verify the supertranslation flux balance relation between memory, energy, and Bondi mass detectors, realizing asymptotic symmetry constraints on infrared-finite observables.
+  number_of_pages: 5
 - title: Property f implies weak integrality for non-degenerate pivotal braided fusion categories
   arxivnumber: "2611.12836"
   arxiv_categories: [math.QA, cond-mat.str-el, hep-th]
@@ -685,7 +698,7 @@
   texkey: "Bern:2019isl"
   abstract: We compute the anomalous two-loop four-point amplitudes in N=4 pure supergravity, using unitarity and the double-copy construction. We also present all terms determined by four-dimensional cuts in two all-multiplicity two-loop anomalous superamplitudes. This result provides the first two-loop n-point gravity amplitude, up to a class of undetermined rational terms, which are absent at four points. We show that a recently proposed finite counterterm cancels these amplitudes to this order. We argue that the counterterm does not spoil the three-loop finiteness of anomalous amplitudes in the N=4 theory.
   number_of_pages: 5
-- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) sYM"
+- title: "Bootstrapping two-loop Feynman integrals for planar \\({\\cal N}=4\\) SYM"
   arxivnumber: "1806.06072"
   arxiv_categories: [hep-th]
   doi: "10.1007/JHEP10(2018)059"
